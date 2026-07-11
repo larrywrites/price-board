@@ -6,10 +6,10 @@
 <title>The Price Board — in-season produce deals</title>
 <meta name="description" content="What's in peak season in Australia right now, ranked cheapest first across Harris Farm, Panetta Mercato and Woolworths.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Archivo+Black&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kirang+Haerang&family=Cabin:wght@400;600;700&family=Cabin+Sketch:wght@400;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --green-deep: #16301E;
+    --green-deep: #439000;
     --green-board: #1D3B26;
     --cream: #F4EDDD;
     --ink: #1A241C;
@@ -27,21 +27,23 @@
     background: var(--green-deep);
     background-image: radial-gradient(ellipse 90% 60% at 50% -10%, rgba(255,255,255,.05), transparent);
     color: var(--chalk);
-    font-family: "Archivo", system-ui, sans-serif;
+    font-family: "Cabin", system-ui, sans-serif;
     min-height: 100vh;
   }
   .wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px 80px; }
 
   header { padding: 44px 0 8px; }
-  .eyebrow { font-size: 12px; letter-spacing: .22em; text-transform: uppercase; color: var(--chalk-dim); margin-bottom: 10px; }
   h1 {
-    font-family: "Archivo Black", sans-serif;
+    font-family: "Kirang Haerang", cursive;
     font-size: clamp(38px, 6.4vw, 74px);
     line-height: .95; letter-spacing: -.01em;
     text-transform: uppercase; color: var(--chalk);
   }
   h1 .mo { color: var(--fluoro); }
-  .sub { margin-top: 12px; color: var(--chalk-dim); font-size: 15px; max-width: 62ch; }
+  .sub { margin-top: 12px; color: var(--chalk); font-size: 15px; line-height: 1.6; max-width: 62ch; }
+  .sub strong { font-weight: 700; }
+  .sub-mid { font-weight: 600; }
+  .sub-fine { font-size: 10px; font-weight: 400; opacity: .85; }
 
   .controls {
     display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
@@ -62,12 +64,12 @@
 
   .season-strip { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 30px; }
   .season-strip span {
-    font-size: 12.5px; letter-spacing: .04em; text-transform: uppercase;
+    font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase;
     border: 1px dashed rgba(239,233,216,.4); border-radius: 999px;
     padding: 5px 12px; color: var(--chalk-dim);
   }
 
-  .grid { display: grid; gap: 18px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  .grid { display: grid; gap: 50px 60px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
   .card {
     background: var(--cream); color: var(--ink);
     border-radius: 10px; padding: 20px 18px 16px;
@@ -75,8 +77,8 @@
     box-shadow: 0 2px 0 rgba(0,0,0,.35);
   }
   .card h2 {
-    font-family: "Archivo Black", sans-serif; text-transform: uppercase;
-    font-size: 21px; letter-spacing: .01em; line-height: 1.05; max-width: 60%;
+    font-family: "Kirang Haerang", cursive; text-transform: uppercase;
+    font-size: 28px; letter-spacing: .05em; line-height: 1.05; max-width: 60%;
   }
   .card .count { font-size: 12px; color: #6d6a5d; margin-top: 4px; }
 
@@ -89,8 +91,8 @@
     box-shadow: 0 3px 8px rgba(0,0,0,.3);
   }
   .card:nth-child(even) .ticket { transform: rotate(-2.5deg); background: var(--fluoro-hot); color: #fff; }
-  .ticket .amt { font-family: "Archivo Black", sans-serif; font-size: 26px; line-height: 1; }
-  .ticket .per { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; }
+  .ticket .amt { font-family: "Kirang Haerang", cursive; font-size: 26px; line-height: 1; }
+  .ticket .per { font-family: "Cabin Sketch", cursive; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; }
   .ticket .at { font-size: 11px; font-weight: 600; margin-top: 3px; }
 
   .listings { list-style: none; padding: 0; margin: 18px 0 0; }
@@ -119,7 +121,7 @@
   .loading { grid-column: 1 / -1; text-align: center; padding: 70px 0; color: var(--chalk-dim); }
   .loading .ticket-spin {
     display: inline-block; background: var(--fluoro); color: var(--ink);
-    font-family: "Archivo Black", sans-serif; padding: 12px 18px;
+    font-family: "Kirang Haerang", cursive; padding: 12px 18px;
     clip-path: polygon(0 6%, 4% 0, 96% 2%, 100% 10%, 98% 94%, 94% 100%, 5% 98%, 0 90%);
     animation: wobble 1.1s ease-in-out infinite; margin-bottom: 14px;
   }
@@ -137,34 +139,34 @@
   .pair-pop {
     display: none;
     position: absolute; top: calc(100% + 8px); left: 8px; right: 8px;
-    background: var(--ink); color: var(--chalk);
+    background: var(--fluoro); color: var(--ink);
     border-radius: 8px; padding: 14px 14px 12px;
     box-shadow: 0 10px 26px rgba(0,0,0,.45);
     z-index: 30; font-size: 13.5px;
   }
   .pair-pop::before {
     content: ""; position: absolute; top: -6px; left: 28px;
-    border: 6px solid transparent; border-bottom-color: var(--ink); border-top: none;
+    border: 6px solid transparent; border-bottom-color: var(--fluoro); border-top: none;
   }
   .card.show-pop { z-index: 31; }
   .card.show-pop .pair-pop { display: block; }
   .pair-pop h3 {
-    font-family: "Archivo Black", sans-serif; text-transform: uppercase;
-    font-size: 11.5px; letter-spacing: .12em; color: var(--fluoro); margin: 0 0 8px;
+    font-family: "Cabin Sketch", cursive; font-weight: 700; text-transform: uppercase;
+    font-size: 11.5px; letter-spacing: .12em; color: var(--ink); margin: 0 0 8px;
   }
   .pair-pop h3 + h3 { margin-top: 12px; }
   .pair-chips { display: flex; flex-wrap: wrap; gap: 6px; }
   .pair-chips button {
-    font: inherit; font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
-    background: transparent; color: var(--chalk);
-    border: 1px dashed rgba(239,233,216,.5); border-radius: 999px;
+    font-family: "Cabin Sketch", cursive; font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
+    background: transparent; color: var(--ink);
+    border: 1px dashed rgba(26,36,28,.5); border-radius: 999px;
     padding: 3px 10px; cursor: pointer;
   }
-  .pair-chips button:hover { border-color: var(--fluoro); color: var(--fluoro); }
+  .pair-chips button:hover { border-color: var(--ink); background: rgba(26,36,28,.08); }
   .pair-chips button:focus-visible { outline: 2px solid var(--fluoro); outline-offset: 2px; }
   .pair-chips .off-season { opacity: .45; cursor: default; }
   .recipes { list-style: none; padding: 0; margin: 0; }
-  .recipes li { padding: 4px 0 4px 16px; position: relative; line-height: 1.4; color: rgba(239,233,216,.9); }
+  .recipes li { font-family: "Cabin Sketch", cursive; font-weight: 700; font-size: 13.5px; padding: 4px 0 4px 16px; position: relative; line-height: 1.4; color: var(--ink); }
   .recipes li::before { content: "▸"; position: absolute; left: 0; color: var(--fluoro-hot); }
   .card.flash { outline: 3px solid var(--fluoro); outline-offset: 3px; transition: outline-color .3s; }
   @media (hover: hover) { .card { cursor: default; } }
@@ -175,9 +177,10 @@
 <body>
 <div class="wrap">
   <header>
-    <p class="eyebrow">Harris Farm · Panetta Mercato · Woolworths · Coles</p>
     <h1>The Price Board<br><span class="mo" id="monthName">—</span></h1>
-    <p class="sub">What's in peak season right now, ranked cheapest first. Prices normalised to $/kg where the pack size is known. Hover or tap any item for what it pairs with and how the world cooks it. Updated once a day.</p>
+    <p class="sub"><strong>Up to date price searches on seasonal fruit and veg.</strong><br>
+    <span class="sub-mid">Hover or tap any item for what it pairs with and how the world cooks it. Updated once a day.</span><br>
+    <span class="sub-fine">Prices normalised to $/kg where the pack size is known.</span></p>
   </header>
 
   <div class="controls" role="group" aria-label="Filters">
