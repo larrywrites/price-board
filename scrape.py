@@ -163,6 +163,73 @@ def fetch_woolworths(terms):
     return results
 
 
+def fetch_woocommerce(domain, retailer, max_pages=30):
+    """WooCommerce Store API — the public product feed for WordPress shops.
+    Panetta Mercato runs WooCommerce, not Shopify (its /product-category/
+    URLs are the giveaway), so it needs this fetcher instead.
+
+    Prices arrive in minor units, e.g. {"price": "450", "currency_minor_unit": 2}
+    means $4.50. Categories are matched against Panetta's real produce
+    category names."""
+    results = []
+    produce_cats = (
+        "fruit", "vegetable", "veg", "produce", "berries", "citrus", "grapes",
+        "melons", "stone fruit", "banana", "apples", "pears", "brassicas",
+        "beans & peas", "capsicums", "chillies", "hard vegetables", "lettuce",
+        "mushrooms", "tomatoes", "cucumbers", "asian vegetables", "herbs fresh",
+    )
+    for page in range(1, max_pages + 1):
+        url = (f"https://{domain}/wp-json/wc/store/v1/products"
+               f"?per_page=100&page={page}")
+        try:
+            products = http_json(url)
+        except Exception as exc:
+            print(f"  [{retailer}] page {page} failed: {exc}")
+            break
+        if not isinstance(products, list) or not products:
+            break
+        page_sig = products[0].get("name"), len(products)
+        if page == 1:
+            prev_sig = page_sig
+        elif page_sig == prev_sig:
+            print(f"  [{retailer}] page {page} identical to previous — "
+                  "server ignoring pagination, stopping")
+            break
+        else:
+            prev_sig = page_sig
+        for p in products:
+            cats = " ".join(
+                (c.get("name") or "").lower()
+                for c in (p.get("categories") or [])
+            )
+            if not any(k in cats for k in produce_cats):
+                continue
+            if p.get("is_in_stock") is False:
+                continue
+            prices = p.get("prices") or {}
+            raw = prices.get("price")
+            if not raw:
+                continue
+            try:
+                minor = int(prices.get("currency_minor_unit", 2))
+                price = round(int(raw) / (10 ** minor), 2)
+            except (TypeError, ValueError):
+                continue
+            if price <= 0:
+                continue
+            name = re.sub(r"<[^>]+>", "", p.get("name") or "").strip()
+            if not name:
+                continue
+            results.append({
+                "retailer": retailer, "name": name, "price": price,
+                "price_per_kg": price_per_kg(name, price),
+                "url": p.get("permalink") or "",
+            })
+        time.sleep(0.6)
+    print(f"  [{retailer}] {len(results)} produce items")
+    return results
+
+
 def fetch_coles(terms):
     """Coles' internal Next.js search API. The most aggressively
     bot-protected of the lot (Imperva) — expect frequent failures from
@@ -298,7 +365,7 @@ def main():
     else:
         products = []
         products += fetch_shopify("www.harrisfarm.com.au", "Harris Farm")
-        products += fetch_shopify("panettamercato.com.au", "Panetta Mercato")
+        products += fetch_woocommerce("panettamercato.com.au", "Panetta Mercato")
         products += fetch_woolworths(SEARCH_TERMS)
         products += fetch_coles(SEARCH_TERMS)
         note = "live"
