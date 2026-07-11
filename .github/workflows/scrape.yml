@@ -1,0 +1,31 @@
+name: Scrape prices
+
+on:
+  schedule:
+    # 21:00 UTC = 7am Sydney (AEST). GitHub cron runs in UTC.
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}   # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch prices
+        run: python scrape.py
+
+      - name: Commit updated prices
+        run: |
+          git config user.name "price-board-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/deals.json
+          git diff --cached --quiet || git commit -m "Price update $(date -u +%Y-%m-%d)"
+          git push
