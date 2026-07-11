@@ -21,6 +21,16 @@ from datetime import datetime, timezone, timedelta
 from http.cookiejar import CookieJar
 from pathlib import Path
 
+# curl_cffi impersonates a real Chrome TLS fingerprint — the main thing
+# (beyond IP reputation) that Akamai/Imperva bot protection checks.
+# The GitHub Actions workflow installs it; everything still works
+# without it via plain urllib, just with worse odds at the supermarkets.
+try:
+    from curl_cffi import requests as cffi
+    HAVE_CFFI = True
+except ImportError:
+    HAVE_CFFI = False
+
 OUT = Path(__file__).parent / "docs" / "deals.json"
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -51,7 +61,8 @@ FRESH_EXCLUDE = re.compile(
     r"candied|glac|coulis|syrup|nectar|coconut water|coconut milk|vinegar|"
     r"crumbed|battered|ready|meal\b|kit\b|salad kit|slaw|stir.?fry mix|"
     r"smoothie|snack|bar\b|powder|kimchi|sauerkraut|fermented|noodle|"
-    r"wrap\b|sushi|plant\b|seedling|flowers|bouquet|hamper|box\b|platter",
+    r"wrap\b|sushi|plant\b|seedling|flowers|bouquet|hamper|box\b|platter|"
+    r"bread|cake|muffin|loaf|pancake|waffle|doughnut|donut|scone|brownie|cookie|biscuit|pudding|custard\b|yoghurt|yogurt|gelato|sorbet|ice.?cream|chocolate|choc\b|lolly|lollies|candy|fritter|pastry|pie\b|crumble|danish|croissant",
     re.I)
 
 KG_PATTERNS = [
@@ -72,7 +83,37 @@ def price_per_kg(name, price):
     return None
 
 
-def http_json(url, payload=None, opener=None, headers=None, timeout=25):
+def new_session():
+    """Cookie-carrying session: Chrome-impersonating when curl_cffi is
+    installed, plain urllib otherwise."""
+    if HAVE_CFFI:
+        return cffi.Session(impersonate="chrome")
+    jar = CookieJar()
+    return urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+
+
+def http_text(session, url, headers=None, timeout=25):
+    """GET a page as text (used for the Coles homepage / build ID)."""
+    if HAVE_CFFI and isinstance(session, cffi.Session):
+        r = session.get(url, headers=headers or {}, timeout=timeout)
+        r.raise_for_status()
+        return r.text
+    req = urllib.request.Request(url, headers={"User-Agent": UA, **(headers or {})})
+    with session.open(req, timeout=timeout) as resp:
+        return resp.read().decode("utf-8", "ignore")
+
+
+def http_json(url, payload=None, session=None, headers=None, timeout=25):
+    if HAVE_CFFI and (session is None or isinstance(session, cffi.Session)):
+        s = session or cffi.Session(impersonate="chrome")
+        if payload is not None:
+            r = s.post(url, json=payload, headers=headers or {}, timeout=timeout)
+        else:
+            r = s.get(url, headers={"Accept": "application/json", **(headers or {})},
+                      timeout=timeout)
+        if r.status_code >= 400:
+            raise RuntimeError(f"HTTP {r.status_code}")
+        return r.json()
     req = urllib.request.Request(url)
     req.add_header("User-Agent", UA)
     req.add_header("Accept", "application/json")
@@ -83,7 +124,7 @@ def http_json(url, payload=None, opener=None, headers=None, timeout=25):
     if payload is not None:
         data = json.dumps(payload).encode()
         req.add_header("Content-Type", "application/json")
-    op = opener or urllib.request.build_opener()
+    op = session or urllib.request.build_opener()
     with op.open(req, data=data, timeout=timeout) as resp:
         raw = resp.read()
         if resp.headers.get("Content-Encoding") == "gzip":
@@ -131,25 +172,28 @@ def fetch_shopify(domain, retailer, max_pages=20):
 
 def fetch_woolworths(terms):
     results = []
-    jar = CookieJar()
-    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
-    try:
-        req = urllib.request.Request("https://www.woolworths.com.au/",
-                                     headers={"User-Agent": UA})
-        opener.open(req, timeout=20).read(1024)
-    except Exception:
-        pass
+    session = new_session()
+    try:  # warm-up visit to collect cookies
+        http_text(session, "https://www.woolworths.com.au/")
+    except Exception as exc:
+        print(f"  [Woolworths] warm-up failed ({exc}) — continuing anyway")
+    failures = 0
     for term in terms:
         try:
             data = http_json(
                 "https://www.woolworths.com.au/apis/ui/Search/products",
                 payload={"SearchTerm": term, "PageSize": 24, "PageNumber": 1,
                          "SortType": "PriceAsc", "Filters": []},
-                opener=opener,
+                session=session,
                 headers={"Origin": "https://www.woolworths.com.au",
                          "Referer": "https://www.woolworths.com.au/shop/browse/fruit-veg"})
         except Exception as exc:
+            failures += 1
             print(f"  [Woolworths] '{term}' failed: {exc}")
+            if failures >= 5 and not results:
+                print("  [Woolworths] first 5 queries all blocked — "
+                      "bot protection is rejecting this IP, skipping the rest")
+                break
             time.sleep(1.2)
             continue
         for group in data.get("Products", []):
@@ -247,17 +291,14 @@ def fetch_coles(terms):
     bot-protected of the lot (Imperva) — expect frequent failures from
     datacentre IPs. Degrades gracefully."""
     results = []
-    jar = CookieJar()
-    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+    session = new_session()
 
     # The API path includes a build ID that changes with each site deploy,
     # so pull it from the homepage first.
     build_id = None
     try:
-        req = urllib.request.Request("https://www.coles.com.au/",
-                                     headers={"User-Agent": UA,
-                                              "Accept": "text/html"})
-        html = opener.open(req, timeout=25).read().decode("utf-8", "ignore")
+        html = http_text(session, "https://www.coles.com.au/",
+                         headers={"Accept": "text/html"})
         m = re.search(r'"buildId"\s*:\s*"([^"]+)"', html)
         if m:
             build_id = m.group(1)
@@ -272,7 +313,7 @@ def fetch_coles(terms):
         url = (f"https://www.coles.com.au/_next/data/{build_id}"
                f"/en/search.json?q={quote(term)}")
         try:
-            data = http_json(url, opener=opener,
+            data = http_json(url, session=session,
                              headers={"Referer": "https://www.coles.com.au/"})
         except Exception as exc:
             print(f"  [Coles] '{term}' failed: {exc}")
@@ -375,6 +416,9 @@ def main():
                     for r, n, p in DEMO]
         note = "sample data"
     else:
+        mode = "Chrome TLS impersonation (curl_cffi)" if HAVE_CFFI else \
+               "plain urllib — install curl_cffi for better supermarket odds"
+        print(f"Network mode: {mode}")
         products = []
         products += fetch_shopify("www.harrisfarm.com.au", "Harris Farm")
         products += fetch_woocommerce("panettamercato.com.au", "Panetta Mercato")
