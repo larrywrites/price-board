@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Price Board — in-season produce deals</title>
+<title>What's Growing Good? — in-season produce deals</title>
 <meta name="description" content="What's in peak season in Australia right now, ranked cheapest first across Harris Farm, Panetta Mercato and Woolworths.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Kirang+Haerang&family=Cabin:wght@400;600;700&family=Cabin+Sketch:wght@400;700&display=swap" rel="stylesheet">
@@ -80,7 +80,6 @@
     font-family: "Kirang Haerang", cursive; text-transform: uppercase;
     font-size: 28px; letter-spacing: .05em; line-height: 1.05; max-width: 60%;
   }
-  .card .count { font-size: 12px; color: #6d6a5d; margin-top: 4px; }
 
   .ticket {
     position: absolute; top: -12px; right: 12px;
@@ -101,16 +100,20 @@
     padding: 7px 0; border-top: 1px solid #d9d0ba; font-size: 14px;
   }
   .listings li:first-child { border-top: none; }
-  .r-tag {
-    font-size: 10.5px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase;
-    color: #fff; border-radius: 4px; padding: 2px 6px; flex-shrink: 0;
+  .r-badge {
+    width: 22px; height: 22px; border-radius: 50%; flex-shrink: 0;
+    display: inline-flex; align-items: center; justify-content: center;
+    color: #fff; font-weight: 700; font-size: 9.5px; letter-spacing: .02em;
   }
   .r-hf { background: var(--hf); } .r-pm { background: var(--pm); } .r-ww { background: var(--ww); } .r-co { background: var(--co); }
-  .p-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #3a4238; }
-  .p-price { font-weight: 600; white-space: nowrap; }
-  .p-kg { font-size: 12px; color: #6d6a5d; white-space: nowrap; }
+  .legend { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; font-size: 12.5px; color: var(--chalk); margin: 8px 2px 0; }
+  .legend span.lbl { display: inline-flex; align-items: center; gap: 6px; }
+  .p-unit { flex: 1; min-width: 0; color: #3a4238; text-transform: lowercase; }
+  .p-price { font-weight: 700; white-space: nowrap; }
+  .p-price .per { font-weight: 400; font-size: 12px; color: #6d6a5d; }
+  .p-pack { font-size: 12px; color: #6d6a5d; white-space: nowrap; }
   .flag {
-    font-size: 10.5px; font-weight: 700; text-transform: uppercase;
+    font-size: 11px; font-weight: 700;
     background: var(--ink); color: var(--fluoro); border-radius: 4px; padding: 2px 6px; white-space: nowrap;
   }
   .empty, .error {
@@ -177,7 +180,7 @@
 <body>
 <div class="wrap">
   <header>
-    <h1>The Price Board<br><span class="mo" id="monthName">—</span></h1>
+    <h1>What’s Growing Good<br>in <span class="mo"><span id="monthName">—</span>?</span></h1>
     <p class="sub"><strong>Up to date price searches on seasonal fruit and veg.</strong><br>
     <span class="sub-mid">Hover or tap any item for what it pairs with and how the world cooks it. Updated once a day.</span><br>
     <span class="sub-fine">Prices normalised to $/kg where the pack size is known.</span></p>
@@ -194,6 +197,12 @@
     <input type="search" id="search" placeholder="Search produce…" aria-label="Search produce">
   </div>
   <p class="status" id="status"></p>
+  <p class="legend" aria-label="Retailer key">
+    <span class="lbl"><span class="r-badge r-hf">HF</span>Harris Farm</span>
+    <span class="lbl"><span class="r-badge r-pm">P</span>Panetta Mercato</span>
+    <span class="lbl"><span class="r-badge r-ww">W</span>Woolworths</span>
+    <span class="lbl"><span class="r-badge r-co">C</span>Coles</span>
+  </p>
 
   <div class="season-strip" id="seasonStrip" aria-label="In season now"></div>
 
@@ -214,10 +223,21 @@ const PAIRINGS = {"apple":{"p":["fennel","cabbage","celery","parsnip","beetroot"
 
 const SEASONALITY = [["apple",["pink lady","granny smith","royal gala","fuji","jazz apple","kanzi","bravo"],[3,4,5,6,7,8]],["pear",["packham","beurre bosc","corella","nashi"],[3,4,5,6,7,8]],["orange",["navel orange","navel"],[6,7,8,9]],["blood orange",[],[8,9,10]],["mandarin",["imperial mandarin","afourer","honey murcott"],[5,6,7,8]],["lemon",["eureka lemon","meyer lemon"],[5,6,7,8,9]],["grapefruit",["ruby grapefruit"],[6,7,8,9]],["kiwifruit",["kiwi fruit","kiwi"],[4,5,6,7,8]],["blackberry",["blackberries"],[6,7,12,1,2]],["papaya",["pawpaw","papaw"],[6,7,8,9,10]],["banana",["cavendish","lady finger"],[1,2,3,4,5,6,7,8,9,10,11,12]],["strawberry",["strawberries"],[8,9,10,11]],["mango",["kensington pride","calypso","honey gold"],[11,12,1,2]],["avocado",["hass avocado","shepard avocado","hass","shepard"],[1,2,3,4,5,6,7,8,9,10,11,12]],["brussels sprout",["brussels sprouts","brussel sprouts"],[5,6,7,8]],["wombok",["chinese cabbage","napa cabbage"],[5,6,7,8]],["cabbage",["savoy cabbage","red cabbage","green cabbage"],[5,6,7,8,9]],["broccoli",[],[5,6,7,8,9]],["broccolini",[],[5,6,7,8,9]],["cauliflower",[],[5,6,7,8,9]],["carrot",["dutch carrot","carrots"],[1,2,3,4,5,6,7,8,9,10,11,12]],["celery",[],[5,6,7,8,9]],["pumpkin",["butternut","kent pumpkin","jap pumpkin"],[3,4,5,6,7,8]],["sweet potato",["kumara","gold sweet potato"],[1,2,3,4,5,6,7,8,9,10,11,12]],["potato",["brushed potato","washed potato","desiree","sebago","dutch cream","kipfler"],[1,2,3,4,5,6,7,8,9,10,11,12]],["silverbeet",["swiss chard","rainbow chard"],[5,6,7,8,9]],["kale",["tuscan kale","cavolo nero","curly kale"],[5,6,7,8,9]],["leek",["leeks"],[5,6,7,8,9]],["fennel",[],[5,6,7,8,9]],["parsnip",["parsnips"],[5,6,7,8]],["beetroot",["baby beets"],[1,2,3,4,5,6,7,8,9,10,11,12]],["zucchini",["courgette"],[6,7,11,12,1,2]],["capsicum",["red capsicum","green capsicum","yellow capsicum"],[6,7,11,12,1,2,3]],["tomato",["truss tomato","roma tomato","gourmet tomato","cherry tomato"],[6,7,11,12,1,2,3]],["spinach",["baby spinach","english spinach"],[4,5,9,10]],["mushroom",["button mushroom","cup mushroom","swiss brown","portobello"],[1,2,3,4,5,6,7,8,9,10,11,12]],["onion",["brown onion","red onion","spanish onion"],[1,2,3,4,5,6,7,8,9,10,11,12]],["spring onion",["shallots bunch","green onion"],[9,10,11,12]],["corn",["sweet corn","sweetcorn","corn cob"],[11,12,1,2,3]],["cucumber",["lebanese cucumber","continental cucumber","qukes"],[11,12,1,2,3]],["eggplant",["aubergine"],[12,1,2,3,4]],["asparagus",[],[9,10,11,12]],["green bean",["green beans","beans"],[11,12,1,2,3,4]],["pea",["snow peas","sugar snap","peas in pod"],[8,9,10,11]],["watermelon",["seedless watermelon"],[11,12,1,2,3]],["rockmelon",["cantaloupe"],[11,12,1,2,3]],["pineapple",[],[11,12,1,2,3]],["grape",["grapes","thompson seedless","crimson seedless"],[1,2,3,4]],["peach",["white peach","yellow peach"],[11,12,1,2]],["nectarine",[],[11,12,1,2]],["plum",["blood plum"],[12,1,2,3]],["cherry",["cherries"],[11,12,1]],["blueberry",["blueberries"],[7,8,9,10,11,12,1]],["raspberry",["raspberries"],[11,12,1,2]],["lime",["tahitian lime"],[1,2,3,4,5]],["rhubarb",[],[1,2,3,4,5,6,7,8,9,10,11,12]],["turnip",["swede"],[5,6,7,8]],["radish",["daikon"],[1,2,3,4,5,6,7,8,9,10,11,12]],["bok choy",["pak choy","buk choy","choy sum"],[1,2,3,4,5,6,7,8,9,10,11,12]],["ginger",[],[3,4,5,6,7,8]],["garlic",["australian garlic"],[11,12,1,2,3]]];
 
-const EXCLUDE = /juice|dried|frozen|chips|soup|puree|sauce|jam|canned|tinned|roasted|pickled|salad kit|slaw|stir.?fry mix|smoothie|snack|bar\b|powder/i;
+const EXCLUDE = /juice|dried|frozen|chips|soup|puree|passata|paste|sauce|jam\b|canned|tinned|roasted|pickled|marinated|antipast|olive|brine|jar\b|jarred|bottle|stock|broth|dip\b|hummus|pesto|salsa|relish|chutney|preserved|candied|glac|coulis|syrup|nectar|coconut water|coconut milk|vinegar|crumbed|battered|ready|meal\b|kit\b|salad kit|slaw|stir.?fry mix|smoothie|snack|bar\b|powder|kimchi|sauerkraut|fermented|noodle|wrap\b|sushi|plant\b|seedling|flowers|bouquet|hamper|box\b|platter/i;
 const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
 const R_CLASS = { "Harris Farm": "r-hf", "Panetta Mercato": "r-pm", "Woolworths": "r-ww", "Coles": "r-co" };
 const R_SHORT = { "Harris Farm": "Harris Farm", "Panetta Mercato": "Panetta", "Woolworths": "Woolies", "Coles": "Coles" };
+const R_INITIAL = { "Harris Farm": "HF", "Panetta Mercato": "P", "Woolworths": "W", "Coles": "C" };
+
+function unitLabel(name) {
+  const n = name.toLowerCase();
+  const m = n.match(/(\d+(?:\.\d+)?)\s*(kg|g)\b/);
+  if (m) return m[1] + m[2];
+  if (/per\s*kg|p\/?kg|\(kg\)|\bkg\b/.test(n)) return "per kg";
+  for (const w of ["bunch", "punnet", "half", "whole", "tray", "bag", "pack", "loose", "each"])
+    if (n.includes(w)) return w;
+  return "";
+}
 const RETAILERS = ["Harris Farm", "Panetta Mercato", "Woolworths", "Coles"];
 const R_ID = { "Harris Farm": "ck-hf", "Panetta Mercato": "ck-pm", "Woolworths": "ck-ww", "Coles": "ck-co" };
 const $ = id => document.getElementById(id);
@@ -315,14 +335,22 @@ function cardHtml({ item, listings }) {
     ? { amt: "$" + best.price_per_kg.toFixed(2), per: "per kg" }
     : { amt: "$" + best.price.toFixed(2), per: "each / unit" };
   const rows = listings.slice(0, 5).map(x => {
-    const kg = x.price_per_kg ? `<span class="p-kg">$${x.price_per_kg.toFixed(2)}/kg</span>` : "";
+    const unit = unitLabel(x.name);
+    let primary, pack;
+    if (x.price_per_kg) {
+      primary = `$${x.price_per_kg.toFixed(2)}<span class="per">/kg</span>`;
+      pack = unit && unit !== "per kg" ? `<span class="p-pack">$${x.price.toFixed(2)} · ${escapeHtml(unit)}</span>` : "";
+    } else {
+      primary = `$${x.price.toFixed(2)}`;
+      pack = unit ? `<span class="p-pack">${escapeHtml(unit)}</span>` : "";
+    }
     const flag = (x.vs_median_pct != null && x.vs_median_pct < -10)
-      ? `<span class="flag">${Math.abs(x.vs_median_pct)}% below median</span>` : "";
-    const name = x.url
-      ? `<a class="p-name" href="${escapeHtml(x.url)}" target="_blank" rel="noopener" style="color:inherit">${escapeHtml(x.name)}</a>`
-      : `<span class="p-name">${escapeHtml(x.name)}</span>`;
-    return `<li><span class="r-tag ${R_CLASS[x.retailer] || "r-ww"}">${R_SHORT[x.retailer] || escapeHtml(x.retailer)}</span>
-      ${name}<span class="p-price">$${x.price.toFixed(2)}</span>${kg}${flag}</li>`;
+      ? `<span class="flag">\u25BC${Math.abs(x.vs_median_pct)}%</span>` : "";
+    const badge = `<span class="r-badge ${R_CLASS[x.retailer] || "r-ww"}" title="${escapeHtml(x.retailer)}" aria-label="${escapeHtml(x.retailer)}">${R_INITIAL[x.retailer] || "?"}</span>`;
+    const unitCell = x.url
+      ? `<a class="p-unit" href="${escapeHtml(x.url)}" target="_blank" rel="noopener" style="color:inherit">${pack || "&nbsp;"}</a>`
+      : `<span class="p-unit">${pack || ""}</span>`;
+    return `<li>${badge}${unitCell}${flag}<span class="p-price">${primary}</span></li>`;
   }).join("");
   return `<article class="card" data-item="${escapeHtml(item)}">
     <div class="ticket" aria-label="Best price">
@@ -331,7 +359,6 @@ function cardHtml({ item, listings }) {
       <div class="at">@ ${R_SHORT[best.retailer] || escapeHtml(best.retailer)}</div>
     </div>
     <h2>${escapeHtml(item)}</h2>
-    <p class="count">${listings.length} listing${listings.length === 1 ? "" : "s"}</p>
     <ul class="listings">${rows}</ul>
     ${popHtml(item)}
   </article>`;
