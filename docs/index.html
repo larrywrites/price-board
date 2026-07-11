@@ -20,6 +20,7 @@
     --hf: #2E7D4F;
     --pm: #B03A2E;
     --ww: #2C6E49;
+    --co: #C8102E;
   }
   * { box-sizing: border-box; margin: 0; }
   body {
@@ -102,7 +103,7 @@
     font-size: 10.5px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase;
     color: #fff; border-radius: 4px; padding: 2px 6px; flex-shrink: 0;
   }
-  .r-hf { background: var(--hf); } .r-pm { background: var(--pm); } .r-ww { background: var(--ww); }
+  .r-hf { background: var(--hf); } .r-pm { background: var(--pm); } .r-ww { background: var(--ww); } .r-co { background: var(--co); }
   .p-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #3a4238; }
   .p-price { font-weight: 600; white-space: nowrap; }
   .p-kg { font-size: 12px; color: #6d6a5d; white-space: nowrap; }
@@ -132,15 +133,51 @@
     .card h2 { max-width: 55%; font-size: 18px; }
     .ticket { min-width: 96px; }
   }
+  /* pairing popover — chalkboard specials note */
+  .pair-pop {
+    display: none;
+    position: absolute; top: calc(100% + 8px); left: 8px; right: 8px;
+    background: var(--ink); color: var(--chalk);
+    border-radius: 8px; padding: 14px 14px 12px;
+    box-shadow: 0 10px 26px rgba(0,0,0,.45);
+    z-index: 30; font-size: 13.5px;
+  }
+  .pair-pop::before {
+    content: ""; position: absolute; top: -6px; left: 28px;
+    border: 6px solid transparent; border-bottom-color: var(--ink); border-top: none;
+  }
+  .card.show-pop { z-index: 31; }
+  .card.show-pop .pair-pop { display: block; }
+  .pair-pop h3 {
+    font-family: "Archivo Black", sans-serif; text-transform: uppercase;
+    font-size: 11.5px; letter-spacing: .12em; color: var(--fluoro); margin: 0 0 8px;
+  }
+  .pair-pop h3 + h3 { margin-top: 12px; }
+  .pair-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .pair-chips button {
+    font: inherit; font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
+    background: transparent; color: var(--chalk);
+    border: 1px dashed rgba(239,233,216,.5); border-radius: 999px;
+    padding: 3px 10px; cursor: pointer;
+  }
+  .pair-chips button:hover { border-color: var(--fluoro); color: var(--fluoro); }
+  .pair-chips button:focus-visible { outline: 2px solid var(--fluoro); outline-offset: 2px; }
+  .pair-chips .off-season { opacity: .45; cursor: default; }
+  .recipes { list-style: none; padding: 0; margin: 0; }
+  .recipes li { padding: 4px 0 4px 16px; position: relative; line-height: 1.4; color: rgba(239,233,216,.9); }
+  .recipes li::before { content: "▸"; position: absolute; left: 0; color: var(--fluoro-hot); }
+  .card.flash { outline: 3px solid var(--fluoro); outline-offset: 3px; transition: outline-color .3s; }
+  @media (hover: hover) { .card { cursor: default; } }
+
   footer { margin-top: 46px; font-size: 12.5px; color: var(--chalk-dim); line-height: 1.6; max-width: 74ch; }
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <p class="eyebrow">Harris Farm · Panetta Mercato · Woolworths</p>
+    <p class="eyebrow">Harris Farm · Panetta Mercato · Woolworths · Coles</p>
     <h1>The Price Board<br><span class="mo" id="monthName">—</span></h1>
-    <p class="sub">What's in peak season right now, ranked cheapest first. Prices normalised to $/kg where the pack size is known. Updated once a day.</p>
+    <p class="sub">What's in peak season right now, ranked cheapest first. Prices normalised to $/kg where the pack size is known. Hover or tap any item for what it pairs with and how the world cooks it. Updated once a day.</p>
   </header>
 
   <div class="controls" role="group" aria-label="Filters">
@@ -150,6 +187,7 @@
     <label><input type="checkbox" id="ck-hf" checked> Harris Farm</label>
     <label><input type="checkbox" id="ck-pm" checked> Panetta</label>
     <label><input type="checkbox" id="ck-ww" checked> Woolworths</label>
+    <label><input type="checkbox" id="ck-co" checked> Coles</label>
     <input type="search" id="search" placeholder="Search produce…" aria-label="Search produce">
   </div>
   <p class="status" id="status"></p>
@@ -169,14 +207,16 @@
 
 <script>
 /* ---------- seasonality reference: [name, aliases[], peakMonths[]] ---------- */
+const PAIRINGS = {"apple":{"p":["fennel","cabbage","celery","parsnip","beetroot","ginger"],"r":["Waldorf salad with celery and walnuts (USA)","Apple and fennel slaw for pork (Italy)","Tarte tatin (France)"]},"pear":{"p":["fennel","beetroot","silverbeet","parsnip","ginger"],"r":["Pear, walnut and blue cheese salad (France)","Poached pears in spiced red wine (France)","Pear and parsnip soup (Britain)"]},"orange":{"p":["fennel","beetroot","carrot","radish","onion"],"r":["Sicilian orange and fennel salad (Italy)","Moroccan orange and carrot salad with orange blossom (Morocco)","Duck à l'orange (France)"]},"blood orange":{"p":["fennel","beetroot","radish"],"r":["Blood orange and fennel salad with olives (Sicily)","Blood orange upside-down cake (Italy)"]},"mandarin":{"p":["carrot","ginger","radish","bok choy"],"r":["Mandarin and shaved carrot salad with sesame (Japan)","Mandarin chicken stir-fry (China)","Mandarin olive oil cake (Italy)"]},"lemon":{"p":["broccoli","silverbeet","kale","potato","cauliflower","celery"],"r":["Avgolemono — lemon chicken soup (Greece)","Preserved lemons for tagines (Morocco)","Lemon spaghetti (Italy)"]},"grapefruit":{"p":["avocado","fennel","radish"],"r":["Grapefruit and avocado salad with mint (Vietnam-style yum som-o)","Grapefruit brûlée (USA)"]},"kiwifruit":{"p":["banana","apple","ginger"],"r":["Kiwi and banana breakfast smoothie (NZ)","Pavlova with kiwi (Australia/NZ — we're not getting into it)"]},"blackberry":{"p":["apple","pear","ginger"],"r":["Blackberry and apple crumble (Britain)","Blackberry compote for porridge (Scandinavia)"]},"papaya":{"p":["lime","cucumber","ginger"],"r":["Som tam — green papaya salad (Thailand)","Ripe papaya with lime, breakfast style (Mexico)"]},"banana":{"p":["papaya","kiwifruit","ginger"],"r":["Banana fritters — pisang goreng (Indonesia)","Banoffee pie (Britain)","Banana bread, obviously (café Australia)"]},"strawberry":{"p":["rhubarb","cucumber","lime"],"r":["Strawberry and rhubarb pie (USA)","Eton mess (Britain)"]},"mango":{"p":["lime","cucumber","corn"],"r":["Mango sticky rice (Thailand)","Mango salsa for fish tacos (Mexico)"]},"avocado":{"p":["tomato","lime","corn","cucumber","radish"],"r":["Guacamole done properly (Mexico)","Avocado and radish toast with lime (California)"]},"brussels sprout":{"p":["apple","potato","leek","parsnip","garlic"],"r":["Charred sprouts with fish sauce and lime (Thai-American, Momofuku-style)","Sprouts with pancetta and garlic (Italy)","Colcannon-style mash with sprouts (Ireland)"]},"wombok":{"p":["ginger","garlic","carrot","spring onion","radish"],"r":["Kimchi — it's the season for a big batch (Korea)","Okonomiyaki cabbage pancakes (Japan)","Wombok and ginger dumplings (China)"]},"cabbage":{"p":["carrot","apple","potato","onion","fennel"],"r":["Braised cabbage with apples (Germany)","Cabbage okonomiyaki (Japan)","Colcannon (Ireland)"]},"broccoli":{"p":["lemon","garlic","ginger","tomato"],"r":["Orecchiette with broccoli, anchovy and chilli (Puglia, Italy)","Gai lan-style broccoli with oyster sauce and ginger (Canton)","Charred broccoli with tahini (Middle East)"]},"broccolini":{"p":["lemon","garlic","ginger"],"r":["Broccolini with chilli, garlic and pangrattato (Italy)","Blistered broccolini with sesame and soy (Japan)"]},"cauliflower":{"p":["potato","tomato","ginger","garlic","lemon"],"r":["Aloo gobi (India)","Whole roasted cauliflower shawarma-style with tahini (Israel)","Cauliflower fritters with yoghurt (Turkey)"]},"carrot":{"p":["orange","ginger","cabbage","lemon","onion"],"r":["Moroccan spiced carrot salad (Morocco)","Carrot and ginger soup (France)","Gajar halwa — carrot pudding (India)"]},"celery":{"p":["apple","potato","carrot","onion","tomato"],"r":["The base of a proper soffritto (Italy)","Celery and apple rémoulade (France)","Stir-fried celery with cashews (China)"]},"pumpkin":{"p":["ginger","sweet potato","onion","garlic","silverbeet"],"r":["Thai pumpkin and coconut soup (Thailand)","Kaddu — sweet-sour spiced pumpkin (India)","Pumpkin and sage risotto (Italy)"]},"sweet potato":{"p":["ginger","lime","onion","kale","garlic"],"r":["Sweet potato and peanut stew (West Africa)","Roast sweet potato with miso butter (Japan)","Camote enmielado — candied sweet potato (Mexico)"]},"potato":{"p":["leek","onion","garlic","celery","cabbage","lemon"],"r":["Leek and potato soup (France)","Aloo gobi with this month's cauliflower (India)","Patatas bravas (Spain)"]},"silverbeet":{"p":["lemon","garlic","potato","onion","pumpkin"],"r":["Silverbeet and feta filo pie — spanakopita-style (Greece)","Silverbeet stems braised with garlic and chilli (Italy)","White bean and silverbeet soup (Tuscany)"]},"kale":{"p":["garlic","lemon","potato","sweet potato","onion"],"r":["Ribollita — Tuscan bread and kale soup (Italy)","Caldo verde with chorizo (Portugal)","Crispy kale with sesame (Japan)"]},"leek":{"p":["potato","fennel","lemon","garlic"],"r":["Vichyssoise or hot leek and potato soup (France)","Leeks vinaigrette (France)","Welsh leek and cheese rarebit (Wales)"]},"fennel":{"p":["orange","apple","lemon","celery","tomato"],"r":["Shaved fennel and orange salad (Sicily)","Braised fennel with parmesan (Italy)","Fennel and potato gratin (France)"]},"parsnip":{"p":["apple","carrot","potato","ginger"],"r":["Honey-roast parsnips (Britain)","Parsnip and apple soup (Britain)","Parsnip latkes (Jewish diaspora)"]},"beetroot":{"p":["orange","apple","carrot","fennel"],"r":["Borscht (Ukraine)","Beetroot and orange salad with feta (Middle East)","Beet salat with dill (Russia)"]},"zucchini":{"p":["tomato","lemon","garlic","corn","onion"],"r":["Zucchini fritters with yoghurt (Turkey)","Ratatouille (France)","Calabacitas with corn (Mexico)"]},"capsicum":{"p":["tomato","onion","garlic","zucchini","eggplant"],"r":["Romesco sauce (Spain)","Shakshuka (North Africa/Israel)","Stuffed capsicums — dolma-style (Turkey)"]},"tomato":{"p":["garlic","onion","capsicum","zucchini","celery","avocado"],"r":["Winter tomato curry with rice (India)","Pappa al pomodoro (Tuscany)","Shakshuka with this month's capsicum (North Africa)"]},"spinach":{"p":["garlic","lemon","potato","ginger"],"r":["Saag paneer (India)","Spanakopita (Greece)","Gomae — sesame spinach (Japan)"]},"mushroom":{"p":["garlic","onion","leek","potato","spring onion"],"r":["Mushroom risotto (Italy)","Mushrooms on toast with garlic butter (Britain)","Hot and sour mushroom soup (China)"]},"onion":{"p":["potato","carrot","celery","tomato","garlic"],"r":["French onion soup (France)","Onion bhaji (India)","Pissaladière (Nice, France)"]},"spring onion":{"p":["ginger","garlic","potato","corn"],"r":["Ginger-shallot sauce for poached chicken (Canton)","Scallion pancakes (China)","Calçots with romesco (Catalonia)"]},"corn":{"p":["lime","capsicum","tomato","avocado","spring onion"],"r":["Elote — Mexican street corn (Mexico)","Sweetcorn and spring onion fritters (Australia via everywhere)","Corn and coconut soup (Thailand)"]},"cucumber":{"p":["tomato","lime","ginger","radish","avocado"],"r":["Smashed cucumber salad (Sichuan)","Tzatziki (Greece)","Cucumber kimchi — oi kimchi (Korea)"]},"eggplant":{"p":["tomato","garlic","capsicum","onion","ginger"],"r":["Baba ganoush (Levant)","Mapo eggplant (Sichuan)","Melanzane alla parmigiana (Italy)"]},"asparagus":{"p":["lemon","garlic","leek"],"r":["Asparagus with hollandaise (France)","Grilled asparagus with romesco (Spain)","Asparagus and lemon risotto (Italy)"]},"green bean":{"p":["tomato","garlic","potato","lemon","onion"],"r":["Loubieh — slow-cooked beans in tomato (Lebanon)","Dry-fried green beans (Sichuan)","Green bean salad with mustard dressing (France)"]},"pea":{"p":["potato","leek","carrot","lemon"],"r":["Risi e bisi (Venice)","Matar paneer (India)","Petits pois à la française (France)"]},"watermelon":{"p":["cucumber","lime","radish"],"r":["Watermelon, feta and mint salad (Greece)","Agua fresca de sandía (Mexico)"]},"rockmelon":{"p":["cucumber","lime"],"r":["Melon with prosciutto (Italy)","Melon and lime granita (Sicily)"]},"pineapple":{"p":["lime","capsicum","ginger","cucumber"],"r":["Tacos al pastor with charred pineapple (Mexico)","Pineapple fried rice (Thailand)"]},"grape":{"p":["fennel","celery"],"r":["Roasted grapes with sausages (Italy)","Grape and almond gazpacho — ajo blanco (Spain)"]},"peach":{"p":["tomato","cucumber","lime"],"r":["Grilled peach and burrata salad (Italy)","Peach cobbler (US South)"]},"nectarine":{"p":["tomato","cucumber","lime"],"r":["Nectarine and tomato panzanella (Italy)","Grilled nectarines with honey and yoghurt (Greece)"]},"plum":{"p":["ginger","cabbage","onion"],"r":["Chinese plum sauce for duck (China)","Zwetschgenkuchen — plum cake (Germany)"]},"cherry":{"p":["lime","ginger"],"r":["Clafoutis (France)","Sour cherry pilaf (Iran)"]},"blueberry":{"p":["lemon","lime","ginger","apple"],"r":["Blueberry and lemon Dutch baby pancake (USA)","Blueberry compote with cardamom (Scandinavia)"]},"raspberry":{"p":["peach","lemon","lime"],"r":["Peach Melba — invented for Dame Nellie (France/Australia)","Raspberry frangipane tart (France)"]},"lime":{"p":["papaya","corn","avocado","cucumber","mango"],"r":["The squeeze over everything (Mexico)","Lime and coconut fish curry (Thailand)","Key lime pie (USA)"]},"rhubarb":{"p":["apple","ginger","orange","strawberry"],"r":["Rhubarb and apple crumble (Britain)","Rhubarb khoresh — savoury lamb stew (Iran)","Roast rhubarb with orange and ginger (Britain)"]},"turnip":{"p":["potato","carrot","onion","ginger"],"r":["Neeps for the tatties (Scotland)","Turnip cake — lo bak go (Canton)","Glazed turnips (France)"]},"radish":{"p":["cucumber","avocado","lime","carrot","orange"],"r":["Radishes with butter and salt (France)","Pickled daikon — danmuji (Korea)","Radish and orange salad (Morocco)"]},"bok choy":{"p":["ginger","garlic","mushroom","spring onion"],"r":["Bok choy with garlic and oyster sauce (Canton)","Bok choy and shiitake noodle soup (China)","Baby bok choy with ginger in dashi (Japan)"]},"ginger":{"p":["carrot","pumpkin","wombok","sweet potato","spring onion","garlic"],"r":["The base of half this month's cooking: soups, stir-fries, kimchi","Ginger-poached chicken (Hainan)","Carrot and ginger dressing (Japan)"]},"garlic":{"p":["broccoli","silverbeet","potato","tomato","mushroom"],"r":["Forty-clove garlic chicken (France)","Aglio e olio (Italy)","Toum — whipped garlic sauce (Lebanon)"]}};
+
 const SEASONALITY = [["apple",["pink lady","granny smith","royal gala","fuji","jazz apple","kanzi","bravo"],[3,4,5,6,7,8]],["pear",["packham","beurre bosc","corella","nashi"],[3,4,5,6,7,8]],["orange",["navel orange","navel"],[6,7,8,9]],["blood orange",[],[8,9,10]],["mandarin",["imperial mandarin","afourer","honey murcott"],[5,6,7,8]],["lemon",["eureka lemon","meyer lemon"],[5,6,7,8,9]],["grapefruit",["ruby grapefruit"],[6,7,8,9]],["kiwifruit",["kiwi fruit","kiwi"],[4,5,6,7,8]],["blackberry",["blackberries"],[6,7,12,1,2]],["papaya",["pawpaw","papaw"],[6,7,8,9,10]],["banana",["cavendish","lady finger"],[1,2,3,4,5,6,7,8,9,10,11,12]],["strawberry",["strawberries"],[8,9,10,11]],["mango",["kensington pride","calypso","honey gold"],[11,12,1,2]],["avocado",["hass avocado","shepard avocado","hass","shepard"],[1,2,3,4,5,6,7,8,9,10,11,12]],["brussels sprout",["brussels sprouts","brussel sprouts"],[5,6,7,8]],["wombok",["chinese cabbage","napa cabbage"],[5,6,7,8]],["cabbage",["savoy cabbage","red cabbage","green cabbage"],[5,6,7,8,9]],["broccoli",[],[5,6,7,8,9]],["broccolini",[],[5,6,7,8,9]],["cauliflower",[],[5,6,7,8,9]],["carrot",["dutch carrot","carrots"],[1,2,3,4,5,6,7,8,9,10,11,12]],["celery",[],[5,6,7,8,9]],["pumpkin",["butternut","kent pumpkin","jap pumpkin"],[3,4,5,6,7,8]],["sweet potato",["kumara","gold sweet potato"],[1,2,3,4,5,6,7,8,9,10,11,12]],["potato",["brushed potato","washed potato","desiree","sebago","dutch cream","kipfler"],[1,2,3,4,5,6,7,8,9,10,11,12]],["silverbeet",["swiss chard","rainbow chard"],[5,6,7,8,9]],["kale",["tuscan kale","cavolo nero","curly kale"],[5,6,7,8,9]],["leek",["leeks"],[5,6,7,8,9]],["fennel",[],[5,6,7,8,9]],["parsnip",["parsnips"],[5,6,7,8]],["beetroot",["baby beets"],[1,2,3,4,5,6,7,8,9,10,11,12]],["zucchini",["courgette"],[6,7,11,12,1,2]],["capsicum",["red capsicum","green capsicum","yellow capsicum"],[6,7,11,12,1,2,3]],["tomato",["truss tomato","roma tomato","gourmet tomato","cherry tomato"],[6,7,11,12,1,2,3]],["spinach",["baby spinach","english spinach"],[4,5,9,10]],["mushroom",["button mushroom","cup mushroom","swiss brown","portobello"],[1,2,3,4,5,6,7,8,9,10,11,12]],["onion",["brown onion","red onion","spanish onion"],[1,2,3,4,5,6,7,8,9,10,11,12]],["spring onion",["shallots bunch","green onion"],[9,10,11,12]],["corn",["sweet corn","sweetcorn","corn cob"],[11,12,1,2,3]],["cucumber",["lebanese cucumber","continental cucumber","qukes"],[11,12,1,2,3]],["eggplant",["aubergine"],[12,1,2,3,4]],["asparagus",[],[9,10,11,12]],["green bean",["green beans","beans"],[11,12,1,2,3,4]],["pea",["snow peas","sugar snap","peas in pod"],[8,9,10,11]],["watermelon",["seedless watermelon"],[11,12,1,2,3]],["rockmelon",["cantaloupe"],[11,12,1,2,3]],["pineapple",[],[11,12,1,2,3]],["grape",["grapes","thompson seedless","crimson seedless"],[1,2,3,4]],["peach",["white peach","yellow peach"],[11,12,1,2]],["nectarine",[],[11,12,1,2]],["plum",["blood plum"],[12,1,2,3]],["cherry",["cherries"],[11,12,1]],["blueberry",["blueberries"],[7,8,9,10,11,12,1]],["raspberry",["raspberries"],[11,12,1,2]],["lime",["tahitian lime"],[1,2,3,4,5]],["rhubarb",[],[1,2,3,4,5,6,7,8,9,10,11,12]],["turnip",["swede"],[5,6,7,8]],["radish",["daikon"],[1,2,3,4,5,6,7,8,9,10,11,12]],["bok choy",["pak choy","buk choy","choy sum"],[1,2,3,4,5,6,7,8,9,10,11,12]],["ginger",[],[3,4,5,6,7,8]],["garlic",["australian garlic"],[11,12,1,2,3]]];
 
 const EXCLUDE = /juice|dried|frozen|chips|soup|puree|sauce|jam|canned|tinned|roasted|pickled|salad kit|slaw|stir.?fry mix|smoothie|snack|bar\b|powder/i;
 const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-const R_CLASS = { "Harris Farm": "r-hf", "Panetta Mercato": "r-pm", "Woolworths": "r-ww" };
-const R_SHORT = { "Harris Farm": "Harris Farm", "Panetta Mercato": "Panetta", "Woolworths": "Woolies" };
-const RETAILERS = ["Harris Farm", "Panetta Mercato", "Woolworths"];
-const R_ID = { "Harris Farm": "ck-hf", "Panetta Mercato": "ck-pm", "Woolworths": "ck-ww" };
+const R_CLASS = { "Harris Farm": "r-hf", "Panetta Mercato": "r-pm", "Woolworths": "r-ww", "Coles": "r-co" };
+const R_SHORT = { "Harris Farm": "Harris Farm", "Panetta Mercato": "Panetta", "Woolworths": "Woolies", "Coles": "Coles" };
+const RETAILERS = ["Harris Farm", "Panetta Mercato", "Woolworths", "Coles"];
+const R_ID = { "Harris Farm": "ck-hf", "Panetta Mercato": "ck-pm", "Woolworths": "ck-ww", "Coles": "ck-co" };
 const $ = id => document.getElementById(id);
 let RAW = null;
 
@@ -281,7 +321,7 @@ function cardHtml({ item, listings }) {
     return `<li><span class="r-tag ${R_CLASS[x.retailer] || "r-ww"}">${R_SHORT[x.retailer] || escapeHtml(x.retailer)}</span>
       ${name}<span class="p-price">$${x.price.toFixed(2)}</span>${kg}${flag}</li>`;
   }).join("");
-  return `<article class="card">
+  return `<article class="card" data-item="${escapeHtml(item)}">
     <div class="ticket" aria-label="Best price">
       <div class="amt">${ticket.amt}</div>
       <div class="per">${ticket.per}</div>
@@ -290,7 +330,26 @@ function cardHtml({ item, listings }) {
     <h2>${escapeHtml(item)}</h2>
     <p class="count">${listings.length} listing${listings.length === 1 ? "" : "s"}</p>
     <ul class="listings">${rows}</ul>
+    ${popHtml(item)}
   </article>`;
+}
+
+function popHtml(item) {
+  const pd = PAIRINGS[item];
+  if (!pd) return "";
+  const month = parseInt(monthSel.value, 10);
+  const inSeason = new Set(seasonalFor(month).map(([n]) => n));
+  const chips = pd.p.map(name => inSeason.has(name)
+      ? `<button type="button" data-goto="${escapeHtml(name)}">${escapeHtml(name)}</button>`
+      : `<button type="button" class="off-season" tabindex="-1" title="not in peak season this month">${escapeHtml(name)}</button>`
+    ).join("");
+  const recipes = pd.r.map(r => `<li>${escapeHtml(r)}</li>`).join("");
+  return `<div class="pair-pop" role="note" aria-label="Pairings and recipe ideas for ${escapeHtml(item)}">
+    <h3>Goes with (in season lit up)</h3>
+    <div class="pair-chips">${chips}</div>
+    <h3>Cook them together</h3>
+    <ul class="recipes">${recipes}</ul>
+  </div>`;
 }
 
 function escapeHtml(s) {
@@ -301,6 +360,39 @@ function escapeHtml(s) {
 monthSel.addEventListener("change", render);
 $("search").addEventListener("input", render);
 RETAILERS.forEach(r => $(R_ID[r]).addEventListener("change", render));
+
+const grid = $("grid");
+function hideAllPops() {
+  grid.querySelectorAll(".card.show-pop").forEach(x => x.classList.remove("show-pop"));
+}
+grid.addEventListener("mouseover", e => {
+  const card = e.target.closest(".card");
+  if (!card || card.classList.contains("show-pop")) return;
+  hideAllPops();
+  card.classList.add("show-pop");
+});
+grid.addEventListener("mouseleave", hideAllPops);
+grid.addEventListener("click", e => {
+  const chip = e.target.closest("[data-goto]");
+  if (chip) {
+    const target = grid.querySelector(`.card[data-item="${CSS.escape(chip.dataset.goto)}"]`);
+    if (target) {
+      hideAllPops();
+      target.scrollIntoView({ behavior: "smooth", block: "center" });
+      target.classList.add("flash");
+      setTimeout(() => target.classList.remove("flash"), 1600);
+    }
+    return;
+  }
+  const card = e.target.closest(".card");
+  if (card && !e.target.closest("a")) {
+    const was = card.classList.contains("show-pop");
+    hideAllPops();
+    if (!was) card.classList.add("show-pop");
+  }
+});
+document.addEventListener("keydown", e => { if (e.key === "Escape") hideAllPops(); });
+document.addEventListener("click", e => { if (!e.target.closest(".card")) hideAllPops(); });
 
 fetch("deals.json?t=" + Date.now())
   .then(r => { if (!r.ok) throw new Error("deals.json not found"); return r.json(); })

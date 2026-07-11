@@ -1,7 +1,8 @@
 {
- "fetched_at": "4:10 PM, Saturday 11 July",
+ "fetched_at": "4:25 PM, Saturday 11 July",
  "note": "sample data",
  "retailers": [
+  "Coles",
   "Harris Farm",
   "Panetta Mercato",
   "Woolworths"
@@ -256,6 +257,125 @@
    "retailer": "Woolworths",
    "name": "Cabbage Savoy Half",
    "price": 3.0,
+   "price_per_kg": null,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Wombok Cabbage Whole Each",
+   "price": 6.5,
+   "price_per_kg": null,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Brussels Sprouts 400g",
+   "price": 4.0,
+   "price_per_kg": 10.0,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Pink Lady Apples per kg",
+   "price": 5.5,
+   "price_per_kg": 5.5,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Navel Oranges per kg",
+   "price": 3.5,
+   "price_per_kg": 3.5,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Imperial Mandarins per kg",
+   "price": 4.5,
+   "price_per_kg": 4.5,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Tomatoes Gourmet per kg",
+   "price": 4.9,
+   "price_per_kg": 4.9,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Cauliflower Whole Each",
+   "price": 4.5,
+   "price_per_kg": null,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Broccoli per kg",
+   "price": 4.9,
+   "price_per_kg": 4.9,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Pumpkin Kent Cut per kg",
+   "price": 2.2,
+   "price_per_kg": 2.2,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Sweet Potato Gold per kg",
+   "price": 3.2,
+   "price_per_kg": 3.2,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Carrots 1kg Bag",
+   "price": 2.1,
+   "price_per_kg": 2.1,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Zucchini per kg",
+   "price": 5.5,
+   "price_per_kg": 5.5,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Celery Half Each",
+   "price": 2.5,
+   "price_per_kg": null,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Kiwifruit Green 4 Pack",
+   "price": 3.5,
+   "price_per_kg": null,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Packham Pears per kg",
+   "price": 4.2,
+   "price_per_kg": 4.2,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Lemons Each",
+   "price": 1.2,
+   "price_per_kg": null,
+   "url": ""
+  },
+  {
+   "retailer": "Coles",
+   "name": "Silverbeet Bunch Each",
+   "price": 3.9,
    "price_per_kg": null,
    "url": ""
   }
