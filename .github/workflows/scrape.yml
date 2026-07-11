@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install browser-impersonation library
+        run: pip install curl_cffi
+
       - name: Fetch prices
         run: python scrape.py
 
