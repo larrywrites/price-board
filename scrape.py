@@ -42,6 +42,18 @@ SEARCH_TERMS = [
     "radish", "bok choy", "ginger", "garlic",
 ]
 
+# Anything processed, jarred, prepared, or non-edible that sneaks into
+# fruit & veg categories gets dropped before it ever reaches the site.
+FRESH_EXCLUDE = re.compile(
+    r"juice|dried|frozen|chips|soup|puree|passata|paste|sauce|jam\b|canned|"
+    r"tinned|roasted|pickled|marinated|antipast|olive|brine|jar\b|jarred|"
+    r"bottle|stock|broth|dip\b|hummus|pesto|salsa|relish|chutney|preserved|"
+    r"candied|glac|coulis|syrup|nectar|coconut water|coconut milk|vinegar|"
+    r"crumbed|battered|ready|meal\b|kit\b|salad kit|slaw|stir.?fry mix|"
+    r"smoothie|snack|bar\b|powder|kimchi|sauerkraut|fermented|noodle|"
+    r"wrap\b|sushi|plant\b|seedling|flowers|bouquet|hamper|box\b|platter",
+    re.I)
+
 KG_PATTERNS = [
     (re.compile(r"(\d+(?:\.\d+)?)\s*kg", re.I), 1.0),
     (re.compile(r"(\d+(?:\.\d+)?)\s*g\b", re.I), 0.001),
@@ -369,6 +381,10 @@ def main():
         products += fetch_woolworths(SEARCH_TERMS)
         products += fetch_coles(SEARCH_TERMS)
         note = "live"
+
+    before = len(products)
+    products = [p for p in products if not FRESH_EXCLUDE.search(p["name"])]
+    print(f"Fresh-only filter: {before} -> {len(products)} products")
 
     if not products:
         raise SystemExit("No products fetched — leaving previous deals.json alone")
