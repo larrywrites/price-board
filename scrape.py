@@ -163,6 +163,71 @@ def fetch_woolworths(terms):
     return results
 
 
+def fetch_coles(terms):
+    """Coles' internal Next.js search API. The most aggressively
+    bot-protected of the lot (Imperva) — expect frequent failures from
+    datacentre IPs. Degrades gracefully."""
+    results = []
+    jar = CookieJar()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
+
+    # The API path includes a build ID that changes with each site deploy,
+    # so pull it from the homepage first.
+    build_id = None
+    try:
+        req = urllib.request.Request("https://www.coles.com.au/",
+                                     headers={"User-Agent": UA,
+                                              "Accept": "text/html"})
+        html = opener.open(req, timeout=25).read().decode("utf-8", "ignore")
+        m = re.search(r'"buildId"\s*:\s*"([^"]+)"', html)
+        if m:
+            build_id = m.group(1)
+    except Exception as exc:
+        print(f"  [Coles] homepage failed (bot protection?): {exc}")
+    if not build_id:
+        print("  [Coles] couldn't find build ID — skipping Coles this run")
+        return results
+
+    from urllib.parse import quote
+    for term in terms:
+        url = (f"https://www.coles.com.au/_next/data/{build_id}"
+               f"/en/search.json?q={quote(term)}")
+        try:
+            data = http_json(url, opener=opener,
+                             headers={"Referer": "https://www.coles.com.au/"})
+        except Exception as exc:
+            print(f"  [Coles] '{term}' failed: {exc}")
+            time.sleep(1.5)
+            continue
+        page = data.get("pageProps", {}) or {}
+        found = (page.get("searchResults", {}) or {}).get("results", []) or []
+        for prod in found:
+            if prod.get("_type") not in (None, "PRODUCT"):
+                continue
+            pricing = prod.get("pricing") or {}
+            price = pricing.get("now")
+            name = prod.get("name") or ""
+            if not price or not name:
+                continue
+            size = prod.get("size") or ""
+            full_name = f"{name} {size}".strip()
+            ppk = None
+            comparable = pricing.get("comparable") or ""
+            m = re.search(r"\$([\d.]+)\s*per\s*1?\s*kg", comparable, re.I)
+            if m:
+                ppk = float(m.group(1))
+            pid = prod.get("id", "")
+            results.append({
+                "retailer": "Coles", "name": full_name,
+                "price": float(price),
+                "price_per_kg": ppk or price_per_kg(full_name, float(price)),
+                "url": f"https://www.coles.com.au/product/{pid}" if pid else "",
+            })
+        time.sleep(1.5)
+    print(f"  [Coles] {len(results)} items")
+    return results
+
+
 DEMO = [
     ("Panetta Mercato", "Wombok Whole Each", 5.00),
     ("Harris Farm", "Wombok Half Each", 3.50),
@@ -200,6 +265,23 @@ DEMO = [
     ("Panetta Mercato", "Fennel Bulb Each", 2.99),
     ("Harris Farm", "Leeks Bunch of 2", 4.50),
     ("Woolworths", "Cabbage Savoy Half", 3.00),
+    ("Coles", "Wombok Cabbage Whole Each", 6.50),
+    ("Coles", "Brussels Sprouts 400g", 4.00),
+    ("Coles", "Pink Lady Apples per kg", 5.50),
+    ("Coles", "Navel Oranges per kg", 3.50),
+    ("Coles", "Imperial Mandarins per kg", 4.50),
+    ("Coles", "Tomatoes Gourmet per kg", 4.90),
+    ("Coles", "Cauliflower Whole Each", 4.50),
+    ("Coles", "Broccoli per kg", 4.90),
+    ("Coles", "Pumpkin Kent Cut per kg", 2.20),
+    ("Coles", "Sweet Potato Gold per kg", 3.20),
+    ("Coles", "Carrots 1kg Bag", 2.10),
+    ("Coles", "Zucchini per kg", 5.50),
+    ("Coles", "Celery Half Each", 2.50),
+    ("Coles", "Kiwifruit Green 4 Pack", 3.50),
+    ("Coles", "Packham Pears per kg", 4.20),
+    ("Coles", "Lemons Each", 1.20),
+    ("Coles", "Silverbeet Bunch Each", 3.90),
 ]
 
 
@@ -218,6 +300,7 @@ def main():
         products += fetch_shopify("www.harrisfarm.com.au", "Harris Farm")
         products += fetch_shopify("panettamercato.com.au", "Panetta Mercato")
         products += fetch_woolworths(SEARCH_TERMS)
+        products += fetch_coles(SEARCH_TERMS)
         note = "live"
 
     if not products:
