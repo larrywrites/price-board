@@ -116,14 +116,71 @@
     font-size: 11px; font-weight: 700;
     background: var(--ink); color: var(--fluoro); border-radius: 4px; padding: 2px 6px; white-space: nowrap;
   }
+  .hero { margin: 4px 0 34px; }
+  .hero-title {
+    font-family: "Kirang Haerang", cursive; text-transform: uppercase;
+    font-size: 30px; color: var(--chalk); margin-bottom: 14px; letter-spacing: .02em;
+  }
+  .hero-grid { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+  .hero-card {
+    background: var(--ink); color: var(--chalk);
+    border-radius: 10px; padding: 18px 18px 16px;
+    box-shadow: 0 3px 10px rgba(0,0,0,.3);
+  }
+  .hero-card:nth-child(1) { transform: rotate(-.6deg); }
+  .hero-card:nth-child(3) { transform: rotate(.6deg); }
+  .hero-src {
+    display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; background: var(--fluoro); color: var(--ink);
+    border-radius: 4px; padding: 2px 7px; margin-bottom: 8px;
+  }
+  .hero-card h3 {
+    font-family: "Kirang Haerang", cursive; text-transform: uppercase;
+    font-size: 24px; line-height: 1.05; margin-bottom: 10px;
+  }
+  .hero-ings { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .hero-ing {
+    font-family: "Cabin Sketch", cursive; font-size: 12px; text-transform: uppercase; letter-spacing: .03em;
+    background: transparent; color: var(--chalk);
+    border: 1px dashed rgba(239,233,216,.5); border-radius: 999px;
+    padding: 3px 10px; cursor: pointer;
+  }
+  .hero-ing b { color: var(--fluoro); }
+  .hero-ing:hover { border-color: var(--fluoro); }
+  .hero-ing:focus-visible { outline: 2px solid var(--fluoro); outline-offset: 2px; }
+  .hero-link {
+    font-size: 13px; font-weight: 700; color: var(--fluoro); text-decoration: none;
+    border-bottom: 1px dashed var(--fluoro);
+  }
+  .hero-link:hover { border-bottom-style: solid; }
+
   .stack { position: relative; z-index: 0; cursor: pointer; }
   .stack::before, .stack::after {
     content: ""; position: absolute; inset: 0; z-index: -1;
     background: var(--cream); border-radius: 10px;
     box-shadow: 0 2px 0 rgba(0,0,0,.35);
+    transition: transform .35s cubic-bezier(.34,1.56,.64,1);
   }
   .stack::before { transform: rotate(-2.2deg) translate(-4px, 6px); }
   .stack::after  { transform: rotate(1.7deg) translate(5px, 9px); }
+  .stack > .card { transition: transform .35s cubic-bezier(.34,1.56,.64,1); }
+  @media (hover: hover) and (prefers-reduced-motion: no-preference) {
+    .stack:hover::before, .stack:focus-visible::before { transform: rotate(-5deg) translate(-16px, 11px); }
+    .stack:hover::after,  .stack:focus-visible::after  { transform: rotate(4deg) translate(17px, 15px); }
+    .stack:hover > .card, .stack:focus-visible > .card { transform: translateY(-4px) rotate(-.4deg); }
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    @keyframes peekBefore {
+      0%, 100% { transform: rotate(-2.2deg) translate(-4px, 6px); }
+      45%      { transform: rotate(-4.6deg) translate(-13px, 10px); }
+    }
+    @keyframes peekAfter {
+      0%, 100% { transform: rotate(1.7deg) translate(5px, 9px); }
+      45%      { transform: rotate(3.6deg) translate(14px, 13px); }
+    }
+    .stack.peek::before { animation: peekBefore 1s ease .25s; }
+    .stack.peek::after  { animation: peekAfter 1s ease .25s; }
+  }
   .kinds-chip {
     display: inline-flex; align-items: center; gap: 5px;
     font-size: 10.5px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
@@ -224,6 +281,8 @@
 
   <div class="season-strip" id="seasonStrip" aria-label="In season now"></div>
 
+  <section class="hero" id="hero" aria-label="Recipe suggestions based on today's cheapest produce"></section>
+
   <main class="grid" id="grid" aria-live="polite">
     <div class="loading"><div class="ticket-spin">$ ? ?</div><p>Loading the board…</p></div>
   </main>
@@ -262,9 +321,66 @@ const $ = id => document.getElementById(id);
 let RAW = null;
 const EXPANDED = new Set();
 
+const RECIPES = [{"t":"Classic Pumpkin Soup","src":"RecipeTin Eats","url":"https://www.recipetineats.com/classic-pumpkin-soup/","ing":["pumpkin","onion","garlic"]},{"t":"Thai Coconut Pumpkin Soup","src":"RecipeTin Eats","url":"https://www.recipetineats.com/thai-coconut-pumpkin-soup/","ing":["pumpkin","onion","garlic","ginger"]},{"t":"No-Chop Roast Pumpkin Soup","src":"RecipeTin Eats","url":"https://www.recipetineats.com/no-chop-roast-pumpkin-soup/","ing":["pumpkin","onion"]},{"t":"Chicken Chow Mein","src":"RecipeTin Eats","url":"https://www.recipetineats.com/chicken-chow-mein/","ing":["cabbage","carrot","garlic","spring onion"]},{"t":"Vegetarian Chow Mein","src":"RecipeTin Eats","url":"https://www.recipetineats.com/vegetarian-chow-mein/","ing":["cabbage","carrot","garlic"]},{"t":"Beef Chow Mein","src":"RecipeTin Eats","url":"https://www.recipetineats.com/beef-chow-mein-noodles/","ing":["cabbage","carrot","garlic","spring onion"]},{"t":"Minestrone Soup","src":"RecipeTin Eats","url":"https://www.recipetineats.com/minestrone-soup/","ing":["carrot","celery","onion","potato","tomato","green bean","garlic"]},{"t":"Ratatouille","src":"RecipeTin Eats","url":"https://www.recipetineats.com/ratatouille/","ing":["eggplant","capsicum","zucchini","tomato","onion","garlic"]},{"t":"Very Crispy Corn Fritters","src":"RecipeTin Eats","url":"https://www.recipetineats.com/crispy-corn-fritters/","ing":["corn","spring onion"]},{"t":"Apple Crumble","src":"RecipeTin Eats","url":"https://www.recipetineats.com/apple-crumble/","ing":["apple","lemon"]},{"t":"Apple & Blackberry Crumble","src":"BBC Good Food","url":"https://www.bbcgoodfoodme.com/recipes/apple-and-blackberry-crumble/","ing":["apple","blackberry"]},{"t":"Winter Leek & Potato Soup","src":"BBC Good Food","url":"https://www.bbcgoodfoodme.com/recipes/darina-allens-winter-leek-and-potato-soup/","ing":["leek","potato","onion"]}];
+
 function cheapness(g) {
   const x = g.listings[0];
   return x.price_per_kg != null ? x.price_per_kg : x.price;
+}
+
+function familyDeals(ranked) {
+  // base -> today's best comparable price + whether anything in the family is flagged cheap
+  const out = {};
+  for (const g of ranked) {
+    const best = g.listings[0];
+    const cur = out[g.base];
+    const comparable = best.price_per_kg != null ? best.price_per_kg : best.price;
+    const flagged = g.listings.some(x => x.vs_median_pct != null && x.vs_median_pct < -10);
+    if (!cur || comparable < cur.comparable) {
+      out[g.base] = {
+        comparable,
+        label: best.price_per_kg != null ? "$" + best.price_per_kg.toFixed(2) + "/kg" : "$" + best.price.toFixed(2),
+        flagged: (cur && cur.flagged) || flagged,
+      };
+    } else if (flagged) cur.flagged = true;
+  }
+  return out;
+}
+
+function pickHeroRecipes(ranked) {
+  const deals = familyDeals(ranked);
+  const scored = [];
+  for (const r of RECIPES) {
+    const matched = r.ing.filter(i => deals[i]);
+    if (matched.length < 2) continue;
+    let score = 0;
+    for (const i of matched) {
+      const d = deals[i];
+      score += 1 + (d.flagged ? 0.6 : 0) + (d.comparable <= 4 ? 0.4 : 0);
+    }
+    scored.push({ ...r, matched, score });
+  }
+  scored.sort((a, b) => b.score - a.score || b.matched.length - a.matched.length || a.t.localeCompare(b.t));
+  return { picks: scored.slice(0, 3), deals };
+}
+
+function heroHtml(ranked) {
+  const { picks, deals } = pickHeroRecipes(ranked);
+  if (!picks.length) return "";
+  const cards = picks.map(r => {
+    const chips = r.matched.map(i => {
+      const d = deals[i];
+      return `<button type="button" class="hero-ing" data-goto="${escapeHtml(i)}">
+        ${escapeHtml(i)} <b>${escapeHtml(d.label)}</b>${d.flagged ? " \u25BC" : ""}</button>`;
+    }).join("");
+    return `<article class="hero-card">
+      <p class="hero-src">${escapeHtml(r.src)}</p>
+      <h3>${escapeHtml(r.t)}</h3>
+      <div class="hero-ings">${chips}</div>
+      <a class="hero-link" href="${escapeHtml(r.url)}" target="_blank" rel="noopener">Get the recipe \u2197</a>
+    </article>`;
+  }).join("");
+  return `<h2 class="hero-title">Cook what\u2019s cheap right now</h2><div class="hero-grid">${cards}</div>`;
 }
 
 function groupFamilies(ranked) {
@@ -381,6 +497,8 @@ function render() {
 
   $("seasonStrip").innerHTML = [...new Set(ranked.map(x => x.base))].map(b => `<span>${escapeHtml(b)}</span>`).join("");
 
+  $("hero").innerHTML = heroHtml(ranked);
+
   const q = $("search").value.trim().toLowerCase();
   const items = ranked.filter(x => !q || (x.item + " " + x.base).includes(q));
   const grid = $("grid");
@@ -406,6 +524,7 @@ function render() {
     }
   }
   grid.innerHTML = html.join("");
+  observeStacks();
 }
 
 function cardHtml({ item, base, listings }, opts = {}) {
@@ -474,6 +593,42 @@ $("search").addEventListener("input", render);
 RETAILERS.forEach(r => $(R_ID[r]).addEventListener("change", render));
 
 const grid = $("grid");
+function gotoBase(name) {
+  const target = grid.querySelector(`.card[data-base="${CSS.escape(name)}"], .stack[data-stackbase="${CSS.escape(name)}"]`);
+  if (target) {
+    hideAllPops();
+    target.scrollIntoView({ behavior: "smooth", block: "center" });
+    const card = target.classList.contains("card") ? target : target.querySelector(".card");
+    card.classList.add("flash");
+    setTimeout(() => card.classList.remove("flash"), 1600);
+  }
+}
+const NUDGED = new Set();
+const stackObserver = ("IntersectionObserver" in window)
+  ? new IntersectionObserver(entries => {
+      for (const en of entries) {
+        if (!en.isIntersecting) continue;
+        const base = en.target.dataset.stackbase;
+        stackObserver.unobserve(en.target);
+        if (NUDGED.has(base)) continue;
+        NUDGED.add(base);
+        en.target.classList.add("peek");
+        setTimeout(() => en.target.classList.remove("peek"), 1400);
+      }
+    }, { threshold: 0.6 })
+  : null;
+
+function observeStacks() {
+  if (!stackObserver) return;
+  grid.querySelectorAll(".stack").forEach(s => {
+    if (!NUDGED.has(s.dataset.stackbase)) stackObserver.observe(s);
+  });
+}
+
+$("hero").addEventListener("click", e => {
+  const chip = e.target.closest("[data-goto]");
+  if (chip) gotoBase(chip.dataset.goto);
+});
 function hideAllPops() {
   grid.querySelectorAll(".card.show-pop").forEach(x => x.classList.remove("show-pop"));
 }
@@ -500,16 +655,7 @@ grid.addEventListener("click", e => {
     return;
   }
   const chip = e.target.closest("[data-goto]");
-  if (chip) {
-    const target = grid.querySelector(`.card[data-base="${CSS.escape(chip.dataset.goto)}"]`);
-    if (target) {
-      hideAllPops();
-      target.scrollIntoView({ behavior: "smooth", block: "center" });
-      target.classList.add("flash");
-      setTimeout(() => target.classList.remove("flash"), 1600);
-    }
-    return;
-  }
+  if (chip) { gotoBase(chip.dataset.goto); return; }
   const card = e.target.closest(".card");
   if (card && !e.target.closest("a")) {
     const was = card.classList.contains("show-pop");
