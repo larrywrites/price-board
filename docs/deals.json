@@ -1,5 +1,5 @@
 {
- "fetched_at": "7:43 AM, Monday 13 July",
+ "fetched_at": "7:48 AM, Tuesday 14 July",
  "note": "live",
  "retailers": [
   "Harris Farm",
@@ -7,6 +7,230 @@
   "Woolworths"
  ],
  "products": [
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 48 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 10 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 32 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 51 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 44 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 66 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 40 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 52 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 56 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 37 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 76 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 77 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 85 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 86 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 87 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 80 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 84 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 65 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 67 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 69 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 57 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 63 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 54 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 74 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 70 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 75 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 49 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 24 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 58 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 64 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 28 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle 68 / Default / Default",
+   "price": 20.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
   {
    "retailer": "Harris Farm",
    "name": "Fish in the Family Wild Caught Swordfish Steaks Min 430g 1 / Australia / Default",
@@ -1609,230 +1833,6 @@
    "price": 6.99,
    "price_per_kg": 4.66,
    "url": "https://www.harrisfarm.com.au/products/apple-pink-lady-imperfect-organic-74182"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 48 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 10 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 32 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 51 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 44 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 66 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 40 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 52 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 56 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 37 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 76 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 77 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 85 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 86 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 87 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 80 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 84 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 65 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 67 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 69 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 57 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 63 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 54 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 74 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 70 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 75 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 49 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 24 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 58 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 64 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 28 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle 68 / Default / Default",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
   },
   {
    "retailer": "Harris Farm",
@@ -45079,216 +45079,6 @@
    "price": 4.99,
    "price_per_kg": 9.98,
    "url": "https://www.harrisfarm.com.au/products/pumpkin-kent-organic-72932"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 1 / Australia / Default",
-   "price": 8.99,
-   "price_per_kg": 17.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 28 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 58 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 64 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 63 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 54 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 49 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 24 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 69 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 57 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 37 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 76 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 80 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 84 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 77 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 85 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 86 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 87 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 65 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 67 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 66 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 40 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 52 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 56 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 48 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 10 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 32 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 51 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 44 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Tomato Kumato 500g 68 / Australia / Default",
-   "price": 6.99,
-   "price_per_kg": 13.98,
-   "url": "https://www.harrisfarm.com.au/products/tomato-kumato-each-22982"
   },
   {
    "retailer": "Harris Farm",
@@ -115431,6 +115221,237 @@
    "url": "https://www.harrisfarm.com.au/products/parsley-continental-3432"
   },
   {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 1 / Australia / Default",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 68 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 28 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 58 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 64 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 63 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 54 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 74 / Australia / Default",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 70 / Australia / Default",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 75 / Australia / Default",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 49 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 24 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 69 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 57 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 37 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 76 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 80 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 84 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 77 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 85 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 86 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 87 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 65 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 67 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 66 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 40 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 52 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 56 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 48 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 10 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 32 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 51 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet 44 / Australia / Default",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
    "retailer": "Panetta Mercato",
    "name": "Mixed Veggies Stir Fry Pack Min. 1kg",
    "price": 10.99,
@@ -116657,10 +116678,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Smiling Tums Apple Pear & Cinnamon 120g",
+   "name": "Woolworths Smiling Tums 6 Months+ Apple & Banana With Oats 120g",
    "price": 0.6,
    "price_per_kg": 5.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/669673"
+   "url": "https://www.woolworths.com.au/shop/productdetails/669671"
   },
   {
    "retailer": "Woolworths",
@@ -116755,20 +116776,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Smiling Tums Pear Banana & Mango 120g",
-   "price": 0.6,
-   "price_per_kg": 5.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/669672"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Smiling Tums Apple Pear & Cinnamon 120g",
-   "price": 0.6,
-   "price_per_kg": 5.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/669673"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Smiling Tums Pear Banana & Blueberry With Oats 6+ Months 120g",
    "price": 0.6,
    "price_per_kg": 5.0,
@@ -116839,13 +116846,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Pear & Superberries 4+ Months 120g",
    "price": 1.9,
    "price_per_kg": 15.83,
@@ -116860,6 +116860,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
+   "price": 1.9,
+   "price_per_kg": 15.83,
+   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Apple Pear & Cinnamon Porridge 6+ Months 120g",
    "price": 1.9,
    "price_per_kg": 15.83,
@@ -116871,6 +116878,20 @@
    "price": 1.9,
    "price_per_kg": 15.83,
    "url": "https://www.woolworths.com.au/shop/productdetails/334528"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Rice Cereal Pear Banana & Milk 120g",
+   "price": 1.9,
+   "price_per_kg": 15.83,
+   "url": "https://www.woolworths.com.au/shop/productdetails/345604"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Little Bellies Organic Pear & Vanilla Paws 12g",
+   "price": 1.9,
+   "price_per_kg": 158.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/176008"
   },
   {
    "retailer": "Woolworths",
@@ -116958,17 +116979,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Gatorade Sports Drinks Orange Ice Electrolyte Hydration 600mL",
-   "price": 2.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/30450"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Gatorade Sports Drinks Sugar Free Orange Electrolyte Hydration 600mL",
    "price": 2.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/152303"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Gatorade Sports Drinks Orange Ice Electrolyte Hydration 600mL",
+   "price": 2.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/30450"
   },
   {
    "retailer": "Woolworths",
@@ -117252,13 +117273,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Greenseas Tuna Lemon Pepper 95g",
-   "price": 1.35,
-   "price_per_kg": 14.21,
-   "url": "https://www.woolworths.com.au/shop/productdetails/7733"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Shine Dishwashing Liquid Lemon 1L",
    "price": 1.4,
    "price_per_kg": null,
@@ -117333,6 +117347,13 @@
    "price": 2.2,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/183959"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Armada Large Kitchen Tidy Bag Lavender/Lemon Scented 25 pack",
+   "price": 2.25,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/517111"
   },
   {
    "retailer": "Woolworths",
@@ -117777,10 +117798,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Smiling Tums Pear Banana & Mango 120g",
+   "name": "Woolworths Smiling Tums 6 Months+ Apple & Banana With Oats 120g",
    "price": 0.6,
    "price_per_kg": 5.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/669672"
+   "url": "https://www.woolworths.com.au/shop/productdetails/669671"
   },
   {
    "retailer": "Woolworths",
@@ -117847,6 +117868,20 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Blueberries Banana & Apple 4+ Months 120g",
+   "price": 1.9,
+   "price_per_kg": 15.83,
+   "url": "https://www.woolworths.com.au/shop/productdetails/291277"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
+   "price": 1.9,
+   "price_per_kg": 15.83,
+   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Strawberry Flavoured Jelly In Pouch 95g",
    "price": 0.95,
    "price_per_kg": 10.0,
@@ -117893,13 +117928,6 @@
    "price": 1.8,
    "price_per_kg": 15.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/763159"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Smiling Tums Pear Banana & Mango 120g",
-   "price": 0.6,
-   "price_per_kg": 5.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/669672"
   },
   {
    "retailer": "Woolworths",
@@ -118289,7 +118317,7 @@
   {
    "retailer": "Woolworths",
    "name": "P&P Vegetable Fruit Potato Peeler Cabbage Grater Cutter Slicer Stainless Steel Au",
-   "price": 21.9,
+   "price": 21.35,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1125224923"
   },
@@ -118337,17 +118365,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Fresh Broccoli each",
-   "price": 2.28,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/134681"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Only Organic Cauliflower Broccoli & Cheddar 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
    "url": "https://www.woolworths.com.au/shop/productdetails/710460"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Fresh Broccoli each",
+   "price": 2.61,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/134681"
   },
   {
    "retailer": "Woolworths",
@@ -118568,6 +118596,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Woolworths Cauliflower Bites 200g",
+   "price": 5.8,
+   "price_per_kg": 29.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/72365"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Carrot Fresh each",
    "price": 0.36,
    "price_per_kg": null,
@@ -118610,17 +118645,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Whole Baby Carrots 410g",
-   "price": 1.8,
-   "price_per_kg": 4.39,
-   "url": "https://www.woolworths.com.au/shop/productdetails/218900"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Peas & Carrots 420g",
    "price": 1.8,
    "price_per_kg": 4.29,
    "url": "https://www.woolworths.com.au/shop/productdetails/218915"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Whole Baby Carrots 410g",
+   "price": 1.8,
+   "price_per_kg": 4.39,
+   "url": "https://www.woolworths.com.au/shop/productdetails/218900"
   },
   {
    "retailer": "Woolworths",
@@ -118761,13 +118796,6 @@
    "price": 8.18,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1127636145"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Macro Fresh Celery Heart Organic each",
-   "price": 8.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/789892"
   },
   {
    "retailer": "Woolworths",
@@ -119051,17 +119079,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Maggi Side Dishes Creamy Cheese & Garlic Potato Bake 24g",
-   "price": 1.85,
-   "price_per_kg": 77.08,
-   "url": "https://www.woolworths.com.au/shop/productdetails/579719"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Maggi Side Dishes Three Cheese Potato Bake 21g",
    "price": 1.85,
    "price_per_kg": 88.1,
    "url": "https://www.woolworths.com.au/shop/productdetails/579734"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Maggi Side Dishes Creamy Cheese & Garlic Potato Bake 24g",
+   "price": 1.85,
+   "price_per_kg": 77.08,
+   "url": "https://www.woolworths.com.au/shop/productdetails/579719"
   },
   {
    "retailer": "Woolworths",
@@ -119198,6 +119226,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Macro Organic Tuscan Kale Bunch each",
+   "price": 5.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/796562"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Macro Organic Kale each",
    "price": 6.5,
    "price_per_kg": null,
@@ -119275,13 +119310,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Leek Twin 2 pack",
-   "price": 5.7,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/308186"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Double Smoked Bacon & Gruyere Quiche With Sauteed Leek 200g",
    "price": 7.0,
    "price_per_kg": 35.0,
@@ -119293,13 +119321,6 @@
    "price": 9.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/162316"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Herbert Adams Pies Creamy Chicken & Leek 2 pack",
-   "price": 10.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/329998"
   },
   {
    "retailer": "Woolworths",
@@ -119591,8 +119612,8 @@
   {
    "retailer": "Woolworths",
    "name": "The Odd Bunch Zucchini Prepacked 750g",
-   "price": 3.5,
-   "price_per_kg": 4.67,
+   "price": 2.9,
+   "price_per_kg": 3.87,
    "url": "https://www.woolworths.com.au/shop/productdetails/825869"
   },
   {
@@ -119737,17 +119758,17 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "The Odd Bunch Capsicum Prepacked 1kg",
+   "price": 3.9,
+   "price_per_kg": 3.9,
+   "url": "https://www.woolworths.com.au/shop/productdetails/825870"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Chris' Dips Spicy Capsicum 200g",
    "price": 4.5,
    "price_per_kg": 22.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/28703"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "The Odd Bunch Capsicum Prepacked 1kg",
-   "price": 4.7,
-   "price_per_kg": 4.7,
-   "url": "https://www.woolworths.com.au/shop/productdetails/825870"
   },
   {
    "retailer": "Woolworths",
@@ -119849,13 +119870,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Greenseas Tuna Tomato & Onion 95g",
-   "price": 1.35,
-   "price_per_kg": 14.21,
-   "url": "https://www.woolworths.com.au/shop/productdetails/7648"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "La Gina Diced Tomatoes 400g",
    "price": 1.4,
    "price_per_kg": 3.5,
@@ -119881,6 +119895,13 @@
    "price": 1.5,
    "price_per_kg": 3.75,
    "url": "https://www.woolworths.com.au/shop/productdetails/37810"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Annalisa Finely Chopped Tomatoes 400g",
+   "price": 1.5,
+   "price_per_kg": 3.75,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6067023"
   },
   {
    "retailer": "Woolworths",
@@ -119965,13 +119986,6 @@
    "price": 4.2,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/387754"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Yates Spinach Baby Leaf Seeds each",
-   "price": 4.3,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/724620"
   },
   {
    "retailer": "Woolworths",
@@ -120080,20 +120094,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Greenseas Tuna Tomato & Onion 95g",
-   "price": 1.35,
-   "price_per_kg": 14.21,
-   "url": "https://www.woolworths.com.au/shop/productdetails/7648"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Safcol Wild Caught Tuna Tomato & Onion 95g",
-   "price": 1.7,
-   "price_per_kg": 17.89,
-   "url": "https://www.woolworths.com.au/shop/productdetails/886899"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Heinz Beanz Baked Beans Caramelised Onion Flavour 300g",
    "price": 1.7,
    "price_per_kg": 5.67,
@@ -120126,6 +120126,13 @@
    "price": 2.2,
    "price_per_kg": 23.16,
    "url": "https://www.woolworths.com.au/shop/productdetails/340444"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Sirena Tomato & Onion Tuna In Oil 95g",
+   "price": 2.3,
+   "price_per_kg": 24.21,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333802"
   },
   {
    "retailer": "Woolworths",
@@ -120500,6 +120507,20 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "The Odd Bunch Lebanese Cucumber Punnet 750g",
+   "price": 4.1,
+   "price_per_kg": 5.47,
+   "url": "https://www.woolworths.com.au/shop/productdetails/24364"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Sandhurst Cucumbers Sandwich Stacker 500g",
+   "price": 4.2,
+   "price_per_kg": 8.4,
+   "url": "https://www.woolworths.com.au/shop/productdetails/471887"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Crazy Colour Aubergine",
    "price": 12.98,
    "price_per_kg": null,
@@ -120511,6 +120532,13 @@
    "price": 3.0,
    "price_per_kg": 7.06,
    "url": "https://www.woolworths.com.au/shop/productdetails/606142"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Green Asparagus Bunch each",
+   "price": 3.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/305235"
   },
   {
    "retailer": "Woolworths",
@@ -120689,17 +120717,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Fitness Outcomes Beef Cashew Korma With Brown Rice & Green Beans 350g",
-   "price": 7.9,
-   "price_per_kg": 22.57,
-   "url": "https://www.woolworths.com.au/shop/productdetails/601557"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Fitness Outcomes Beef Rendang With Brown Rice & Green Beans 350g",
    "price": 7.9,
    "price_per_kg": 22.57,
    "url": "https://www.woolworths.com.au/shop/productdetails/597924"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Fitness Outcomes Beef Cashew Korma With Brown Rice & Green Beans 350g",
+   "price": 7.9,
+   "price_per_kg": 22.57,
+   "url": "https://www.woolworths.com.au/shop/productdetails/601557"
   },
   {
    "retailer": "Woolworths",
@@ -120714,13 +120742,6 @@
    "price": 4.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/75186"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Snow Peas per 250g",
-   "price": 19.9,
-   "price_per_kg": 19.9,
-   "url": "https://www.woolworths.com.au/shop/productdetails/145843"
   },
   {
    "retailer": "Woolworths",
@@ -121158,6 +121179,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Musashi Energy Drink Purple Grape 500mL",
+   "price": 3.6,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/178289"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Jelly Joy Peach Jelly Drink 150g",
    "price": 1.0,
    "price_per_kg": 6.67,
@@ -121309,13 +121337,6 @@
    "price": 4.0,
    "price_per_kg": 10.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/118614"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Birds Eye Deli Seasoned Sides Davidson Plum & Ginger 600g",
-   "price": 5.6,
-   "price_per_kg": 9.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6005944"
   },
   {
    "retailer": "Woolworths",
@@ -121529,10 +121550,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Life Savers Raspberry Twisters 40g",
+   "name": "Mount Franklin Lightly Sparkling Water Raspberry 1.25L",
    "price": 2.0,
-   "price_per_kg": 50.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/334152"
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/178132"
   },
   {
    "retailer": "Woolworths",
@@ -121543,10 +121564,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mount Franklin Lightly Sparkling Water Raspberry 1.25L",
+   "name": "Life Savers Raspberry Twisters 40g",
    "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/178132"
+   "price_per_kg": 50.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/334152"
   },
   {
    "retailer": "Woolworths",
@@ -121907,13 +121928,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Yates Radish Salad Crunch Seeds 2g",
-   "price": 4.3,
-   "price_per_kg": 2150.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/74038"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Mr Fothergill's French Breakfast Radish Seeds - Quick Crisp Long-Rooted Variety",
    "price": 8.18,
    "price_per_kg": null,
@@ -122005,6 +122019,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "P&P 10X Pet Chewing Toys Corn Cob Radish Teething Sticks For Small Animals Hamsters",
+   "price": 30.45,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1125225169"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "2x Ashley & Co Tint Me 15ml Tinted Lipbalm For Parched/Chapped Lips Red Radish",
    "price": 35.0,
    "price_per_kg": null,
@@ -122016,13 +122037,6 @@
    "price": 41.65,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1113724507"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Premium White Green Radish Chopstick Rest Dishwasher Microwave Safe",
-   "price": 43.98,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1129297303"
   },
   {
    "retailer": "Woolworths",
@@ -122229,17 +122243,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Garlic Granules 45g",
-   "price": 2.0,
-   "price_per_kg": 44.44,
-   "url": "https://www.woolworths.com.au/shop/productdetails/251014"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Cholula Chilli Garlic Taco Spice Seasoning Mix 28g",
    "price": 2.0,
    "price_per_kg": 71.43,
    "url": "https://www.woolworths.com.au/shop/productdetails/6006813"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Garlic Granules 45g",
+   "price": 2.0,
+   "price_per_kg": 44.44,
+   "url": "https://www.woolworths.com.au/shop/productdetails/251014"
   },
   {
    "retailer": "Woolworths",
@@ -122261,6 +122275,13 @@
    "price": 2.2,
    "price_per_kg": 11.89,
    "url": "https://www.woolworths.com.au/shop/productdetails/805708"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mutti Polpa Finely Chopped Tomatoes With Garlic 400g",
+   "price": 2.2,
+   "price_per_kg": 5.5,
+   "url": "https://www.woolworths.com.au/shop/productdetails/131557"
   }
  ]
 }
