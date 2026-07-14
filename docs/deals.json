@@ -1,5 +1,5 @@
 {
- "fetched_at": "7:48 AM, Tuesday 14 July",
+ "fetched_at": "7:50 AM, Wednesday 15 July",
  "note": "live",
  "retailers": [
   "Harris Farm",
@@ -7,6 +7,13 @@
   "Woolworths"
  ],
  "products": [
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Yellowfin Tuna Steak 430g 1 / Australia / Default",
+   "price": 21.5,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-yellowfin-tuna-steak-70403"
+  },
   {
    "retailer": "Harris Farm",
    "name": "Kids School Holiday Fruit Bundle 48 / Default / Default",
@@ -1833,90 +1840,6 @@
    "price": 6.99,
    "price_per_kg": 4.66,
    "url": "https://www.harrisfarm.com.au/products/apple-pink-lady-imperfect-organic-74182"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 1 / Default / Default",
-   "price": 17.2,
-   "price_per_kg": 40.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 58 / Default / Special58",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 64 / Default / Special64",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 54 / Default / Special54",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 24 / Default / Special24",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 69 / Default / Special69",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 57 / Default / Special57",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 37 / Default / Special37",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 76 / Default / Special76",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 67 / Default / Special67",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 66 / Default / Special66",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fish in the Family Wild Caught Albacore Tuna Steaks Deboned Min 430g 48 / Default / Special48",
-   "price": 12.9,
-   "price_per_kg": 30.0,
-   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-albacore-tuna-steaks-deboned-min-430g-70557"
   },
   {
    "retailer": "Harris Farm",
@@ -115221,237 +115144,6 @@
    "url": "https://www.harrisfarm.com.au/products/parsley-continental-3432"
   },
   {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 1 / Australia / Default",
-   "price": 4.49,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 68 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 28 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 58 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 64 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 63 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 54 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 74 / Australia / Default",
-   "price": 5.49,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 70 / Australia / Default",
-   "price": 5.49,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 75 / Australia / Default",
-   "price": 5.49,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 49 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 24 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 69 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 57 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 37 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 76 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 80 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 84 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 77 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 85 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 86 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 87 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 65 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 67 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 66 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 40 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 52 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 56 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 48 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 10 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 32 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 51 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Fresh Herbs Oregano Punnet 44 / Australia / Default",
-   "price": 3.99,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
-  },
-  {
    "retailer": "Panetta Mercato",
    "name": "Mixed Veggies Stir Fry Pack Min. 1kg",
    "price": 10.99,
@@ -116685,17 +116377,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Apple Royal Gala each",
-   "price": 0.78,
+   "name": "Envy Apple each",
+   "price": 0.86,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/155003"
+   "url": "https://www.woolworths.com.au/shop/productdetails/761414"
   },
   {
    "retailer": "Woolworths",
-   "name": "Bravo Apple Fresh each",
-   "price": 1.03,
+   "name": "Apple Royal Gala each",
+   "price": 1.26,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/625158"
+   "url": "https://www.woolworths.com.au/shop/productdetails/155003"
   },
   {
    "retailer": "Woolworths",
@@ -116713,13 +116405,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Envy Apple each",
-   "price": 1.31,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/761414"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Apple Cosmic Crisp each",
    "price": 1.35,
    "price_per_kg": null,
@@ -116734,10 +116419,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Kanzi Apple each",
+   "name": "Bravo Apple Fresh each",
    "price": 1.38,
    "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/625158"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Kanzi Apple each",
+   "price": 1.49,
+   "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/381923"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Waterfords Sparkling Water Apple Berry 1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/672554"
   },
   {
    "retailer": "Woolworths",
@@ -116769,13 +116468,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "[NB-WAT-38MMBY] Sports Silicone Bracelet Strap Band For Apple Watch iWatch 38mm Black/Yellow",
-   "price": 1.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1118807929"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Smiling Tums Pear Banana & Blueberry With Oats 6+ Months 120g",
    "price": 0.6,
    "price_per_kg": 5.0,
@@ -116783,10 +116475,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Fresh Corella Pear each",
-   "price": 0.98,
+   "name": "Fresh Packham Pear each",
+   "price": 1.02,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/145182"
+   "url": "https://www.woolworths.com.au/shop/productdetails/115330"
   },
   {
    "retailer": "Woolworths",
@@ -116804,10 +116496,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Fresh Packham Pear each",
-   "price": 1.42,
+   "name": "Fresh Corella Pear each",
+   "price": 1.38,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/115330"
+   "url": "https://www.woolworths.com.au/shop/productdetails/145182"
   },
   {
    "retailer": "Woolworths",
@@ -116825,6 +116517,27 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Only Organic Pear Gold Kiwifruit & Oats with Prebiotics 8+ Months 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/223937"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Pear Banana & Apple 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333289"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Pear & Mango Super Smooth 4+ Months 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/372443"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Rafferty's Garden Happy Tummies Star Puffs Pear & Mango 12g",
    "price": 1.8,
    "price_per_kg": 150.0,
@@ -116839,59 +116552,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pear & Prune & Nothing Else 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/64807"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pear & Superberries 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/709604"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Apple Pear & Cinnamon 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291279"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Apple Pear & Cinnamon Porridge 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/498493"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pear & Apricot & Nothing Else 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/334528"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Rice Cereal Pear Banana & Milk 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/345604"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Little Bellies Organic Pear & Vanilla Paws 12g",
    "price": 1.9,
    "price_per_kg": 158.33,
    "url": "https://www.woolworths.com.au/shop/productdetails/176008"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Fresh Green Nashi Pear each",
+   "price": 2.04,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/145259"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Pear In Raspberry Flavoured Jelly 120g x 4 pack",
+   "price": 2.1,
+   "price_per_kg": 4.38,
+   "url": "https://www.woolworths.com.au/shop/productdetails/245393"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Pear & Prune & Nothing Else 4+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/64807"
   },
   {
    "retailer": "Woolworths",
@@ -116902,17 +116587,31 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Livingstone Biodegradable Wooden Applicator Orange Craft Stick 150(L)mm 2.2(D)mm 25 Bag",
+   "price": 1.1,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1115019699"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Orange Navel each",
-   "price": 0.83,
+   "price": 1.29,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/259450"
   },
   {
    "retailer": "Woolworths",
-   "name": "Livingstone Biodegradable Wooden Applicator Orange Craft Stick 150(L)mm 2.2(D)mm 25 Bag",
-   "price": 1.1,
+   "name": "Waterfords Sparkling Water Orange Passion 1L",
+   "price": 1.5,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1115019699"
+   "url": "https://www.woolworths.com.au/shop/productdetails/697308"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Schweppes Zero Sugar Blood Orange Mango Sparkling Mineral Water 1.1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/80533"
   },
   {
    "retailer": "Woolworths",
@@ -116937,24 +116636,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Waterfords Sparkling Water Orange Passion 1L",
+   "name": "Golden Circle Drinks Orange Burst Fruit Drink 1L",
    "price": 2.0,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/697308"
+   "url": "https://www.woolworths.com.au/shop/productdetails/32747"
   },
   {
    "retailer": "Woolworths",
-   "name": "Twinings Orange & Cinnamon Tea Bags 10 pack",
+   "name": "Golden Circle Pine Orange Fruit Drink 1L",
    "price": 2.0,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/791152"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Twinings Honeybush Orange & Mandarin 10 pack",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/659035"
+   "url": "https://www.woolworths.com.au/shop/productdetails/32749"
   },
   {
    "retailer": "Woolworths",
@@ -116979,52 +116671,38 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Gatorade Sports Drinks Sugar Free Orange Electrolyte Hydration 600mL",
+   "name": "Dettol Antibacterial Foam Hand Wash Pump Lime & Orange Blossom 250mL",
    "price": 2.5,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/152303"
+   "url": "https://www.woolworths.com.au/shop/productdetails/51630"
   },
   {
    "retailer": "Woolworths",
-   "name": "Gatorade Sports Drinks Orange Ice Electrolyte Hydration 600mL",
-   "price": 2.5,
+   "name": "Twinings Orange & Cinnamon Tea Bags 10 pack",
+   "price": 2.7,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/30450"
+   "url": "https://www.woolworths.com.au/shop/productdetails/791152"
   },
   {
    "retailer": "Woolworths",
-   "name": "Fanta Orange Zero Sugar Soft Drink 1.25L",
-   "price": 2.5,
+   "name": "Twinings Honeybush Orange & Mandarin 10 pack",
+   "price": 2.7,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6049732"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Tilley Fragranced Vegetable Soap - Orange Blossom",
-   "price": 2.75,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1105880607"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Fruit Drink Orange 2L",
-   "price": 2.8,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6033170"
+   "url": "https://www.woolworths.com.au/shop/productdetails/659035"
   },
   {
    "retailer": "Woolworths",
    "name": "Schweppes Zero Sugar Blood Orange Mango Sparkling Mineral Water 1.1L",
-   "price": 3.0,
+   "price": 1.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/80533"
   },
   {
    "retailer": "Woolworths",
-   "name": "Remedy Sodaly Soft Drink Blood Orange 1.25L",
-   "price": 4.15,
+   "name": "Remedy Sodaly Blood Orange 250mL x 4 pack",
+   "price": 4.95,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6022675"
+   "url": "https://www.woolworths.com.au/shop/productdetails/294612"
   },
   {
    "retailer": "Woolworths",
@@ -117035,10 +116713,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "OC Naturals Hand Wash Refill Blood Orange & Bergamot 1L",
-   "price": 5.9,
+   "name": "Remedy Sodaly Soft Drink Blood Orange 1.25L",
+   "price": 5.95,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6024466"
+   "url": "https://www.woolworths.com.au/shop/productdetails/6022675"
   },
   {
    "retailer": "Woolworths",
@@ -117070,17 +116748,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Remedy Sodaly Blood Orange 250mL x 4 pack",
-   "price": 8.25,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/294612"
+   "name": "The Good Candle Co. Soy Scented Refillable Candle Blood Orange & Grapefruit 200g",
+   "price": 8.0,
+   "price_per_kg": 40.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6059417"
   },
   {
    "retailer": "Woolworths",
-   "name": "MCoBeauty Peptide Lip Treatment Blood Orange 15g",
-   "price": 9.0,
-   "price_per_kg": 600.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6054585"
+   "name": "OC Naturals Hand Wash Refill Blood Orange & Bergamot 1L",
+   "price": 8.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6024466"
   },
   {
    "retailer": "Woolworths",
@@ -117098,17 +116776,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "The Good Candle Co. Soy Scented Refillable Candle Blood Orange & Grapefruit 200g",
-   "price": 12.0,
-   "price_per_kg": 60.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6059417"
+   "name": "Schweppes Zero Sugar Blood Orange Mango Sparkling Mineral Water Cans 375mL x 10 pack",
+   "price": 10.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/189114"
   },
   {
    "retailer": "Woolworths",
-   "name": "Nature's Way Adult Vita Gummies Omega 3 Berry & Blood Orange Flavoured 100 pack",
-   "price": 16.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6044204"
+   "name": "MCoBeauty Peptide Lip Treatment Blood Orange 15g",
+   "price": 18.0,
+   "price_per_kg": 1200.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6054585"
   },
   {
    "retailer": "Woolworths",
@@ -117116,13 +116794,6 @@
    "price": 18.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1118947279"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Schweppes Zero Sugar Blood Orange Mango Sparkling Mineral Water Cans 375mL x 10 pack",
-   "price": 20.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/189114"
   },
   {
    "retailer": "Woolworths",
@@ -117137,6 +116808,13 @@
    "price": 24.99,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1116550581"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Ecoya Soap - Blood Orange 90g/3.2oz 90g/3.2oz",
+   "price": 26.45,
+   "price_per_kg": 293.89,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1127442994"
   },
   {
    "retailer": "Woolworths",
@@ -117161,13 +116839,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mandarin Phoenix each",
-   "price": 0.7,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/349867"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Mandarin Tangold Seedless each",
    "price": 0.72,
    "price_per_kg": null,
@@ -117175,24 +116846,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Twinings Honeybush Orange & Mandarin 10 pack",
-   "price": 2.0,
+   "name": "Mandarin Phoenix each",
+   "price": 0.88,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/659035"
+   "url": "https://www.woolworths.com.au/shop/productdetails/349867"
   },
   {
    "retailer": "Woolworths",
    "name": "Sumo Citrus each",
-   "price": 2.69,
+   "price": 2.35,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/384383"
   },
   {
    "retailer": "Woolworths",
-   "name": "Remedy Kombucha Small Batch Yuzu & Mandarin 330mL",
-   "price": 2.95,
+   "name": "Twinings Honeybush Orange & Mandarin 10 pack",
+   "price": 2.7,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6026168"
+   "url": "https://www.woolworths.com.au/shop/productdetails/659035"
   },
   {
    "retailer": "Woolworths",
@@ -117204,8 +116875,8 @@
   {
    "retailer": "Woolworths",
    "name": "Woolworths Sweet & Juicy Mandarins 750g",
-   "price": 3.9,
-   "price_per_kg": 5.2,
+   "price": 3.5,
+   "price_per_kg": 4.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/591940"
   },
   {
@@ -117214,6 +116885,13 @@
    "price": 3.9,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/649090"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Remedy Kombucha Small Batch Yuzu & Mandarin 330mL",
+   "price": 4.3,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6026168"
   },
   {
    "retailer": "Woolworths",
@@ -117238,6 +116916,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Glen 20 Spray Disinfectant Brand New Day Mandarin & Ginger Lily 375g",
+   "price": 6.5,
+   "price_per_kg": 17.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/905156"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Prestige Vodka - Mandarin Homebrewing Spirit Essence Distilling Brewing 20ml",
    "price": 6.5,
    "price_per_kg": null,
@@ -117245,10 +116930,31 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "StrangeLove Very Mandarin Lo-Cal Soda Cans 250mL x 4 pack",
+   "price": 6.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6076362"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Pine O Cleen Mandarin & Ginger Lily Disinfectant Cleaning Spray 750mL",
    "price": 7.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/222271"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Macro Prepack Mandarin 750g",
+   "price": 7.5,
+   "price_per_kg": 10.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/940332"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Simply Clean Australian Mandarin Dishwash Liquid 500ml",
+   "price": 7.98,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1122718765"
   },
   {
    "retailer": "Woolworths",
@@ -117287,6 +116993,27 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Waterfords Sparkling Water Lemon Lime Bitters 1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/672553"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Schweppes Zero Sugar Lime & Lemon Sparkling Mineral Water 1.1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6023707"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "John West Tuna With Lemon & Cracked Pepper 95g",
+   "price": 1.7,
+   "price_per_kg": 17.89,
+   "url": "https://www.woolworths.com.au/shop/productdetails/27570"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Aeroplane Original Lemon Flavoured Jelly 85g",
    "price": 1.75,
    "price_per_kg": 20.59,
@@ -117312,34 +117039,6 @@
    "price": 1.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/182988"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Twinings Lemon & Ginger Tea Bags 15g x 10 pack",
-   "price": 2.0,
-   "price_per_kg": 133.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/56290"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Waterfords Sparkling Water Lemon Lime Bitters 1L",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/672553"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Twinings Lemon Twist Tea Bags 10 pack",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/58968"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Twinings Lemon Green Tea Bags 10 pack",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/228496"
   },
   {
    "retailer": "Woolworths",
@@ -117371,10 +117070,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Thankyou. Hand & Surface Sanitiser Botanical Grapefruit Spray 50mL",
+   "name": "Lo Bros Not Soda Fizzy Drink Grapefruit Zero Sugar 375mL",
    "price": 2.95,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/306677"
+   "url": "https://www.woolworths.com.au/shop/productdetails/354529"
   },
   {
    "retailer": "Woolworths",
@@ -117392,13 +117091,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Lo Bros Not Soda Fizzy Drink Grapefruit Zero Sugar 375mL",
-   "price": 4.2,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/354529"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Dettol Antibacterial Liquid Hand Wash Pump Grapefruit 500mL",
    "price": 4.5,
    "price_per_kg": null,
@@ -117413,10 +117105,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Bickford's Cordial Pink Grape Fruit 750mL",
+   "name": "Remedy Sodaly Grapefruit Prebiotic Soft Drink Cans 250mL x 4 pack",
    "price": 4.95,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/574871"
+   "url": "https://www.woolworths.com.au/shop/productdetails/6078130"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Thankyou. Hand & Surface Sanitiser Botanical Grapefruit Spray 50mL",
+   "price": 4.95,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/306677"
   },
   {
    "retailer": "Woolworths",
@@ -117431,6 +117130,13 @@
    "price": 5.47,
    "price_per_kg": 23.08,
    "url": "https://www.woolworths.com.au/shop/productdetails/1127880641"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Bickford's Cordial Pink Grape Fruit 750mL",
+   "price": 5.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/574871"
   },
   {
    "retailer": "Woolworths",
@@ -117455,31 +117161,17 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "The Good Candle Co. Soy Scented Refillable Candle Blood Orange & Grapefruit 200g",
+   "price": 8.0,
+   "price_per_kg": 40.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6059417"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Lipton Grapefruit Kombucha Iced Tea Sachets 18 pack",
    "price": 8.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6072408"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Remedy Sodaly Grapefruit Prebiotic Soft Drink Cans 250mL x 4 pack",
-   "price": 8.25,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6078130"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Herbal Essences bio:renew White Grapefruit & Mint Volumising Shampoo 400mL",
-   "price": 8.75,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/660884"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Herbal Essences Bio:Renew White Grapefruit & Mint Volume Conditioner 400mL",
-   "price": 8.75,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/660863"
   },
   {
    "retailer": "Woolworths",
@@ -117490,23 +117182,30 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Still Spirits Top Shelf Grapefruit Vodka Home Brew Flavouring Essence",
+   "price": 9.86,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1123174303"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Kiwi Fruit Green each",
-   "price": 0.96,
+   "price": 1.02,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/139238"
   },
   {
    "retailer": "Woolworths",
    "name": "Zespri SunGold Kiwifruit each",
-   "price": 1.53,
+   "price": 1.32,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/267084"
   },
   {
    "retailer": "Woolworths",
    "name": "Only Organic Pear Gold Kiwifruit & Oats with Prebiotics 8+ Months 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
+   "price": 1.8,
+   "price_per_kg": 15.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/223937"
   },
   {
@@ -117568,30 +117267,30 @@
   {
    "retailer": "Woolworths",
    "name": "Only Organic Apple Blueberry Blackberry & Oats 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
+   "price": 1.8,
+   "price_per_kg": 15.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/203454"
   },
   {
    "retailer": "Woolworths",
+   "name": "OxyShred Energy Drink Voodoo Blackberry Can 355mL",
+   "price": 2.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/969885"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Nivea Black Berry Shine Lip Balm 4.8g",
-   "price": 2.5,
-   "price_per_kg": 520.83,
+   "price": 3.0,
+   "price_per_kg": 625.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/687232"
   },
   {
    "retailer": "Woolworths",
    "name": "Blackberries Punnet 125g",
-   "price": 4.5,
-   "price_per_kg": 36.0,
+   "price": 5.0,
+   "price_per_kg": 40.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/296813"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "OxyShred Energy Drink Voodoo Blackberry Can 355mL",
-   "price": 4.9,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/969885"
   },
   {
    "retailer": "Woolworths",
@@ -117616,17 +117315,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "OxyShred Energy Zero Sugar Voodoo Blackberry Cans 355mL x 4 pack",
-   "price": 12.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6058095"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Gellaka 5-Piece Essential Gel Manicure Set with 1 Color - Blackberry",
    "price": 15.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1110397627"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "OxyShred Energy Zero Sugar Voodoo Blackberry Cans 355mL x 4 pack",
+   "price": 16.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6058095"
   },
   {
    "retailer": "Woolworths",
@@ -117679,10 +117378,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "OC Naturals Mango & Papaya Body Wash 725mL",
+   "name": "Little Urchin Lip Balm Tropical PawPaw 4g",
    "price": 6.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6075115"
+   "price_per_kg": 1500.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6009798"
   },
   {
    "retailer": "Woolworths",
@@ -117697,6 +117396,13 @@
    "price": 6.99,
    "price_per_kg": 699.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/1122719747"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Natures Commonscents Bodywash Goats Milk & Paw Paw 600mL",
+   "price": 7.35,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/813638"
   },
   {
    "retailer": "Woolworths",
@@ -117721,10 +117427,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Natures Commonscents Bodywash Goats Milk & Paw Paw 600mL",
-   "price": 8.2,
+   "name": "OC Naturals Mango & Papaya Body Wash 725mL",
+   "price": 8.0,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/813638"
+   "url": "https://www.woolworths.com.au/shop/productdetails/6075115"
   },
   {
    "retailer": "Woolworths",
@@ -117749,31 +117455,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Little Urchin Lip Balm Tropical PawPaw 4g",
-   "price": 10.0,
-   "price_per_kg": 2500.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6009798"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Lucas' Papaw Remedies Lip Care Ointment 25g",
    "price": 10.0,
    "price_per_kg": 400.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/343488"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Glow Lab Balance Conditioner Peach & Papaya 900mL",
-   "price": 12.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6062514"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Glow Lab Balance Shampoo Peach & Papaya 900mL",
-   "price": 12.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6062577"
   },
   {
    "retailer": "Woolworths",
@@ -117798,6 +117483,20 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "2 Pack Northfork Liquid Handwash 250Ml Guava Papaya And Cucumber",
+   "price": 16.95,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1112770767"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "P'ure Papayacare Papaya Head to Toe Baby Wash 150ml",
+   "price": 17.99,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1122172653"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Smiling Tums 6 Months+ Apple & Banana With Oats 120g",
    "price": 0.6,
    "price_per_kg": 5.0,
@@ -117813,28 +117512,35 @@
   {
    "retailer": "Woolworths",
    "name": "Cavendish Bananas each",
-   "price": 0.88,
+   "price": 0.91,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/133211"
   },
   {
    "retailer": "Woolworths",
    "name": "Eat Later Cavendish Bananas each",
-   "price": 0.88,
+   "price": 0.91,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/157649"
   },
   {
    "retailer": "Woolworths",
    "name": "Banana Red Tipped each",
-   "price": 1.06,
+   "price": 1.09,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/180148"
   },
   {
    "retailer": "Woolworths",
+   "name": "Kiddylicious Fruity Puffs Banana 10g",
+   "price": 1.1,
+   "price_per_kg": 110.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/507933"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Macro Organic Banana each",
-   "price": 1.24,
+   "price": 1.28,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/306510"
   },
@@ -117854,6 +117560,41 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Only Organic 6 Months+ Banana Blueberry & Quinoa 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/765211"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic 8 Months+ Banana Raspberry & Vanilla 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333290"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Pear Banana & Apple 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333289"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic 6 Months+ Apple Banana & Mango 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333288"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic 4 Months+ Banana & Apple 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/322268"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Thawed Green Large Banana Prawns per 100g",
    "price": 18.0,
    "price_per_kg": 18.0,
@@ -117868,24 +117609,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Blueberries Banana & Apple 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291277"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Strawberry Flavoured Jelly In Pouch 95g",
    "price": 0.95,
    "price_per_kg": 10.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/669983"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Kiddylicious Strawberry Fruity Puffs 10g",
+   "price": 1.1,
+   "price_per_kg": 110.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/112952"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Lotte Koala's March Strawberry 37g",
+   "price": 1.25,
+   "price_per_kg": 33.78,
+   "url": "https://www.woolworths.com.au/shop/productdetails/822132"
   },
   {
    "retailer": "Woolworths",
@@ -117896,10 +117637,24 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Schweppes Zero Sugar Sparkling Mineral Water Strawberry & Watermelon 1.1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6023149"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Chupa Chups Incredible Chews Strawberry Flavour 45g",
    "price": 1.5,
    "price_per_kg": 33.33,
    "url": "https://www.woolworths.com.au/shop/productdetails/170687"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Five:Am Organic Kids No Added Sugar Pouch Strawberry 130g",
+   "price": 1.55,
+   "price_per_kg": 11.92,
+   "url": "https://www.woolworths.com.au/shop/productdetails/918884"
   },
   {
    "retailer": "Woolworths",
@@ -117924,24 +117679,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Golden Circle Strawberry Squeeze Fruit Pouch 120g",
-   "price": 1.8,
-   "price_per_kg": 15.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/763159"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Mango Flavoured Jelly In Pouch 95g",
    "price": 0.95,
    "price_per_kg": 10.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/669984"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Jelly Joy Mango Jelly Drink 150g",
-   "price": 1.0,
-   "price_per_kg": 6.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/132955"
   },
   {
    "retailer": "Woolworths",
@@ -117952,10 +117693,59 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Schweppes Zero Sugar Blood Orange Mango Sparkling Mineral Water 1.1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/80533"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Jelly Joy Mango Jelly Drink 150g",
+   "price": 1.5,
+   "price_per_kg": 10.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/132955"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Five:Am Organic Kids No Added Sugar Pouch Mango 130g",
+   "price": 1.55,
+   "price_per_kg": 11.92,
+   "url": "https://www.woolworths.com.au/shop/productdetails/917991"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Aeroplane Original Mango Flavoured Jelly 85g",
    "price": 1.75,
    "price_per_kg": 20.59,
    "url": "https://www.woolworths.com.au/shop/productdetails/59407"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic 6 Months+ Apple Banana & Mango 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333288"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Mango Coconut & Quinoa 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/53366"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mogu Mogu Drink Mango 320mL",
+   "price": 1.8,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/829195"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Pear & Mango Super Smooth 4+ Months 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/372443"
   },
   {
    "retailer": "Woolworths",
@@ -117973,10 +117763,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
+   "name": "Golden Circle Pine Mango Fruit Drink 1L",
+   "price": 2.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/34543"
   },
   {
    "retailer": "Woolworths",
@@ -117984,34 +117774,6 @@
    "price": 2.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6063801"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Peach In Mango Flavoured Jelly 4 pack",
-   "price": 2.1,
-   "price_per_kg": 4.38,
-   "url": "https://www.woolworths.com.au/shop/productdetails/245394"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Mango In Mango Jelly 4 pack",
-   "price": 2.1,
-   "price_per_kg": 4.38,
-   "url": "https://www.woolworths.com.au/shop/productdetails/526016"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Mango Jelly 4 pack",
-   "price": 2.1,
-   "price_per_kg": 4.38,
-   "url": "https://www.woolworths.com.au/shop/productdetails/680046"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Frooti Mango Drink 500mL",
-   "price": 2.15,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/794544"
   },
   {
    "retailer": "Woolworths",
@@ -118106,6 +117868,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Cocolife Avocado Oil Spray 150mL",
+   "price": 6.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/819033"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Daily Dose Ambrosia Avocado Salt & Pepper Shakers",
    "price": 6.0,
    "price_per_kg": null,
@@ -118134,17 +117903,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Cocolife Avocado Oil Spray 150mL",
+   "name": "Culinare Avocado Saver each",
    "price": 7.5,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/819033"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Crazy Aaron's 2 inch Star Effects Mini Thinking Putty Avocado",
-   "price": 7.95,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1116327515"
+   "url": "https://www.woolworths.com.au/shop/productdetails/6024265"
   },
   {
    "retailer": "Woolworths",
@@ -118156,8 +117918,8 @@
   {
    "retailer": "Woolworths",
    "name": "Woolworths Baby Brussels Sprouts Punnet 300g",
-   "price": 3.9,
-   "price_per_kg": 13.0,
+   "price": 2.9,
+   "price_per_kg": 9.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/179060"
   },
   {
@@ -118184,7 +117946,7 @@
   {
    "retailer": "Woolworths",
    "name": "Perfection Chinese Wombok Baby Whole each",
-   "price": 3.5,
+   "price": 4.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/179004"
   },
@@ -118226,7 +117988,7 @@
   {
    "retailer": "Woolworths",
    "name": "Perfection Chinese Wombok Baby Whole each",
-   "price": 3.5,
+   "price": 4.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/179004"
   },
@@ -118358,17 +118120,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Spinach Apple Broccoli & Pea 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291193"
+   "name": "Only Organic Cauliflower Broccoli & Cheddar 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/710460"
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic Cauliflower Broccoli & Cheddar 120g",
+   "name": "Maggi Side Dishes Cheesy Broccoli & Cauliflower Bake 31g",
+   "price": 1.85,
+   "price_per_kg": 59.68,
+   "url": "https://www.woolworths.com.au/shop/productdetails/169311"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Broccolini Bunch each",
+   "price": 2.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/187314"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Spinach Apple Broccoli & Pea 4+ Months 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/710460"
+   "url": "https://www.woolworths.com.au/shop/productdetails/291193"
   },
   {
    "retailer": "Woolworths",
@@ -118376,13 +118152,6 @@
    "price": 2.61,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/134681"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Broccolini Bunch each",
-   "price": 3.7,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/187314"
   },
   {
    "retailer": "Woolworths",
@@ -118397,6 +118166,20 @@
    "price": 4.0,
    "price_per_kg": 8.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/768561"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Temole Broccoli Puffs Sweet Chilli 56g",
+   "price": 4.0,
+   "price_per_kg": 71.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/151014"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Temole Broccoli Puffs Cheese 56g",
+   "price": 4.0,
+   "price_per_kg": 71.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/223812"
   },
   {
    "retailer": "Woolworths",
@@ -118428,27 +118211,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Fresh Menu Creamy Broccoli Bake With Red Onion & Parmesan 300g",
-   "price": 4.9,
-   "price_per_kg": 16.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6056905"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Temole Broccoli Puffs Sweet Chilli 56g",
-   "price": 5.0,
-   "price_per_kg": 89.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/151014"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Temole Broccoli Puffs Cheese 56g",
-   "price": 5.0,
-   "price_per_kg": 89.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/223812"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Birds Eye Steam Fresh Carrot Cauliflower & Broccoli 750g",
    "price": 5.5,
    "price_per_kg": 7.33,
@@ -118456,8 +118218,22 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Birds Eye Steam Fresh Peas Beans Broccoli Corn Mix 750g",
+   "price": 5.5,
+   "price_per_kg": 7.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/782977"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Birds Eye Steam Fresh Broccoli Carrots & Corn 750g",
+   "price": 5.5,
+   "price_per_kg": 7.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/322796"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Broccolini Bunch each",
-   "price": 3.7,
+   "price": 2.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/187314"
   },
@@ -118477,6 +118253,20 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Only Organic Cauliflower Broccoli & Cheddar 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/710460"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Maggi Side Dishes Cheesy Broccoli & Cauliflower Bake 31g",
+   "price": 1.85,
+   "price_per_kg": 59.68,
+   "url": "https://www.woolworths.com.au/shop/productdetails/169311"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Maggi Side Dishes Cheesy Cauliflower Bake 30g",
    "price": 1.85,
    "price_per_kg": 61.67,
@@ -118485,16 +118275,16 @@
   {
    "retailer": "Woolworths",
    "name": "Fresh Cauliflower Half each",
-   "price": 2.25,
+   "price": 1.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/135568"
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic Cauliflower Broccoli & Cheddar 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/710460"
+   "name": "Fresh Whole Cauliflower each",
+   "price": 3.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/135552"
   },
   {
    "retailer": "Woolworths",
@@ -118519,10 +118309,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Fresh Whole Cauliflower each",
-   "price": 4.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/135552"
+   "name": "Temole Cauliflower Puffs Sea Salt 56g",
+   "price": 4.0,
+   "price_per_kg": 71.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/151280"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Temole Cauliflower Puffs Kale & Pepper 56g",
+   "price": 4.0,
+   "price_per_kg": 71.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/223872"
   },
   {
    "retailer": "Woolworths",
@@ -118533,31 +118330,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Wildly Good Smoky Cauliflower Burgers 2 pack",
-   "price": 4.8,
-   "price_per_kg": 21.82,
-   "url": "https://www.woolworths.com.au/shop/productdetails/391871"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Picasso Kitchen Cauliflower Pizza Base 170g",
    "price": 4.9,
    "price_per_kg": 28.82,
    "url": "https://www.woolworths.com.au/shop/productdetails/638771"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Temole Cauliflower Puffs Sea Salt 56g",
-   "price": 5.0,
-   "price_per_kg": 89.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/151280"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Temole Cauliflower Puffs Kale & Pepper 56g",
-   "price": 5.0,
-   "price_per_kg": 89.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/223872"
   },
   {
    "retailer": "Woolworths",
@@ -118589,13 +118365,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Birds Eye Deli Seasoned Sides Harissa Spiced Cauliflower 500g",
-   "price": 5.6,
-   "price_per_kg": 11.2,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6058724"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Cauliflower Bites 200g",
    "price": 5.8,
    "price_per_kg": 29.0,
@@ -118603,10 +118372,31 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Wildly Good Smoky Cauliflower Burgers 2 pack",
+   "price": 6.0,
+   "price_per_kg": 27.27,
+   "url": "https://www.woolworths.com.au/shop/productdetails/391871"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Carrot Fresh each",
    "price": 0.36,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/135344"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Baby Carrots 500g",
+   "price": 1.2,
+   "price_per_kg": 2.4,
+   "url": "https://www.woolworths.com.au/shop/productdetails/742824"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "My Dog Puppy Chicken With Rice Carrot & Spinach Wet Food Tray 100g",
+   "price": 1.25,
+   "price_per_kg": 12.5,
+   "url": "https://www.woolworths.com.au/shop/productdetails/359587"
   },
   {
    "retailer": "Woolworths",
@@ -118631,17 +118421,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "My Dog Puppy Chicken With Rice Carrot & Spinach Wet Food Tray 100g",
+   "name": "Woolworths Whole Baby Carrots 410g",
    "price": 1.8,
-   "price_per_kg": 18.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/359587"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Nature's Gift Adult Chilled Fresh Dog Food Roll With Beef Peas Carrots 200g",
-   "price": 1.8,
-   "price_per_kg": 9.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/513258"
+   "price_per_kg": 4.39,
+   "url": "https://www.woolworths.com.au/shop/productdetails/218900"
   },
   {
    "retailer": "Woolworths",
@@ -118652,17 +118435,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Whole Baby Carrots 410g",
+   "name": "Only Organic 8 Months+ Carrot Red Lentils & Cheddar 120g",
    "price": 1.8,
-   "price_per_kg": 4.39,
-   "url": "https://www.woolworths.com.au/shop/productdetails/218900"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Baby Carrots 500g",
-   "price": 1.9,
-   "price_per_kg": 3.8,
-   "url": "https://www.woolworths.com.au/shop/productdetails/742824"
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/710425"
   },
   {
    "retailer": "Woolworths",
@@ -118673,20 +118449,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Sweet Potato Carrot & Apple 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291187"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Chickpea Corn & Carrot 8+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/63892"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Little Bellies Organic Pumpkin & Carrot Softcorn 8g",
    "price": 1.9,
    "price_per_kg": 237.5,
@@ -118694,10 +118456,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic 8 Months+ Carrot Red Lentils & Cheddar 120g",
+   "name": "Rafferty's Garden Baby Food Pouch Sweet Potato Carrot & Apple 4+ Months 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/710425"
+   "url": "https://www.woolworths.com.au/shop/productdetails/291187"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Chickpea Corn & Carrot 8+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/63892"
   },
   {
    "retailer": "Woolworths",
@@ -118743,10 +118512,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Little Bellies Organic Carrot Puffs 35g",
-   "price": 2.5,
-   "price_per_kg": 71.43,
-   "url": "https://www.woolworths.com.au/shop/productdetails/176477"
+   "name": "Nature's Gift Adult Chilled Fresh Dog Food Roll With Beef Peas Carrots 200g",
+   "price": 2.7,
+   "price_per_kg": 13.5,
+   "url": "https://www.woolworths.com.au/shop/productdetails/513258"
   },
   {
    "retailer": "Woolworths",
@@ -118754,6 +118523,13 @@
    "price": 2.8,
    "price_per_kg": 1.87,
    "url": "https://www.woolworths.com.au/shop/productdetails/288440"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Just Veg. Carrot Shred 300g",
+   "price": 3.5,
+   "price_per_kg": 11.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/921142"
   },
   {
    "retailer": "Woolworths",
@@ -118799,6 +118575,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Macro Fresh Celery Heart Organic each",
+   "price": 8.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/789892"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Yellow Wild Celery Flower Garden 3D Pop Card",
    "price": 15.99,
    "price_per_kg": null,
@@ -118841,24 +118624,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pumpkin Apple & Sweetcorn 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291188"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Brown Rice Bean & Pumpkin Baby Food Pouch 8+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/63867"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pumpkin & Spinach Pasta Bake 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/92211"
+   "name": "Only Organic Pumpkin & Sweet Potato 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6043949"
   },
   {
    "retailer": "Woolworths",
@@ -118897,13 +118666,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Butternut Pumpkin Cut each",
-   "price": 2.25,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/147197"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Tilly Indulgent Meals Chicken & Pumpkin in Gravy Wet Cat Food 80g 80g",
    "price": 2.29,
    "price_per_kg": 28.62,
@@ -118911,10 +118673,38 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic Pumpkin & Sweet Potato 120g",
+   "name": "Rafferty's Garden Baby Food Pouch Pumpkin Apple & Sweetcorn 4+ Months 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6043949"
+   "url": "https://www.woolworths.com.au/shop/productdetails/291188"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Brown Rice Bean & Pumpkin Baby Food Pouch 8+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/63867"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Pumpkin & Spinach Pasta Bake 6+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/92211"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Pumpkin Kent Cut each",
+   "price": 2.38,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/143709"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Pumpkin Potato & Beef 8+ Months 170g",
+   "price": 2.5,
+   "price_per_kg": 14.71,
+   "url": "https://www.woolworths.com.au/shop/productdetails/659823"
   },
   {
    "retailer": "Woolworths",
@@ -118932,13 +118722,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic Pumpkin Potato & Beef 8+ Months 170g",
-   "price": 3.15,
-   "price_per_kg": 18.53,
-   "url": "https://www.woolworths.com.au/shop/productdetails/659823"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Smiling Tums Pumpkin Sweet Potato & Sweetcorn 6+ Months 120g",
    "price": 0.6,
    "price_per_kg": 5.0,
@@ -118953,31 +118736,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Sweet Potato Carrot & Apple 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291187"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Beef Sweet Potato & Parsnip 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/63912"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Sweet Potato Gold each",
-   "price": 1.96,
+   "price": 1.56,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/147071"
   },
   {
    "retailer": "Woolworths",
    "name": "Only Organic Pumpkin & Sweet Potato 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6043949"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Sweet Potato Carrot & Apple 4+ Months 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6043949"
+   "url": "https://www.woolworths.com.au/shop/productdetails/291187"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Beef Sweet Potato & Parsnip 6+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/63912"
   },
   {
    "retailer": "Woolworths",
@@ -118999,20 +118782,6 @@
    "price": 4.5,
    "price_per_kg": 22.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/66302"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Gold Sweet Potatoes Bag 1kg",
-   "price": 4.9,
-   "price_per_kg": 4.9,
-   "url": "https://www.woolworths.com.au/shop/productdetails/156015"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Macro Organic Sweet Potato each",
-   "price": 4.91,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/413886"
   },
   {
    "retailer": "Woolworths",
@@ -119058,6 +118827,20 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Sweet Potato Gold each",
+   "price": 1.56,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/147071"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Pumpkin & Sweet Potato 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6043949"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "McCormick Italian Herb Potatoes Recipe Base 40g",
    "price": 1.8,
    "price_per_kg": 45.0,
@@ -119097,41 +118880,6 @@
    "price": 1.85,
    "price_per_kg": 88.1,
    "url": "https://www.woolworths.com.au/shop/productdetails/579736"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Sweet Potato Carrot & Apple 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291187"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Beef Sweet Potato & Parsnip 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/63912"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Sweet Potato Gold each",
-   "price": 1.96,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/147071"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Potato Whole 410g",
-   "price": 2.0,
-   "price_per_kg": 4.88,
-   "url": "https://www.woolworths.com.au/shop/productdetails/373818"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Only Organic Pumpkin & Sweet Potato 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6043949"
   },
   {
    "retailer": "Woolworths",
@@ -119198,6 +118946,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Temole Cauliflower Puffs Kale & Pepper 56g",
+   "price": 4.0,
+   "price_per_kg": 71.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/223872"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Kale Fresh Bunch each",
    "price": 4.6,
    "price_per_kg": null,
@@ -119209,13 +118964,6 @@
    "price": 5.0,
    "price_per_kg": 11.11,
    "url": "https://www.woolworths.com.au/shop/productdetails/817501"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Temole Cauliflower Puffs Kale & Pepper 56g",
-   "price": 5.0,
-   "price_per_kg": 89.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/223872"
   },
   {
    "retailer": "Woolworths",
@@ -119240,6 +118988,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Woolworths Spaghetti & Meatballs With Green Beans & Kale 350g",
+   "price": 8.4,
+   "price_per_kg": 24.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6052747"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Mr Fothergill's Dwarf Green Curled Kale Vegetable Seeds",
    "price": 9.92,
    "price_per_kg": null,
@@ -119258,13 +119013,6 @@
    "price": 10.91,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1127632273"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Spaghetti & Meatballs With Green Beans & Kale 350g",
-   "price": 12.0,
-   "price_per_kg": 34.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6052747"
   },
   {
    "retailer": "Woolworths",
@@ -119310,10 +119058,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Double Smoked Bacon & Gruyere Quiche With Sauteed Leek 200g",
-   "price": 7.0,
-   "price_per_kg": 35.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6056309"
+   "name": "Leek Twin 2 pack",
+   "price": 5.7,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/308186"
   },
   {
    "retailer": "Woolworths",
@@ -119324,8 +119072,22 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Herbert Adams Pies Creamy Chicken & Leek 2 pack",
+   "price": 10.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/329998"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Double Smoked Bacon & Gruyere Quiche With Sauteed Leek 200g",
+   "price": 10.0,
+   "price_per_kg": 50.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6056309"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Ruffie Smoky Bacon Leek & Cheddar Quiche 2 pack",
-   "price": 16.0,
+   "price": 12.8,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/805079"
   },
@@ -119339,8 +119101,8 @@
   {
    "retailer": "Woolworths",
    "name": "Maharajah's Choice Fennel Seed Spice 250g",
-   "price": 2.0,
-   "price_per_kg": 8.0,
+   "price": 2.5,
+   "price_per_kg": 10.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/433281"
   },
   {
@@ -119356,6 +119118,13 @@
    "price": 3.9,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/137605"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Porto Valentina Side Plate 20cm - Fennel",
+   "price": 7.99,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1122818535"
   },
   {
    "retailer": "Woolworths",
@@ -119450,20 +119219,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Coastal Cypress and Sea Fennel Bath and Shower Gel by Molton Brown for Men - 10 oz Shower Gel 10 oz",
-   "price": 70.08,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1128235938"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Coastal Cypress and Sea Fennel Body Lotion by Molton Brown for Men - 10 oz Body Lotion 10 oz",
-   "price": 77.66,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1137061632"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Parsnip Fresh each",
    "price": 1.68,
    "price_per_kg": null,
@@ -119472,8 +119227,8 @@
   {
    "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Beef Sweet Potato & Parsnip 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
+   "price": 2.3,
+   "price_per_kg": 19.17,
    "url": "https://www.woolworths.com.au/shop/productdetails/63912"
   },
   {
@@ -119562,17 +119317,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Baby Mum-Mum Strawberry & Beetroot Rusks 18 pack",
-   "price": 3.85,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/113624"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Three Threes Sweet Sliced Beetroot 415g",
    "price": 3.85,
    "price_per_kg": 9.28,
    "url": "https://www.woolworths.com.au/shop/productdetails/678605"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Baby Mum-Mum Strawberry & Beetroot Rusks 18 pack",
+   "price": 3.85,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/113624"
   },
   {
    "retailer": "Woolworths",
@@ -119598,7 +119353,7 @@
   {
    "retailer": "Woolworths",
    "name": "Fresh Zucchini Green each",
-   "price": 1.18,
+   "price": 0.98,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/170225"
   },
@@ -119626,8 +119381,8 @@
   {
    "retailer": "Woolworths",
    "name": "Zucchini Green Punnet 500g",
-   "price": 4.5,
-   "price_per_kg": 9.0,
+   "price": 4.9,
+   "price_per_kg": 9.8,
    "url": "https://www.woolworths.com.au/shop/productdetails/839552"
   },
   {
@@ -119674,17 +119429,17 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Ruffie Zucchini Frittata 2 pack",
+   "price": 12.8,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/805078"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Zucchini & Bacon Slice 700g",
    "price": 16.0,
    "price_per_kg": 22.86,
    "url": "https://www.woolworths.com.au/shop/productdetails/254072"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Ruffie Zucchini Frittata 2 pack",
-   "price": 16.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/805078"
   },
   {
    "retailer": "Woolworths",
@@ -119724,14 +119479,14 @@
   {
    "retailer": "Woolworths",
    "name": "Red Capsicum each",
-   "price": 1.48,
+   "price": 1.23,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/135306"
   },
   {
    "retailer": "Woolworths",
    "name": "Capsicum Green each",
-   "price": 1.48,
+   "price": 1.23,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/135156"
   },
@@ -119744,16 +119499,9 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "John West Tuna & Beans Capsicum Corn Red Kidney Beans & Chilli 185g",
-   "price": 3.65,
-   "price_per_kg": 19.73,
-   "url": "https://www.woolworths.com.au/shop/productdetails/329004"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Only Organic Beef Capsicum Cheese & Brown Rice 220g",
-   "price": 3.85,
-   "price_per_kg": 17.5,
+   "price": 3.0,
+   "price_per_kg": 13.64,
    "url": "https://www.woolworths.com.au/shop/productdetails/483668"
   },
   {
@@ -119772,10 +119520,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths 3 Colour Traffic Light Capsicums 3 pack",
-   "price": 5.9,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/135947"
+   "name": "John West Tuna & Beans Capsicum Corn Red Kidney Beans & Chilli 185g",
+   "price": 4.6,
+   "price_per_kg": 24.86,
+   "url": "https://www.woolworths.com.au/shop/productdetails/329004"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Macro Organic Mini Capsicum 175g",
+   "price": 4.9,
+   "price_per_kg": 28.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/7238"
   },
   {
    "retailer": "Woolworths",
@@ -119794,7 +119549,7 @@
   {
    "retailer": "Woolworths",
    "name": "Gourmet Tomato each",
-   "price": 0.76,
+   "price": 0.43,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/134034"
   },
@@ -119811,13 +119566,6 @@
    "price": 0.95,
    "price_per_kg": 2.38,
    "url": "https://www.woolworths.com.au/shop/productdetails/311488"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Truss Tomatoes each",
-   "price": 0.97,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/169438"
   },
   {
    "retailer": "Woolworths",
@@ -119849,6 +119597,20 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Truss Tomatoes each",
+   "price": 1.11,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/169438"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mutti Polpa Finely Chopped Tomatoes 210g",
+   "price": 1.2,
+   "price_per_kg": 5.71,
+   "url": "https://www.woolworths.com.au/shop/productdetails/52604"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Diced Australian Tomatoes 400g",
    "price": 1.3,
    "price_per_kg": 3.25,
@@ -119870,6 +119632,20 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Annalisa Tomatoes Diced 400g",
+   "price": 1.35,
+   "price_per_kg": 3.38,
+   "url": "https://www.woolworths.com.au/shop/productdetails/38153"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Annalisa Tomatoes Peeled 400g",
+   "price": 1.35,
+   "price_per_kg": 3.38,
+   "url": "https://www.woolworths.com.au/shop/productdetails/37810"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "La Gina Diced Tomatoes 400g",
    "price": 1.4,
    "price_per_kg": 3.5,
@@ -119881,20 +119657,6 @@
    "price": 1.4,
    "price_per_kg": 3.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/808422"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Annalisa Tomatoes Diced 400g",
-   "price": 1.5,
-   "price_per_kg": 3.75,
-   "url": "https://www.woolworths.com.au/shop/productdetails/38153"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Annalisa Tomatoes Peeled 400g",
-   "price": 1.5,
-   "price_per_kg": 3.75,
-   "url": "https://www.woolworths.com.au/shop/productdetails/37810"
   },
   {
    "retailer": "Woolworths",
@@ -119913,23 +119675,9 @@
   {
    "retailer": "Woolworths",
    "name": "My Dog Puppy Chicken With Rice Carrot & Spinach Wet Food Tray 100g",
-   "price": 1.8,
-   "price_per_kg": 18.0,
+   "price": 1.25,
+   "price_per_kg": 12.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/359587"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Spinach Apple Broccoli & Pea 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291193"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pumpkin & Spinach Pasta Bake 6+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/92211"
   },
   {
    "retailer": "Woolworths",
@@ -119937,6 +119685,20 @@
    "price": 2.2,
    "price_per_kg": 36.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/379515"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Spinach Apple Broccoli & Pea 4+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/291193"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Pumpkin & Spinach Pasta Bake 6+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/92211"
   },
   {
    "retailer": "Woolworths",
@@ -119975,6 +119737,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Latina Fresh Ricotta & Spinach Agnolotti Pasta 375g",
+   "price": 4.0,
+   "price_per_kg": 10.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/42092"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Feta & Spinach Lunette 2 pack",
    "price": 4.15,
    "price_per_kg": null,
@@ -119982,17 +119751,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Mini Feta & Spinach Swirl 8 pack",
-   "price": 4.2,
+   "name": "Mission Wraps Spinach & Herb 8 pack",
+   "price": 4.6,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/387754"
+   "url": "https://www.woolworths.com.au/shop/productdetails/320197"
   },
   {
    "retailer": "Woolworths",
-   "name": "Jase's Kitchen Gluten Free Spinach & Ricotta Rolls 2 pack",
-   "price": 4.9,
+   "name": "Woolworths Mini Feta & Spinach Swirl 8 pack",
+   "price": 4.8,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/101599"
+   "url": "https://www.woolworths.com.au/shop/productdetails/387754"
   },
   {
    "retailer": "Woolworths",
@@ -120025,8 +119794,8 @@
   {
    "retailer": "Woolworths",
    "name": "Mushroom Portobello Flat Large Loose per 200g",
-   "price": 12.5,
-   "price_per_kg": 12.5,
+   "price": 13.5,
+   "price_per_kg": 13.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/124011"
   },
   {
@@ -120038,17 +119807,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Pandaroo Ingredients Mushroom Chinese Sliced 40g",
-   "price": 2.95,
-   "price_per_kg": 73.75,
-   "url": "https://www.woolworths.com.au/shop/productdetails/167884"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "MasterFoods Creamy Chicken & Mushroom Recipe Base 175g",
    "price": 3.0,
    "price_per_kg": 17.14,
    "url": "https://www.woolworths.com.au/shop/productdetails/169363"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths White Cup Sliced Mushroom Punnet 200g",
+   "price": 3.5,
+   "price_per_kg": 17.5,
+   "url": "https://www.woolworths.com.au/shop/productdetails/147981"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Mushrooms Cups Punnet 200g",
+   "price": 3.5,
+   "price_per_kg": 17.5,
+   "url": "https://www.woolworths.com.au/shop/productdetails/143304"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Pandaroo Ingredients Mushroom Chinese Sliced 40g",
+   "price": 3.5,
+   "price_per_kg": 87.5,
+   "url": "https://www.woolworths.com.au/shop/productdetails/167884"
   },
   {
    "retailer": "Woolworths",
@@ -120101,6 +119884,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Happy Chop TearLess Brown Onions 500g",
+   "price": 2.0,
+   "price_per_kg": 4.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/265225"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Whole Cumin Seeds 36g",
    "price": 2.0,
    "price_per_kg": 55.56,
@@ -120119,20 +119909,6 @@
    "price": 2.1,
    "price_per_kg": 17.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/250673"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Safcol Salmon Tomato & Onion 95g",
-   "price": 2.2,
-   "price_per_kg": 23.16,
-   "url": "https://www.woolworths.com.au/shop/productdetails/340444"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Sirena Tomato & Onion Tuna In Oil 95g",
-   "price": 2.3,
-   "price_per_kg": 24.21,
-   "url": "https://www.woolworths.com.au/shop/productdetails/333802"
   },
   {
    "retailer": "Woolworths",
@@ -120185,6 +119961,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Hong Kong Dim Sim Kitchen Dumplings Chicken Ginger & Spring Onions 300g",
+   "price": 4.25,
+   "price_per_kg": 14.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6016216"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Yates Spring Onions Seeds each",
    "price": 4.3,
    "price_per_kg": null,
@@ -120217,13 +120000,6 @@
    "price": 8.18,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1127635703"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Hong Kong Dim Sim Kitchen Dumplings Chicken Ginger & Spring Onions 300g",
-   "price": 8.5,
-   "price_per_kg": 28.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6016216"
   },
   {
    "retailer": "Woolworths",
@@ -120290,38 +120066,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Poppin Microwave Popcorn Triple Butter Flavour Explosion 100g",
+   "name": "Corn Sweet each",
    "price": 1.0,
-   "price_per_kg": 10.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/252429"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Poppin Microwave Popcorn Butter Flavour 100g",
-   "price": 1.0,
-   "price_per_kg": 10.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/18854"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Poppin Microwave Popcorn Sweet & Salty 100g",
-   "price": 1.0,
-   "price_per_kg": 10.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/172304"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Poppin Microwave Popcorn Lite Butter Flavour 85g",
-   "price": 1.0,
-   "price_per_kg": 11.76,
-   "url": "https://www.woolworths.com.au/shop/productdetails/113891"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Poppin Microwave Popcorn Minions Bello Yellow Butter 85g",
-   "price": 1.0,
-   "price_per_kg": 11.76,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6074423"
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/149374"
   },
   {
    "retailer": "Woolworths",
@@ -120329,27 +120077,6 @@
    "price": 1.05,
    "price_per_kg": 2.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/218926"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Real Foods Corn Thins Original 150g",
-   "price": 1.05,
-   "price_per_kg": 7.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/71422"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Real Foods Corn Thins Multigrain 150g",
-   "price": 1.05,
-   "price_per_kg": 7.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/4021"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Real Foods Corn Thins Tasty Cheese 125g",
-   "price": 1.05,
-   "price_per_kg": 8.4,
-   "url": "https://www.woolworths.com.au/shop/productdetails/747180"
   },
   {
    "retailer": "Woolworths",
@@ -120416,8 +120143,57 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "California Garden Premium Fava Beans 500g",
+   "price": 1.6,
+   "price_per_kg": 3.2,
+   "url": "https://www.woolworths.com.au/shop/productdetails/675810"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "John West Tuna With Sweet Corn & Mayonnaise 95g",
+   "price": 1.7,
+   "price_per_kg": 17.89,
+   "url": "https://www.woolworths.com.au/shop/productdetails/310694"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Popping Corn Kernels 400g",
+   "price": 1.75,
+   "price_per_kg": 4.38,
+   "url": "https://www.woolworths.com.au/shop/productdetails/117080"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Edgell Green Peas 220g",
+   "price": 1.8,
+   "price_per_kg": 8.18,
+   "url": "https://www.woolworths.com.au/shop/productdetails/34113"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "California Garden Chick Peas 400g",
+   "price": 1.85,
+   "price_per_kg": 4.62,
+   "url": "https://www.woolworths.com.au/shop/productdetails/757352"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Annalisa Chickpeas 400g",
+   "price": 1.9,
+   "price_per_kg": 4.75,
+   "url": "https://www.woolworths.com.au/shop/productdetails/178262"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Baby Corn Spears 410g",
+   "price": 1.9,
+   "price_per_kg": 4.63,
+   "url": "https://www.woolworths.com.au/shop/productdetails/491829"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Lebanese Cucumbers each",
-   "price": 1.24,
+   "price": 1.42,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/137130"
   },
@@ -120431,8 +120207,8 @@
   {
    "retailer": "Woolworths",
    "name": "La Gina Capotes Capers 100g",
-   "price": 2.3,
-   "price_per_kg": 23.0,
+   "price": 2.5,
+   "price_per_kg": 25.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/6007560"
   },
   {
@@ -120472,10 +120248,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "La Gina Grilled Pepper Bruschetta Topping 190g",
-   "price": 3.2,
-   "price_per_kg": 16.84,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6007564"
+   "name": "Woolworths Continental Cucumbers each",
+   "price": 3.3,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/137102"
   },
   {
    "retailer": "Woolworths",
@@ -120486,17 +120262,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Sandhurst Baby Cucumbers 500g",
+   "name": "Sandhurst Cucumbers Sandwich Stacker 500g",
    "price": 3.3,
    "price_per_kg": 6.6,
-   "url": "https://www.woolworths.com.au/shop/productdetails/689896"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Continental Cucumbers each",
-   "price": 3.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/137102"
+   "url": "https://www.woolworths.com.au/shop/productdetails/471887"
   },
   {
    "retailer": "Woolworths",
@@ -120507,17 +120276,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "The Odd Bunch Lebanese Cucumber Punnet 750g",
-   "price": 4.1,
-   "price_per_kg": 5.47,
-   "url": "https://www.woolworths.com.au/shop/productdetails/24364"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Sandhurst Cucumbers Sandwich Stacker 500g",
-   "price": 4.2,
-   "price_per_kg": 8.4,
-   "url": "https://www.woolworths.com.au/shop/productdetails/471887"
+   "name": "La Gina Grilled Pepper Bruschetta Topping 190g",
+   "price": 4.0,
+   "price_per_kg": 21.05,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6007564"
   },
   {
    "retailer": "Woolworths",
@@ -120535,23 +120297,23 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Sandhurst Cucumbers Sandwich Stacker 500g",
+   "price": 3.3,
+   "price_per_kg": 6.6,
+   "url": "https://www.woolworths.com.au/shop/productdetails/471887"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Green Asparagus Bunch each",
-   "price": 3.9,
+   "price": 4.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/305235"
   },
   {
    "retailer": "Woolworths",
-   "name": "Sandhurst Cucumbers Sandwich Stacker 500g",
-   "price": 4.2,
-   "price_per_kg": 8.4,
-   "url": "https://www.woolworths.com.au/shop/productdetails/471887"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Always Fresh Asparagus In Springwater 340g",
-   "price": 5.7,
-   "price_per_kg": 16.76,
+   "price": 4.6,
+   "price_per_kg": 13.53,
    "url": "https://www.woolworths.com.au/shop/productdetails/192826"
   },
   {
@@ -120675,13 +120437,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mulgowie Green Beans Cleaned & Cut 340g",
-   "price": 5.3,
-   "price_per_kg": 15.59,
-   "url": "https://www.woolworths.com.au/shop/productdetails/730118"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Broccolini & Green Beans With Almond Flakes 170g",
    "price": 5.5,
    "price_per_kg": 32.35,
@@ -120689,17 +120444,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Birds Eye Deli Seasoned Sides Garlic Butter Style Green Beans 600g",
-   "price": 5.6,
-   "price_per_kg": 9.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6005942"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Birds Eye Australian Grown Baby Green Beans 825g",
    "price": 5.7,
    "price_per_kg": 6.91,
    "url": "https://www.woolworths.com.au/shop/productdetails/6006102"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mulgowie Green Beans Cleaned & Cut 340g",
+   "price": 6.3,
+   "price_per_kg": 18.53,
+   "url": "https://www.woolworths.com.au/shop/productdetails/730118"
   },
   {
    "retailer": "Woolworths",
@@ -120714,6 +120469,13 @@
    "price": 6.99,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1123176897"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Birds Eye Deli Seasoned Sides Garlic Butter Style Green Beans 600g",
+   "price": 7.0,
+   "price_per_kg": 11.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6005942"
   },
   {
    "retailer": "Woolworths",
@@ -120745,6 +120507,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Snow Peas per 250g",
+   "price": 19.9,
+   "price_per_kg": 19.9,
+   "url": "https://www.woolworths.com.au/shop/productdetails/145843"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Snow Peas Fresh Bag 250g",
    "price": 6.5,
    "price_per_kg": 26.0,
@@ -120759,6 +120528,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Schweppes Zero Sugar Sparkling Mineral Water Strawberry & Watermelon 1.1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6023149"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Aeroplane Original Watermelon Flavoured Jelly 85g",
    "price": 1.75,
    "price_per_kg": 20.59,
@@ -120766,31 +120542,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "5Gum Watermelon Burst Sugar Free Gum 12pc 32g",
+   "name": "Haribo Watermelons Share Size 140g",
    "price": 2.0,
-   "price_per_kg": 62.5,
-   "url": "https://www.woolworths.com.au/shop/productdetails/75764"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Gatorade Sports Drinks Watermelon Chill Electrolyte Hydration 600mL",
-   "price": 2.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/245411"
+   "price_per_kg": 14.29,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6035719"
   },
   {
    "retailer": "Woolworths",
    "name": "H2Melon Watermelon Water 500mL",
-   "price": 2.5,
+   "price": 2.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6018656"
   },
   {
    "retailer": "Woolworths",
-   "name": "Nivea Lip Care Balm Watermelon Shine 4.8g",
+   "name": "5Gum Watermelon Burst Sugar Free Gum 12pc 32g",
    "price": 2.5,
-   "price_per_kg": 520.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/103147"
+   "price_per_kg": 78.12,
+   "url": "https://www.woolworths.com.au/shop/productdetails/75764"
   },
   {
    "retailer": "Woolworths",
@@ -120808,10 +120577,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Celsius Energy Drink Sparkling Watermelon Lemonade Can 330mL",
-   "price": 2.8,
+   "name": "Ghost Energy Zero Sugar Warheads Sour Watermelon Can 500mL",
+   "price": 2.9,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/911019"
+   "url": "https://www.woolworths.com.au/shop/productdetails/6036306"
   },
   {
    "retailer": "Woolworths",
@@ -120822,13 +120591,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Perkii Strawberry Watermelon Probiotic Drink 350mL",
-   "price": 2.9,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/685790"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "2.5cm Heart Paper Confetti Table Scatters - Watermelon Red",
    "price": 2.99,
    "price_per_kg": null,
@@ -120836,24 +120598,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Schweppes Zero Sugar Sparkling Mineral Water Strawberry & Watermelon 1.1L",
+   "name": "Nivea Lip Care Balm Watermelon Shine 4.8g",
    "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6023149"
+   "price_per_kg": 625.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/103147"
   },
   {
    "retailer": "Woolworths",
    "name": "Mother Energy Watermelon Can 500mL",
-   "price": 3.15,
+   "price": 3.45,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6058332"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Nexba Kombucha Watermelon Crush 1L",
-   "price": 3.3,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6022496"
   },
   {
    "retailer": "Woolworths",
@@ -120864,17 +120619,17 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Celsius Energy Drink Sparkling Watermelon Lemonade Can 330mL",
+   "price": 4.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/911019"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Fresh Rockmelon Half each",
    "price": 2.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/112533"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Fresh Rockmelon Tub 200g",
-   "price": 4.5,
-   "price_per_kg": 22.5,
-   "url": "https://www.woolworths.com.au/shop/productdetails/73197"
   },
   {
    "retailer": "Woolworths",
@@ -120990,10 +120745,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mount Franklin Lightly Sparkling Water Pineapple 1.25L",
+   "name": "Schweppes Zero Sugar Passion & Pineapple Sparkling Mineral Water 1.1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6023633"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Golden Circle Pine Mango Fruit Drink 1L",
    "price": 2.0,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/925726"
+   "url": "https://www.woolworths.com.au/shop/productdetails/34543"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Golden Circle Pine Coconut Fruit Drink 1L",
+   "price": 2.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/92483"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mountain Dew Typhoon Strawberry Pineapple Flavour Soft Drink 1.25L",
+   "price": 2.25,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6073972"
   },
   {
    "retailer": "Woolworths",
@@ -121018,34 +120794,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Golden Circle Pine Mango Fruit Drink 1L",
-   "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/34543"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Golden Circle Pine Coconut Fruit Drink 1L",
-   "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/92483"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Schweppes Zero Sugar Passion & Pineapple Sparkling Mineral Water 1.1L",
-   "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6023633"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Naturally Sweet Pineapple Half each",
-   "price": 3.25,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/143179"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Aeroplane Original Purple Grape Flavoured Jelly 85g",
    "price": 1.75,
    "price_per_kg": 20.59,
@@ -121053,10 +120801,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "5Gum Grape Spark Sugar Free Chewing Gum 27g",
-   "price": 2.0,
-   "price_per_kg": 74.07,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6036475"
+   "name": "Mogu Mogu Grape Drink 320mL",
+   "price": 1.8,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/66833"
   },
   {
    "retailer": "Woolworths",
@@ -121067,38 +120815,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mogu Mogu Grape Drink 320mL",
-   "price": 2.2,
+   "name": "Powerade Ion4 Grape Sports Drink Sipper Cap 600mL",
+   "price": 2.25,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/66833"
+   "url": "https://www.woolworths.com.au/shop/productdetails/938828"
   },
   {
    "retailer": "Woolworths",
-   "name": "Gatorade Sports Drinks Grape Electrolyte Hydration 600mL",
-   "price": 2.5,
+   "name": "Powerade Sour Grape Sports Drink 600mL",
+   "price": 2.25,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/262841"
+   "url": "https://www.woolworths.com.au/shop/productdetails/6078465"
   },
   {
    "retailer": "Woolworths",
-   "name": "Gatorade G Active Water Sports Drinks Grape Electrolyte Sugar Free 600mL",
+   "name": "5Gum Grape Spark Sugar Free Chewing Gum 27g",
    "price": 2.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/173487"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Fanta Grape Soft Drink 1.25L",
-   "price": 2.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/924575"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Gatorade Fast Twitch Energy Drink Grape Sugar Free 350mL",
-   "price": 2.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6008580"
+   "price_per_kg": 92.59,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6036475"
   },
   {
    "retailer": "Woolworths",
@@ -121116,10 +120850,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Zappo Sour Chews Grape & Strawberry 4 pack",
+   "name": "Musashi Energy Drink Purple Grape 500mL",
    "price": 2.7,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/914521"
+   "url": "https://www.woolworths.com.au/shop/productdetails/178289"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Uncle Tobys Roll-Ups Groovy Grape 6 pack",
+   "price": 2.75,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/427562"
   },
   {
    "retailer": "Woolworths",
@@ -121127,6 +120868,13 @@
    "price": 2.9,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/704003"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Ghost Energy Zero Sugar Grape Can 500mL",
+   "price": 2.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6035543"
   },
   {
    "retailer": "Woolworths",
@@ -121144,10 +120892,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "V Energy Grape Burst Drink 500mL",
+   "name": "Zappo Sour Chews Grape & Strawberry 4 pack",
    "price": 3.0,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6007290"
+   "url": "https://www.woolworths.com.au/shop/productdetails/914521"
   },
   {
    "retailer": "Woolworths",
@@ -121165,13 +120913,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Eclipse Grape Sugar Free Mints Tin 40g",
-   "price": 3.5,
-   "price_per_kg": 87.5,
-   "url": "https://www.woolworths.com.au/shop/productdetails/231985"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "BSc Pre-Workout Shot Zappo Sour Grape 60mL",
    "price": 3.5,
    "price_per_kg": null,
@@ -121179,24 +120920,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Musashi Energy Drink Purple Grape 500mL",
-   "price": 3.6,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/178289"
+   "name": "Sour Patch Kids Mini Puffy Heads Peach & Raspberry 80g",
+   "price": 1.5,
+   "price_per_kg": 18.75,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6069478"
   },
   {
    "retailer": "Woolworths",
    "name": "Jelly Joy Peach Jelly Drink 150g",
-   "price": 1.0,
-   "price_per_kg": 6.67,
+   "price": 1.5,
+   "price_per_kg": 10.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/132940"
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Apple Banana & Peach 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/709557"
+   "name": "Only Organic 4 Months+ Apple Peach & Apricot 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/322266"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mogu Mogu Peach Drink 320mL",
+   "price": 1.8,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/67416"
   },
   {
    "retailer": "Woolworths",
@@ -121235,17 +120983,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mogu Mogu Peach Drink 320mL",
-   "price": 2.2,
+   "name": "Powerade Sour Peach Sports Drink 600mL",
+   "price": 2.25,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/67416"
+   "url": "https://www.woolworths.com.au/shop/productdetails/6079550"
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic 4 Months+ Apple Peach & Apricot 120g",
+   "name": "Rafferty's Garden Baby Food Pouch Apple Banana & Peach 4+ Months 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/322266"
+   "url": "https://www.woolworths.com.au/shop/productdetails/709557"
   },
   {
    "retailer": "Woolworths",
@@ -121256,31 +121004,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Celsius Live Fit Sparkling Energy Drink Raspberry Peach Can 330mL",
-   "price": 2.8,
+   "name": "Lipton Ice Tea No Sugar Peach Flavour Iced Tea 1.5L",
+   "price": 2.75,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6055747"
+   "url": "https://www.woolworths.com.au/shop/productdetails/221667"
   },
   {
    "retailer": "Woolworths",
-   "name": "Lipton Ice Tea Peach Flavour Iced Tea 500mL",
-   "price": 2.8,
+   "name": "Lipton Ice Tea Peach Flavour Iced Tea 1.5L",
+   "price": 2.75,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/201689"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Lipton Ice Tea No Sugar Peach Flavour Iced Tea 500mL",
-   "price": 2.8,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/221029"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Dove Antiperspirant Roll-On \u2013 Invisible Crystal 48H Protection Peach Blossom & Lush Apple 50mL",
-   "price": 2.99,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1126104427"
+   "url": "https://www.woolworths.com.au/shop/productdetails/305224"
   },
   {
    "retailer": "Woolworths",
@@ -121288,6 +121022,13 @@
    "price": 2.99,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1114994347"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "MasterFoods Sweet Plum Marinade 375g",
+   "price": 3.5,
+   "price_per_kg": 9.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/118614"
   },
   {
    "retailer": "Woolworths",
@@ -121333,17 +121074,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "MasterFoods Sweet Plum Marinade 375g",
-   "price": 4.0,
-   "price_per_kg": 10.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/118614"
+   "name": "Little Urchin Lip Balm Cherry & Kakadu Plum 4g",
+   "price": 6.0,
+   "price_per_kg": 1500.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6010151"
   },
   {
    "retailer": "Woolworths",
-   "name": "New Chinese Style Hanfu Headdress Imitation Pearl Plum Fringe Hairpin",
-   "price": 7.22,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1120082965"
+   "name": "Birds Eye Deli Seasoned Sides Davidson Plum & Ginger 600g",
+   "price": 7.0,
+   "price_per_kg": 11.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6005944"
   },
   {
    "retailer": "Woolworths",
@@ -121361,10 +121102,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Bosisto's Kakadu Plum & Lemon Myrtle Nourishing Body Wash 1L",
-   "price": 9.0,
+   "name": "MyHouse Riley Bamboo Cotton Towel Collection - Plum - Hand Towel",
+   "price": 9.99,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/227823"
+   "url": "https://www.woolworths.com.au/shop/productdetails/1127522443"
   },
   {
    "retailer": "Woolworths",
@@ -121375,24 +121116,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Cherry Tomatoes Punnet 250g",
-   "price": 2.5,
-   "price_per_kg": 10.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/149620"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Mutti Whole Cherry Tomatoes 400g",
-   "price": 2.7,
-   "price_per_kg": 6.75,
+   "price": 2.15,
+   "price_per_kg": 5.38,
    "url": "https://www.woolworths.com.au/shop/productdetails/290300"
   },
   {
    "retailer": "Woolworths",
-   "name": "Remedy Small Batch Kombucha Pomegranate & Cherry 330mL",
-   "price": 2.95,
+   "name": "Dettol Antibacterial Foam Handwash Pump Rose & Cherry 250mL",
+   "price": 2.5,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6047594"
+   "url": "https://www.woolworths.com.au/shop/productdetails/724612"
   },
   {
    "retailer": "Woolworths",
@@ -121400,6 +121134,13 @@
    "price": 3.15,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/362262"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Cherry Tomatoes Punnet 250g",
+   "price": 3.2,
+   "price_per_kg": 12.8,
+   "url": "https://www.woolworths.com.au/shop/productdetails/149620"
   },
   {
    "retailer": "Woolworths",
@@ -121417,17 +121158,17 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Remedy Small Batch Kombucha Pomegranate & Cherry 330mL",
+   "price": 4.3,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6047594"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Naturoma Air Freshner Solid Gel Cherry Blossoms 220g",
    "price": 4.39,
    "price_per_kg": 19.95,
    "url": "https://www.woolworths.com.au/shop/productdetails/1125331109"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Glow Lab Cherry & Rose Foaming Hand Wash 300mL",
-   "price": 4.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6018542"
   },
   {
    "retailer": "Woolworths",
@@ -121442,13 +121183,6 @@
    "price": 4.5,
    "price_per_kg": 25.71,
    "url": "https://www.woolworths.com.au/shop/productdetails/1120902169"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Cherry Bocconcini 220g",
-   "price": 4.8,
-   "price_per_kg": 21.82,
-   "url": "https://www.woolworths.com.au/shop/productdetails/810779"
   },
   {
    "retailer": "Woolworths",
@@ -121473,24 +121207,24 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Only Organic 6 Months+ Banana Blueberry & Quinoa 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/765211"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Apple Blueberry Blackberry & Oats 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/203454"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Heinz Baby Food Apple Blueberry & Strawberry 8+ Months 120g",
    "price": 1.8,
    "price_per_kg": 15.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/790513"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Immunity Star Puffs Blueberry 12g",
-   "price": 1.8,
-   "price_per_kg": 150.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6023531"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Blueberries Banana & Apple 4+ Months 120g",
-   "price": 1.9,
-   "price_per_kg": 15.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291277"
   },
   {
    "retailer": "Woolworths",
@@ -121501,17 +121235,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic 6 Months+ Banana Blueberry & Quinoa 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/765211"
+   "name": "Only Organic Blueberry Banana & Vanilla Oat Milk 100g",
+   "price": 2.0,
+   "price_per_kg": 20.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/278392"
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic Apple Blueberry Blackberry & Oats 120g",
+   "name": "Only Organic Melty Corn Sticks Strawberry & Blueberry 15g",
+   "price": 2.0,
+   "price_per_kg": 133.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/905815"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Immunity Star Puffs Blueberry 12g",
+   "price": 2.2,
+   "price_per_kg": 183.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6023531"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Blueberries Banana & Apple 4+ Months 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/203454"
+   "url": "https://www.woolworths.com.au/shop/productdetails/291277"
   },
   {
    "retailer": "Woolworths",
@@ -121522,10 +121270,31 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Life Savers Raspberry Sherbert Fizz Stix 40g",
+   "price": 1.0,
+   "price_per_kg": 25.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/334147"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Life Savers Raspberry Twisters 40g",
+   "price": 1.0,
+   "price_per_kg": 25.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/334152"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Zombie Chews Sour Blue Raspberry 28g",
    "price": 1.0,
    "price_per_kg": 35.71,
    "url": "https://www.woolworths.com.au/shop/productdetails/1113681899"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Kiddylicious Crispy Tiddlers Raspberry 12g",
+   "price": 1.1,
+   "price_per_kg": 91.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/507944"
   },
   {
    "retailer": "Woolworths",
@@ -121536,6 +121305,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Sour Patch Kids Mini Puffy Heads Peach & Raspberry 80g",
+   "price": 1.5,
+   "price_per_kg": 18.75,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6069478"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Aeroplane Original Raspberry Flavoured Jelly 85g",
    "price": 1.75,
    "price_per_kg": 20.59,
@@ -121543,31 +121319,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Twinings Strawberry Raspberry & Loganberry Tea Bags 10 pack",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/701255"
+   "name": "Only Organic 8 Months+ Banana Raspberry & Vanilla 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333290"
   },
   {
    "retailer": "Woolworths",
-   "name": "Mount Franklin Lightly Sparkling Water Raspberry 1.25L",
+   "name": "Only Organic Raspberry Date Oat Milk & Goji 100g",
    "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/178132"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Life Savers Raspberry Sherbert Fizz Stix 40g",
-   "price": 2.0,
-   "price_per_kg": 50.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/334147"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Life Savers Raspberry Twisters 40g",
-   "price": 2.0,
-   "price_per_kg": 50.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/334152"
+   "price_per_kg": 20.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/485307"
   },
   {
    "retailer": "Woolworths",
@@ -121585,17 +121347,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Kiddylicious Crispy Tiddlers Raspberry 12g",
+   "name": "Frisp Raspberry Crisps 10g",
    "price": 2.2,
-   "price_per_kg": 183.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/507944"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Only Organic 8 Months+ Banana Raspberry & Vanilla 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/333290"
+   "price_per_kg": 220.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6043955"
   },
   {
    "retailer": "Woolworths",
@@ -121606,10 +121361,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Cocobella Hydrate Raspberry 500mL",
-   "price": 2.4,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/882268"
+   "name": "Life Savers Raspberry Sherbert Fizz Stix 200g",
+   "price": 2.5,
+   "price_per_kg": 12.5,
+   "url": "https://www.woolworths.com.au/shop/productdetails/310026"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "McVitie's Digestives Raspberry 250g",
+   "price": 2.5,
+   "price_per_kg": 10.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6062883"
   },
   {
    "retailer": "Woolworths",
@@ -121624,6 +121386,27 @@
    "price": 1.3,
    "price_per_kg": 15.29,
    "url": "https://www.woolworths.com.au/shop/productdetails/294263"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Waterfords Sparkling Water Lemon Lime Bitters 1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/672553"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Waterfords Sparkling Water Tahitian Lime 1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/672555"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Schweppes Zero Sugar Lime & Lemon Sparkling Mineral Water 1.1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6023707"
   },
   {
    "retailer": "Woolworths",
@@ -121648,24 +121431,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Waterfords Sparkling Water Tahitian Lime 1L",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/672555"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Waterfords Sparkling Water Lemon Lime Bitters 1L",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/672553"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "The Balnea Body Company Antibacterial Handwash Refreshing Lime 250mL",
    "price": 2.15,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/234667"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Powerade ION4 Lemon Lime Sports Drink Sipper Cap 600mL",
+   "price": 2.25,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/365548"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Powerade Active Water Lemon Lime Sports Drink Sipper Cap 600mL",
+   "price": 2.25,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/883999"
   },
   {
    "retailer": "Woolworths",
@@ -121676,10 +121459,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Gatorade Sports Drinks Lemon Lime Electrolyte Hydration 600mL",
+   "name": "Dettol Antibacterial Foam Hand Wash Pump Lime & Orange Blossom 250mL",
    "price": 2.5,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/30441"
+   "url": "https://www.woolworths.com.au/shop/productdetails/51630"
   },
   {
    "retailer": "Woolworths",
@@ -121697,13 +121480,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Cleanery Kitchen Cleaner Refill Lemon & Lime 16g",
-   "price": 2.85,
-   "price_per_kg": 178.12,
-   "url": "https://www.woolworths.com.au/shop/productdetails/221594"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Aeroplane Jelly Lite Crystals Lime 9g x 2 pack",
    "price": 2.9,
    "price_per_kg": 322.22,
@@ -121711,17 +121487,24 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Heinz Zesty Lime & Herb Mayonnaise 295mL",
+   "price": 2.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/919597"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Remedy Ginger Beer With Lime 330mL",
+   "price": 2.95,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6026802"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "2pk Artificial Lime Fruit",
    "price": 2.99,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1120895285"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Crystal Style Deco Clear Plastic Champagne Glass 230ml",
-   "price": 2.99,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1122895223"
   },
   {
    "retailer": "Woolworths",
@@ -121764,13 +121547,6 @@
    "price": 39.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1121767385"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Glow Collection Bubbly Hills Scented Soy Paraffin Candle Rhubarb & Vanilla",
-   "price": 39.95,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1128252491"
   },
   {
    "retailer": "Woolworths",
@@ -121837,6 +121613,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Birch Classique 8-Ply Knitting Yarn Rhubarb 100g Ball 10 Pack 100% Premium Acrylic",
+   "price": 81.19,
+   "price_per_kg": 811.9,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1128728691"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Turnip Fresh each",
    "price": 1.44,
    "price_per_kg": null,
@@ -121879,13 +121662,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "2PCS Turnip Head Cross Phillips Screwdriver Groove Repair Tool Durable Hand Tool",
-   "price": 11.07,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1120583277"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "6PK Jarvis Walker 90mm Turnip Float Unweighted Foam Fishing Float",
    "price": 15.95,
    "price_per_kg": null,
@@ -121897,6 +121673,13 @@
    "price": 18.35,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1102377963"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "2PCS Turnip Head Cross Phillips Screwdriver Groove Repair Tool Durable Hand Tool",
+   "price": 20.04,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1120583277"
   },
   {
    "retailer": "Woolworths",
@@ -122068,13 +121851,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Twinings Lemon & Ginger Tea Bags 15g x 10 pack",
-   "price": 2.0,
-   "price_per_kg": 133.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/56290"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Ginger Ground 25g",
    "price": 2.0,
    "price_per_kg": 80.0,
@@ -122082,24 +121858,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Sirena Tuna Soy & Ginger 95g",
-   "price": 2.3,
-   "price_per_kg": 24.21,
-   "url": "https://www.woolworths.com.au/shop/productdetails/170152"
+   "name": "Saxbys Diet Ginger Beer 750mL",
+   "price": 2.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/180891"
   },
   {
    "retailer": "Woolworths",
-   "name": "Jiva Xtreme Shot Defence Zesty Ginger Tonic 100mL",
-   "price": 2.6,
+   "name": "Saxbys Ginger Beer 750mL",
+   "price": 2.5,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/389795"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Jiva Xtreme Tonic Detox Spicy Ginger 100mL",
-   "price": 2.6,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/194020"
+   "url": "https://www.woolworths.com.au/shop/productdetails/13159"
   },
   {
    "retailer": "Woolworths",
@@ -122110,6 +121879,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Twinings Lemon & Ginger Tea Bags 15g x 10 pack",
+   "price": 2.7,
+   "price_per_kg": 180.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/56290"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Crushed Ginger 230g",
    "price": 2.8,
    "price_per_kg": 12.17,
@@ -122117,17 +121893,31 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Saxbys Diet Ginger Beer 750mL",
-   "price": 2.8,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/180891"
+   "name": "Sirena Tuna Soy & Ginger 95g",
+   "price": 2.95,
+   "price_per_kg": 31.05,
+   "url": "https://www.woolworths.com.au/shop/productdetails/170152"
   },
   {
    "retailer": "Woolworths",
-   "name": "Saxbys Ginger Beer 750mL",
-   "price": 2.8,
+   "name": "Remedy Kombucha Ginger Lemon 330mL",
+   "price": 2.95,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/13159"
+   "url": "https://www.woolworths.com.au/shop/productdetails/571601"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Remedy Ginger Beer Original 330mL",
+   "price": 2.95,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6026743"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Remedy Ginger Beer With Lime 330mL",
+   "price": 2.95,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6026802"
   },
   {
    "retailer": "Woolworths",
@@ -122145,20 +121935,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Bundaberg Ginger Beer 750mL",
-   "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/26506"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Bundaberg Diet Ginger Beer 750mL",
-   "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/240850"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Twinings Cold Infusions Lemon & Ginger 4 pack",
    "price": 3.0,
    "price_per_kg": null,
@@ -122170,6 +121946,13 @@
    "price": 3.25,
    "price_per_kg": 77.38,
    "url": "https://www.woolworths.com.au/shop/productdetails/1122718991"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Jensens Organic Crushed Ginger 210g",
+   "price": 3.4,
+   "price_per_kg": 16.19,
+   "url": "https://www.woolworths.com.au/shop/productdetails/17125"
   },
   {
    "retailer": "Woolworths",
@@ -122229,24 +122012,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Ben's Original Lightly Flavour Garlic Microwave Rice Pouch 250g",
-   "price": 2.0,
-   "price_per_kg": 8.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/79980"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Maharajah's Choice Garlic Pappadams 100g",
    "price": 2.0,
    "price_per_kg": 20.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/3925"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Cholula Chilli Garlic Taco Spice Seasoning Mix 28g",
-   "price": 2.0,
-   "price_per_kg": 71.43,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6006813"
   },
   {
    "retailer": "Woolworths",
@@ -122257,10 +122026,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "McCormick Grill Mates Chipotle & Garlic American BBQ Dry Marinade 40g",
-   "price": 2.0,
-   "price_per_kg": 50.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/58546"
+   "name": "Always Fresh Minced Garlic 220g",
+   "price": 2.1,
+   "price_per_kg": 9.55,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6011490"
   },
   {
    "retailer": "Woolworths",
@@ -122278,10 +122047,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mutti Polpa Finely Chopped Tomatoes With Garlic 400g",
+   "name": "Hoyt's Garlic Granules 40g",
    "price": 2.2,
-   "price_per_kg": 5.5,
-   "url": "https://www.woolworths.com.au/shop/productdetails/131557"
+   "price_per_kg": 55.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/70288"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Minced Garlic 500g",
+   "price": 2.3,
+   "price_per_kg": 4.6,
+   "url": "https://www.woolworths.com.au/shop/productdetails/77385"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mingle Honey Garlic BBQ Seasoning 30g",
+   "price": 2.4,
+   "price_per_kg": 80.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6071248"
   }
  ]
 }
