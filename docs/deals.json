@@ -1,5 +1,5 @@
 {
- "fetched_at": "7:45 AM, Saturday 18 July",
+ "fetched_at": "7:43 AM, Sunday 19 July",
  "note": "live",
  "retailers": [
   "Panetta Mercato",
@@ -2549,13 +2549,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic 6 Months+ Apple Banana & Mango 120g",
-   "price": 1.8,
-   "price_per_kg": 15.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/333288"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Only Organic Mango Coconut & Quinoa 120g",
    "price": 1.8,
    "price_per_kg": 15.0,
@@ -2567,6 +2560,13 @@
    "price": 1.8,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/829195"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic 6 Months+ Apple Banana & Mango 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/333288"
   },
   {
    "retailer": "Woolworths",
@@ -2892,13 +2892,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "P&P Vegetable Fruit Potato Peeler Cabbage Grater Cutter Slicer Stainless Steel Au",
-   "price": 21.35,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1125224923"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "2 Pack Wide Mouth Peeler Vegetables Fruit Stainless Steel Knife Cabbage Graters",
    "price": 21.95,
    "price_per_kg": null,
@@ -2917,6 +2910,13 @@
    "price": 21.99,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1123060025"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "P&P Vegetable Fruit Potato Peeler Cabbage Grater Cutter Slicer Stainless Steel Au",
+   "price": 22.85,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1125224923"
   },
   {
    "retailer": "Woolworths",
@@ -3074,17 +3074,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Maggi Side Dishes Cheesy Broccoli & Cauliflower Bake 31g",
-   "price": 1.85,
-   "price_per_kg": 59.68,
-   "url": "https://www.woolworths.com.au/shop/productdetails/169311"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Maggi Side Dishes Cheesy Cauliflower Bake 30g",
    "price": 1.85,
    "price_per_kg": 61.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/579716"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Maggi Side Dishes Cheesy Broccoli & Cauliflower Bake 31g",
+   "price": 1.85,
+   "price_per_kg": 59.68,
+   "url": "https://www.woolworths.com.au/shop/productdetails/169311"
   },
   {
    "retailer": "Woolworths",
@@ -3242,17 +3242,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Peas & Carrots 420g",
-   "price": 1.8,
-   "price_per_kg": 4.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/218915"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Whole Baby Carrots 410g",
    "price": 1.8,
    "price_per_kg": 4.39,
    "url": "https://www.woolworths.com.au/shop/productdetails/218900"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Peas & Carrots 420g",
+   "price": 1.8,
+   "price_per_kg": 4.29,
+   "url": "https://www.woolworths.com.au/shop/productdetails/218915"
   },
   {
    "retailer": "Woolworths",
@@ -3687,6 +3687,13 @@
    "price": 4.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/74336"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Macro Organic Silverbeet Rainbow each",
+   "price": 4.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/349592"
   },
   {
    "retailer": "Woolworths",
@@ -4289,6 +4296,13 @@
    "price": 3.0,
    "price_per_kg": 13.64,
    "url": "https://www.woolworths.com.au/shop/productdetails/483668"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Chargrilled Capsicum 280g",
+   "price": 3.2,
+   "price_per_kg": 11.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6039879"
   },
   {
    "retailer": "Woolworths",
@@ -5041,6 +5055,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Woolworths Whole Sweet & Sour Pickles 680g",
+   "price": 3.2,
+   "price_per_kg": 4.71,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6039971"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Continental Cucumbers each",
    "price": 3.3,
    "price_per_kg": null,
@@ -5272,17 +5293,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Fitness Outcomes Beef Rendang With Brown Rice & Green Beans 350g",
-   "price": 7.9,
-   "price_per_kg": 22.57,
-   "url": "https://www.woolworths.com.au/shop/productdetails/597924"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Fitness Outcomes Beef Cashew Korma With Brown Rice & Green Beans 350g",
    "price": 7.9,
    "price_per_kg": 22.57,
    "url": "https://www.woolworths.com.au/shop/productdetails/601557"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Fitness Outcomes Beef Rendang With Brown Rice & Green Beans 350g",
+   "price": 7.9,
+   "price_per_kg": 22.57,
+   "url": "https://www.woolworths.com.au/shop/productdetails/597924"
   },
   {
    "retailer": "Woolworths",
@@ -5734,17 +5755,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic 4 Months+ Apple Peach & Apricot 120g",
-   "price": 1.8,
-   "price_per_kg": 15.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/322266"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Mogu Mogu Peach Drink 320mL",
    "price": 1.8,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/67416"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic 4 Months+ Apple Peach & Apricot 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/322266"
   },
   {
    "retailer": "Woolworths",
@@ -6182,17 +6203,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Waterfords Sparkling Water Lemon Lime Bitters 1L",
-   "price": 1.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/672553"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Waterfords Sparkling Water Tahitian Lime 1L",
    "price": 1.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/672555"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Waterfords Sparkling Water Lemon Lime Bitters 1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/672553"
   },
   {
    "retailer": "Woolworths",
@@ -6400,7 +6421,7 @@
   {
    "retailer": "Woolworths",
    "name": "Delicious Rhubarb and Rose Hand Lotion by Molton Brown for Women - 10 oz Hand Lotion 10 oz",
-   "price": 70.22,
+   "price": 71.71,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1136682212"
   },
@@ -6603,7 +6624,7 @@
   {
    "retailer": "Woolworths",
    "name": "P&P 10X Pet Chewing Toys Corn Cob Radish Teething Sticks For Small Animals Hamsters",
-   "price": 30.45,
+   "price": 29.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1125225169"
   },
@@ -6693,13 +6714,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Remedy Kombucha Ginger Lemon 330mL",
-   "price": 2.95,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/571601"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Remedy Ginger Beer Original 330mL",
    "price": 2.95,
    "price_per_kg": null,
@@ -6718,13 +6732,6 @@
    "price": 2.99,
    "price_per_kg": 142.38,
    "url": "https://www.woolworths.com.au/shop/productdetails/1122271965"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Schweppes Zero Sugar Mixer Dry Ginger Ale 1.1L",
-   "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/634268"
   },
   {
    "retailer": "Woolworths",
