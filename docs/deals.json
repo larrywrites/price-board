@@ -1,11 +1,4793 @@
 {
- "fetched_at": "7:43 AM, Sunday 19 July",
+ "fetched_at": "7:45 AM, Monday 20 July",
  "note": "live",
  "retailers": [
+  "Harris Farm",
   "Panetta Mercato",
   "Woolworths"
  ],
  "products": [
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicum Red Each",
+   "price": 2.01,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/capsicums-red-kg-1331"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Orange Blood Each",
+   "price": 1.26,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oranges-blood-each-4881"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Strawberries 250g",
+   "price": 6.29,
+   "price_per_kg": 25.16,
+   "url": "https://www.harrisfarm.com.au/products/strawberries-large-punnet-4322"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Yellowfin Tuna Steak 430g",
+   "price": 21.5,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-yellowfin-tuna-steak-70403"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle",
+   "price": 15.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Swordfish Steaks Min 430g",
+   "price": 21.5,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-swordfish-steaks-70402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Sashimi Atlantic Salmon min 110g",
+   "price": 14.3,
+   "price_per_kg": 130.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-sashimi-atlantic-salmon-min-110g-70810"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Cosmic Crisp Each",
+   "price": 1.6,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apple-cosmic-crisp-each-40411"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Longans min 500g",
+   "price": 14.0,
+   "price_per_kg": 28.0,
+   "url": "https://www.harrisfarm.com.au/products/longans-5641"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Star Fruit Each",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/star-fruit-each"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Figs Fresh Black Each",
+   "price": 1.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/figs-punnet-4422"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Jazz Premium Each",
+   "price": 1.57,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-jazz-4181"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Beans Organic min 250g",
+   "price": 7.69,
+   "price_per_kg": 30.76,
+   "url": "https://www.harrisfarm.com.au/products/beans-organic-71052"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Walnut Kernels Loose 250g",
+   "price": 5.26,
+   "price_per_kg": 21.04,
+   "url": "https://www.harrisfarm.com.au/products/walnut-kernels-loose-6184"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Pink Lady Premium Large Each",
+   "price": 2.2,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-pink-lady-large-4031"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Sweetlip Bream Fillets Skinned and Deboned 430g",
+   "price": 21.5,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-sweetlip-bream-fillets-deboned-70401"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sweet Potato Kumera Organic min 800g",
+   "price": 10.63,
+   "price_per_kg": 13.29,
+   "url": "https://www.harrisfarm.com.au/products/sweet-potatoes-kumera-organic-72571"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Board Room Bundle",
+   "price": 13.75,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/board-room-bundle-7796"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Imperfect Pink Lady Organic 1.5kg",
+   "price": 8.99,
+   "price_per_kg": 5.99,
+   "url": "https://www.harrisfarm.com.au/products/apple-pink-lady-imperfect-organic-74182"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nougat Limar Vanilla Almond 150g",
+   "price": 6.69,
+   "price_per_kg": 44.6,
+   "url": "https://www.harrisfarm.com.au/products/nougat-limar-vanilla-almond-61856"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Shiitake min 250g",
+   "price": 2.99,
+   "price_per_kg": 11.96,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-shiitake-min-250g-3651"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sweet Potatoes Purple Kumera Imperfect min 1kg",
+   "price": 2.99,
+   "price_per_kg": 2.99,
+   "url": "https://www.harrisfarm.com.au/products/sweet-potatoes-purple-kumera-imperfect-22581"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Dekopon Each",
+   "price": 2.65,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-dekopon-kg-48101"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Vegan Dairy Aged and Smokey Cheese 125g",
+   "price": 24.0,
+   "price_per_kg": 192.0,
+   "url": "https://www.harrisfarm.com.au/products/the-vegan-dairy-aged-and-smokey-cheese-125g-80527"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarins Organic 500g",
+   "price": 8.99,
+   "price_per_kg": 17.98,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-organic-550g-74682"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Organic Mini Celery",
+   "price": 6.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/organic-mini-celery-71473"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Avocado Organic Small Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/avocado-organic-74150"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "First Press Protein Cold Drip Iced Latte 300ml",
+   "price": 4.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/first-press-protein-cold-drip-iced-latte-300ml-89806"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Baby Bake Sweet Potato 500g",
+   "price": 7.69,
+   "price_per_kg": 15.38,
+   "url": "https://www.harrisfarm.com.au/products/baby-bake-sweet-potato-each-22572"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarins Early Sicily Each",
+   "price": 2.65,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-early-sicily-each-46811"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Peas min 250g",
+   "price": 6.5,
+   "price_per_kg": 26.0,
+   "url": "https://www.harrisfarm.com.au/products/peas-kg-2481"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Ginger Organic min 150g",
+   "price": 6.75,
+   "price_per_kg": 45.0,
+   "url": "https://www.harrisfarm.com.au/products/ginger-organic-71861"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Orange Roughy Fillets Skinned and Deboned min 430g",
+   "price": 21.5,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-orange-roughy-fillets-70771"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fajita Mix 500g",
+   "price": 99.99,
+   "price_per_kg": 199.98,
+   "url": "https://www.harrisfarm.com.au/products/fajita-mix-500g-77560"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mediterranean mix 550g",
+   "price": 7.99,
+   "price_per_kg": 14.53,
+   "url": "https://www.harrisfarm.com.au/products/mediterranean-mix-550g-77587"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Watermelon Fingers 720g",
+   "price": 3.99,
+   "price_per_kg": 5.54,
+   "url": "https://www.harrisfarm.com.au/products/watermelon-fingers-720g-9056"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cherries Punnet 500g",
+   "price": 10.99,
+   "price_per_kg": 21.98,
+   "url": "https://www.harrisfarm.com.au/products/cherries-punnet-4352"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Sardines Cleaned and Head Off + Gutted min 500g",
+   "price": 9.9,
+   "price_per_kg": 19.8,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-fresh-sardines-heads-off-70878"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kids School Holiday Fruit Bundle",
+   "price": 10.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/back-to-school-qld-15407"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Strawberries Premium 250g",
+   "price": 8.29,
+   "price_per_kg": 33.16,
+   "url": "https://www.harrisfarm.com.au/products/strawberries-premium-4332"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paw Paw Each",
+   "price": 8.24,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/paw-paw-each-4951"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Empress Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-empress-5921"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Smoked Garlic Each",
+   "price": 4.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/smoked-19521"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Beans Butter Loose min 200g",
+   "price": 2.26,
+   "price_per_kg": 11.3,
+   "url": "https://www.harrisfarm.com.au/products/beans-butter-kilogram-1081"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sugar Snap Peas min 300g",
+   "price": 9.9,
+   "price_per_kg": 33.0,
+   "url": "https://www.harrisfarm.com.au/products/peas-sugar-snap-2591"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sugar Snap Peas 150g",
+   "price": 7.69,
+   "price_per_kg": 51.27,
+   "url": "https://www.harrisfarm.com.au/products/peas-sugar-snap-2592"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sweet Potato Purple Each",
+   "price": 4.01,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-sweet-purple-kg-2581"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pomello Each",
+   "price": 10.16,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pomello-4861"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Avocado Hass Small Each",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/avocadoes-small-4150"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Avocado GMax Greenskin Small Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/avocado-gmax-greenskin-small-4164"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Garlic Shoots Bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/garlic-shoots-bunch-3862"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Sugar Plum 200g",
+   "price": 5.49,
+   "price_per_kg": 27.45,
+   "url": "https://www.harrisfarm.com.au/products/tomato-sugar-plum-3164"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dragon Fruit Red Flesh Each",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/dragon-fruit-red-flesh-50022"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Passionfruit Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/passionfruit-each-4940"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Strawberries Premium 500g",
+   "price": 8.29,
+   "price_per_kg": 16.58,
+   "url": "https://www.harrisfarm.com.au/products/strawberries-premium-500g-43227"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Passionfruit x10 Netted",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/passionfruit-net-49421"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grapes Black Seedless min 1kg",
+   "price": 11.29,
+   "price_per_kg": 11.29,
+   "url": "https://www.harrisfarm.com.au/products/grapes-black-59811"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish In The Family Cooked Kings Prawns Medium min 500g",
+   "price": 59.99,
+   "price_per_kg": 119.98,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-cooked-school-prawns-medium-70673"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Corella Imperfect Each",
+   "price": 0.58,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pears-corella-imperfect-25091"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Blue Swimmer Crab Raw Cleaned min 350g",
+   "price": 15.75,
+   "price_per_kg": 45.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-blue-swimmer-crab-raw-70714"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Strawberries 500g",
+   "price": 3.49,
+   "price_per_kg": 6.98,
+   "url": "https://www.harrisfarm.com.au/products/strawberry-43225"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Tomato and Burrata Ravioli 325g",
+   "price": 9.49,
+   "price_per_kg": 29.2,
+   "url": "https://www.harrisfarm.com.au/products/rana-tomato-and-burrata-ravioli-325g-816285"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Burrata Cheese and Arrabbiata Ravioli 300g",
+   "price": 9.49,
+   "price_per_kg": 31.63,
+   "url": "https://www.harrisfarm.com.au/products/rana-burrata-cheese-and-arrabbiata-ravioli-300g-816278"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cherries Premium Loose Min 500g",
+   "price": 16.5,
+   "price_per_kg": 33.0,
+   "url": "https://www.harrisfarm.com.au/products/cherries-tray-4351"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Orange Imperfect Navel Each",
+   "price": 0.46,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oranges-navel-imperfect-pick-value-range-each-24911"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Limes Finger 125g",
+   "price": 9.99,
+   "price_per_kg": 79.92,
+   "url": "https://www.harrisfarm.com.au/products/limes-finger-46412"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Cherry 200g",
+   "price": 2.99,
+   "price_per_kg": 14.95,
+   "url": "https://www.harrisfarm.com.au/products/tomato-cherry-3012"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Corn Loose Each",
+   "price": 1.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/corn-each-1720"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Fresh Butterfly Sardine Fillets min 250g",
+   "price": 10.0,
+   "price_per_kg": 40.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-fresh-butterfly-sardine-fillets-250g-70686"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Spinach English Organic bunch",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/spinach-english-organic-bunch-72822"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Spinach Silverbeet Organic Bunch",
+   "price": 7.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/spinach-organic-bunch-72812"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Organic Rosemary Bunch",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fresh-herbs-rosemary-organic-73452"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Organic Thyme Bunch",
+   "price": 6.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fresh-herbs-thyme-organic-73502"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Sage Organic bunch",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fresh-herbs-sage-organic-73462"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Organic Mint",
+   "price": 7.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mint-organic-73372"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Chives Organic bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/organic-chives-bunch-73302"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Cooked Tiger Prawns Extra Large min 500g",
+   "price": 25.0,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-cooked-tiger-prawns-extra-large-1kg-70753"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lemon Organic 500g",
+   "price": 10.99,
+   "price_per_kg": 21.98,
+   "url": "https://www.harrisfarm.com.au/products/lemons-organic-pack-74622"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Gourmet Organic 500g",
+   "price": 8.99,
+   "price_per_kg": 17.98,
+   "url": "https://www.harrisfarm.com.au/products/tomatoes-gourmet-organic-73002"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Peaches Flat Each",
+   "price": 2.12,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/peaches-flat-51111"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Murcott Large Each",
+   "price": 2.75,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarines-murcott-4931"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Afourer Imperfect Each",
+   "price": 0.33,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-afourer-imperfect-pick-value-range-24761"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Oranges Navel Net 3kg",
+   "price": 6.69,
+   "price_per_kg": 2.23,
+   "url": "https://www.harrisfarm.com.au/products/oranges-navel-nets-49121"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Orange Navel Large Premium Each",
+   "price": 1.92,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/orange-navel-large-kg-4911"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Purelife Essene Supreme 1.1kg",
+   "price": 11.49,
+   "price_per_kg": 10.45,
+   "url": "https://www.harrisfarm.com.au/products/purelife-essene-supreme-1-81368"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cumquats min 250g",
+   "price": 8.42,
+   "price_per_kg": 33.68,
+   "url": "https://www.harrisfarm.com.au/products/cumquats-4361"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Orange Cara Cara Each",
+   "price": 2.5,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/cara-cara-oranges-each-44921"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Natureland Banana and Apple with Berries 120g",
+   "price": 2.29,
+   "price_per_kg": 19.08,
+   "url": "https://www.harrisfarm.com.au/products/natureland-banana-and-apple-with-berries-120g-100142"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Natureland Apple and Mango 120g",
+   "price": 2.29,
+   "price_per_kg": 19.08,
+   "url": "https://www.harrisfarm.com.au/products/natureland-apple-and-mango-120g-100143"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Bravo Premium Each",
+   "price": 2.5,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-bravo-44431"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Daisy Mandarin Imperfect Each",
+   "price": 2.65,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/daisy-mandarin-imperfect-each-25731"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Avocado GMax Greenskin Extra Large Each",
+   "price": 1.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/avocado-greenskin-gmax-large-each-4163"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicum Green Organic 2 Pack Each",
+   "price": 14.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/capsicum-green-organic-500g-71342"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kale Organic Bunch",
+   "price": 8.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/kale-organic-72212"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mango Green Cooking Each",
+   "price": 3.3,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mangoes-cooking-5381"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Purelife Sprouted Ezekiel 1kg",
+   "price": 15.29,
+   "price_per_kg": 15.29,
+   "url": "https://www.harrisfarm.com.au/products/purelife-sprouted-ezekiel-1kg-81371"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Good Crisps Potato Crisps Original 160g",
+   "price": 4.99,
+   "price_per_kg": 31.19,
+   "url": "https://www.harrisfarm.com.au/products/the-good-crisps-potato-crisps-original-42416"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Petite Tomatoes 200g",
+   "price": 4.49,
+   "price_per_kg": 22.45,
+   "url": "https://www.harrisfarm.com.au/products/petite-tomatoes-200g-72984"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Quince Each",
+   "price": 2.2,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/quinces-kg-5211"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Squash Spaghetti Each",
+   "price": 13.58,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/squash-spaghetti-kg-2901"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Red Grapes Seedless Tub 400g",
+   "price": 6.99,
+   "price_per_kg": 17.47,
+   "url": "https://www.harrisfarm.com.au/products/red-grapes-seedless-tub-400g-44612"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Raspberries Premium 125g",
+   "price": 5.49,
+   "price_per_kg": 43.92,
+   "url": "https://www.harrisfarm.com.au/products/raspberries-premium-125g-43025"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chilli Bullhorn Yellow Sweet Each",
+   "price": 1.77,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/chilli-sweet-1541"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Ox Heart Each",
+   "price": 4.79,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/tomatoes-ox-heart-2971"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Yello Each",
+   "price": 3.14,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-yello-40331"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Guava Each",
+   "price": 2.24,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/guava-4551"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Kestrel 2kg",
+   "price": 7.69,
+   "price_per_kg": 3.85,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-kestrel-2kg-7482"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Packham Organic 1kg",
+   "price": 1.17,
+   "price_per_kg": 1.17,
+   "url": "https://www.harrisfarm.com.au/products/pear-packham-organic-74992"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Kipfler Washed 1kg",
+   "price": 8.99,
+   "price_per_kg": 8.99,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-kipfler-prepacked-7522"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kiwifruit Gold Prepack 600g",
+   "price": 8.99,
+   "price_per_kg": 14.98,
+   "url": "https://www.harrisfarm.com.au/products/kiwifruit-gold-4442"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Passionfruit Panama Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/passionfruit-panama-5700"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Missile Each",
+   "price": 1.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/missile-apples-401221"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Brown Flat Organic 375g",
+   "price": 10.99,
+   "price_per_kg": 29.31,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-brown-flat-organic-72374"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Cup Organic 180g",
+   "price": 7.69,
+   "price_per_kg": 42.72,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-organic-72372"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Medley Mix 200g",
+   "price": 2.99,
+   "price_per_kg": 14.95,
+   "url": "https://www.harrisfarm.com.au/products/tomatoes-medley-mix-small-31722"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Blackberries 125g",
+   "price": 6.29,
+   "price_per_kg": 50.32,
+   "url": "https://www.harrisfarm.com.au/products/blackberries-punnet-4242"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Blueberries 125g",
+   "price": 6.69,
+   "price_per_kg": 53.52,
+   "url": "https://www.harrisfarm.com.au/products/blueberries-4232"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Pink Lady Organic 1kg",
+   "price": 8.99,
+   "price_per_kg": 8.99,
+   "url": "https://www.harrisfarm.com.au/products/apple-pink-lady-organic-1kg-74032"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Mini Roma 200g",
+   "price": 6.29,
+   "price_per_kg": 31.45,
+   "url": "https://www.harrisfarm.com.au/products/tomato-mini-roma"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lime min 500g",
+   "price": 5.69,
+   "price_per_kg": 11.38,
+   "url": "https://www.harrisfarm.com.au/products/limes-net-4642"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Afourer Each",
+   "price": 1.66,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-afourer-each-4761"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Asparagus Bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/asparagus-bunch-1042"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Piqa Boo",
+   "price": 1.51,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pear-piqa-55911"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Madame Tiger Barista Tiger Nut Milk 1L",
+   "price": 5.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/madame-tiger-barista-tiger-nut-milk-1l-100187"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Grape Organic 200g",
+   "price": 6.99,
+   "price_per_kg": 34.95,
+   "url": "https://www.harrisfarm.com.au/products/tomato-snacking-organic-73033"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Cherry Truss min 300g",
+   "price": 6.39,
+   "price_per_kg": 21.3,
+   "url": "https://www.harrisfarm.com.au/products/tomato-cherry-truss-kg-3161"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Packham Imperfect Each",
+   "price": 0.74,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pears-imperfect-pick-value-range-24991"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Simply Wize Gluten Free Lavosh Mixed Seeds and Rosemary 168g",
+   "price": 6.49,
+   "price_per_kg": 38.63,
+   "url": "https://www.harrisfarm.com.au/products/simply-wize-gluten-free-lavosh-mixed-seeds-and-rosemary-168g-855166"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Packham Large Premium Each",
+   "price": 1.51,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pears-packham-large-kg-4991"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Daisy Each",
+   "price": 1.92,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarin-daisy-kg-5731"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Shimeji White 350g",
+   "price": 2.99,
+   "price_per_kg": 8.54,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-shimeji-white-350g-3713"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Coconut Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/coconuts-each-4382"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Basil Thai Bunch",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/basil-thai-3222"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Black Garlic 250g",
+   "price": 14.29,
+   "price_per_kg": 57.16,
+   "url": "https://www.harrisfarm.com.au/products/garlic-black-each-7292"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Witlof Twin Pack Each",
+   "price": 10.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/witloff-each-3052"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Beans Italian min 300g",
+   "price": 5.1,
+   "price_per_kg": 17.0,
+   "url": "https://www.harrisfarm.com.au/products/beans-italian-1101"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Swede Each",
+   "price": 1.67,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/swedes-kg-2871"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Organic Southern Bliss Apples 1kg",
+   "price": 1.57,
+   "price_per_kg": 1.57,
+   "url": "https://www.harrisfarm.com.au/products/organic-southern-bliss-apples-1kg-74092"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sweet Potato Hawaiian Each",
+   "price": 2.68,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potato-hawian-sweet-white-7491"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Avocado Large Imperfect Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/avocados-large-imperfect-pick-value-range"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pears Piqa Boo Prepack 750g",
+   "price": 1.51,
+   "price_per_kg": 2.01,
+   "url": "https://www.harrisfarm.com.au/products/pears-piqa-boo-750g-55913"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Local Kitchen Rocket and Spinach 100g",
+   "price": 4.49,
+   "price_per_kg": 44.9,
+   "url": "https://www.harrisfarm.com.au/products/local-kitchen-rocket-and-spinach-100g-7165"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Local Kitchen Baby Spinach 120g",
+   "price": 4.49,
+   "price_per_kg": 37.42,
+   "url": "https://www.harrisfarm.com.au/products/local-kitchen-baby-spinach-120g-7167"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pumpkin Butternut Cut Organic 500g",
+   "price": 4.49,
+   "price_per_kg": 8.98,
+   "url": "https://www.harrisfarm.com.au/products/pumpkin-butternut-cut-organic-72662"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Beetroot Organic 500g",
+   "price": 5.49,
+   "price_per_kg": 10.98,
+   "url": "https://www.harrisfarm.com.au/products/beetroot-organic-71142"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Granny Smith Organic 1kg",
+   "price": 12.29,
+   "price_per_kg": 12.29,
+   "url": "https://www.harrisfarm.com.au/products/apple-granny-smith-organic-74072"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Celery Whole Organic",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/celery-organic-71472"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grapefruit Each",
+   "price": 3.95,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/grapefruit-4561"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chokoe Each",
+   "price": 2.8,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/chokoes-kg-1701"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Baby Potatoes 750g",
+   "price": 7.69,
+   "price_per_kg": 10.25,
+   "url": "https://www.harrisfarm.com.au/products/baby-potatoes-750g-2500"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Coconut Pieces 250g",
+   "price": 7.69,
+   "price_per_kg": 30.76,
+   "url": "https://www.harrisfarm.com.au/products/coconut-pieces-250g-779"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fioretto Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fioretto-11151"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Kestrel Each",
+   "price": 0.82,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-kestrel-kg-7481"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Creamy Pumpkin and Cheese Tortellini 565g",
+   "price": 9.49,
+   "price_per_kg": 16.8,
+   "url": "https://www.harrisfarm.com.au/products/rana-creamy-pumpkin-and-cheese-tortellini-565g-100021"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pomegranate Imperfect Each",
+   "price": 1.1,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pomegranates-imperfect-pick-value-range-25041"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grapefruit Ruby Red Each",
+   "price": 2.31,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/grapefruit-ruby-red-kg-4581"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grapefruit Ruby Red Imperfect Each",
+   "price": 1.57,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/grapefruits-ruby-red-imperfect-24581"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Imperfect Granny Smith Each",
+   "price": 0.66,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/granny-smith-apples-imperfect-pick-24071"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Ricotta and Spinach Tortellini 565g",
+   "price": 9.49,
+   "price_per_kg": 16.8,
+   "url": "https://www.harrisfarm.com.au/products/rana-ricotta-and-spinach-tortellini-565g-100022"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Imperfect Pink Lady Each",
+   "price": 0.66,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apple-pink-lady-imperfect-pick-value-range-each-24031"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Pink Lady Small Each",
+   "price": 1.4,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-pink-lady-40315"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pears Nashi Premium Prepack 750g",
+   "price": 5.99,
+   "price_per_kg": 7.99,
+   "url": "https://www.harrisfarm.com.au/products/pears-nashi-prepack-5390"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kiwi Berries Punnet 125g",
+   "price": 6.99,
+   "price_per_kg": 55.92,
+   "url": "https://www.harrisfarm.com.au/products/kiwi-berries-5912"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Imperfect Each",
+   "price": 0.33,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-imperial-imperfect-24681"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicum Red Imperfect Each",
+   "price": 1.15,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/capsicums-red-imperfect-pick-value-range-21331"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lemon Prepack 1kg",
+   "price": 4.49,
+   "price_per_kg": 4.49,
+   "url": "https://www.harrisfarm.com.au/products/lemon-prepack-1kg-4622"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicum Red Net Each",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/capsicum-red-pack-1332"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Barramundi Fillets 430g",
+   "price": 17.2,
+   "price_per_kg": 40.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-barramundi-fillets-430g-70685"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Flathead Fillets Deboned Skin Off 430g",
+   "price": 25.8,
+   "price_per_kg": 60.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-flathead-fillets-70741"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fuyu Fruit Each",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fuyu-fruit-each-5632"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kiwifruit Gold Each",
+   "price": 1.95,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/kiwifruit-gold-each-4441"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chestnuts Fresh min 500g",
+   "price": 7.35,
+   "price_per_kg": 14.7,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chestnuts-6801"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Imperial Premium Each",
+   "price": 0.94,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarins-imperial-46815"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Ocean Trout Fillets Deboned min 430g",
+   "price": 27.95,
+   "price_per_kg": 65.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-ocean-trout-fillets-70731"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Corella Each",
+   "price": 1.73,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pears-corella-kg-5091"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Beurre Bosc Each",
+   "price": 1.67,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pears-beur-bosc-kg-4981"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mandarin Imperial Large Each",
+   "price": 0.82,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mandarin-imperial-each-4681"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pomegranate Each",
+   "price": 8.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pomegranate-each-5042"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicum Red Organic 350g",
+   "price": 8.99,
+   "price_per_kg": 25.69,
+   "url": "https://www.harrisfarm.com.au/products/capsicum-red-organic-71332"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "BBQ Bundle",
+   "price": 45.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bbq-box-77407"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Avocado Shepard Greenskin Small Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/avocado-greenskin-41502"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Kanzi Premium Each",
+   "price": 1.54,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-kanzi-kg-44001"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Royal Gala Imperfect Organic 1.5kg",
+   "price": 8.29,
+   "price_per_kg": 5.53,
+   "url": "https://www.harrisfarm.com.au/products/apple-royal-gala-imperfect-organic-74172"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Royal Gala Organic 1kg",
+   "price": 7.69,
+   "price_per_kg": 7.69,
+   "url": "https://www.harrisfarm.com.au/products/apples-royal-gala-organic-74102"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Banana Organic Each",
+   "price": 1.54,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bananas-organic-74211"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bruebecks Chopped Caesar Salad 240g",
+   "price": 4.49,
+   "price_per_kg": 18.71,
+   "url": "https://www.harrisfarm.com.au/products/bruebecks-chopped-caesar-salad-240g-841726"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Washed 2.5kg",
+   "price": 7.69,
+   "price_per_kg": 3.08,
+   "url": "https://www.harrisfarm.com.au/products/potato-washed-2-5kg-25161"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Cloudy Bay Clams Min 500g",
+   "price": 15.99,
+   "price_per_kg": 31.98,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-cloudy-bay-clams-min-500g-70631"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Jujube Fruit Each",
+   "price": 1.01,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/jujube-fruit-45511"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Tiny Toms 125g",
+   "price": 5.49,
+   "price_per_kg": 43.92,
+   "url": "https://www.harrisfarm.com.au/products/tomato-tiny-toms-175g-30118"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Salad Baby Spinach 200g",
+   "price": 13.15,
+   "price_per_kg": 65.75,
+   "url": "https://www.harrisfarm.com.au/products/salad-baby-spinach-7051"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Podravka Horseradish 200g",
+   "price": 5.29,
+   "price_per_kg": 26.45,
+   "url": "https://www.harrisfarm.com.au/products/podravka-horseradish-200g"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear Nashi White Each",
+   "price": 1.92,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pears-nashi-5391"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nuttelex Buttery Spread 500g",
+   "price": 8.69,
+   "price_per_kg": 17.38,
+   "url": "https://www.harrisfarm.com.au/products/nuttelex-buttery-spread-500g-71486"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Inside Out Collagen Almond Milk 1L",
+   "price": 5.5,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/inside-out-collagen-almond-milk-77240"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Handcut Harvest Sliced Potato 500g",
+   "price": 6.69,
+   "price_per_kg": 13.38,
+   "url": "https://www.harrisfarm.com.au/products/handcut-harvest-sliced-potato-500g-9863"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Handcut Harvest Diced Potato 500g",
+   "price": 6.69,
+   "price_per_kg": 13.38,
+   "url": "https://www.harrisfarm.com.au/products/handcut-harvest-diced-potato-500g-9862"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tilda Ginger Soy Sticky Rice Pouch 250g",
+   "price": 2.99,
+   "price_per_kg": 11.96,
+   "url": "https://www.harrisfarm.com.au/products/tilda-ginger-soy-sticky-rice-pouch-99018"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Zucchini Black Each",
+   "price": 0.67,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/zucchini-black-3061"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Kestrel small min 1kg",
+   "price": 7.99,
+   "price_per_kg": 7.99,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-kestrel-cocktail"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mango Keitt Each",
+   "price": 3.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mangoes-keitt-47062"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mango Palmer Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mango-palmer-each-47052"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Parsnip Each",
+   "price": 2.14,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/parsnips-kg-2471"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Mr Flax Pastrami Salmon 100g",
+   "price": 41.98,
+   "price_per_kg": 419.8,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-mr-flax-pastrami-salmon-100g-70088"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Mr Flax Smoked Salmon 100g",
+   "price": 41.98,
+   "price_per_kg": 419.8,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-mr-flax-smoked-salmon-100g-70641"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Mr Flax Gravlax Salmon 100g",
+   "price": 41.98,
+   "price_per_kg": 419.8,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-mr-flax-gravlax-salmon-100g-70687"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Pacific Oysters Large 1 doz",
+   "price": 33.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-pacific-oysters-large-1-dozen-70704"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Onion Red Pickling 500g",
+   "price": 1.99,
+   "price_per_kg": 3.98,
+   "url": "https://www.harrisfarm.com.au/products/onions-red-pickling-24322"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grapes Premium White Seedless min 500g",
+   "price": 8.5,
+   "price_per_kg": 17.0,
+   "url": "https://www.harrisfarm.com.au/products/grapes-white-seedless-4491"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pear William Each",
+   "price": 0.24,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pears-william-small-49715"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Avocado Organic min 3 pack 550g",
+   "price": 3.99,
+   "price_per_kg": 7.25,
+   "url": "https://www.harrisfarm.com.au/products/avocadoes-organic-74162"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Onion Red Spanish Organic 500g",
+   "price": 10.99,
+   "price_per_kg": 21.98,
+   "url": "https://www.harrisfarm.com.au/products/onion-spanish-organic-72442"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Brilliant Food Hot Smoked Salmon 150g",
+   "price": 5.99,
+   "price_per_kg": 39.93,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-brilliant-food-hot-smoked-salmon-70458"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Brilliant Food Hot Ocean Trout Gravlax 100g",
+   "price": 31.99,
+   "price_per_kg": 319.9,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-brilliant-food-hot-ocean-trout-gravlax-70460"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "McClure\u2019s Jalapenos 500g",
+   "price": 5.29,
+   "price_per_kg": 10.58,
+   "url": "https://www.harrisfarm.com.au/products/mcclure-s-jalapenos-500g-100346"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Westmont Beer Pickle 410g",
+   "price": 6.49,
+   "price_per_kg": 15.83,
+   "url": "https://www.harrisfarm.com.au/products/westmont-beer-pickle-410g-901047"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Westmont Sweet and Spicy Cucumber Pickles 410g",
+   "price": 6.49,
+   "price_per_kg": 15.83,
+   "url": "https://www.harrisfarm.com.au/products/westmont-sweet-and-spicy-cucumber-pickles-410g-901045"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Westmont Dill Sour Cucumber Pickles 410g",
+   "price": 6.49,
+   "price_per_kg": 15.83,
+   "url": "https://www.harrisfarm.com.au/products/westmont-dill-sour-cucumber-pickles-410g-901044"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Saddletail Snapper Fillets Skinned and Deboned min 430g",
+   "price": 21.5,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-saddletail-snapper-fillets-70794"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Brilliant Food Hot Ocean Trout 150g",
+   "price": 31.99,
+   "price_per_kg": 213.27,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-brilliant-food-hot-ocean-trout-70459"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Royal Gala Premium Each",
+   "price": 1.62,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-royal-gala-kg-41015"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Zucchini Black Organic 500g",
+   "price": 8.99,
+   "price_per_kg": 17.98,
+   "url": "https://www.harrisfarm.com.au/products/zucchini-black-organic-73062"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sweet Potato Kumera Organic 500g",
+   "price": 7.69,
+   "price_per_kg": 15.38,
+   "url": "https://www.harrisfarm.com.au/products/organic-sweet-potato-500g-72572"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Broccoli Organic 500g",
+   "price": 7.69,
+   "price_per_kg": 15.38,
+   "url": "https://www.harrisfarm.com.au/products/broccoli-organic-500g-71162"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bertagni Pumpkin Ravioli 250g",
+   "price": 5.99,
+   "price_per_kg": 23.96,
+   "url": "https://www.harrisfarm.com.au/products/bertagni-pumpkin-ravioli-250g-90912"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bertagni Cacio E Pepe Girasoli 250g",
+   "price": 5.99,
+   "price_per_kg": 23.96,
+   "url": "https://www.harrisfarm.com.au/products/bertagni-cacio-e-pepe-girasoli-250g-97837"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bertagni Porcini and Truffle 250g",
+   "price": 5.99,
+   "price_per_kg": 23.96,
+   "url": "https://www.harrisfarm.com.au/products/bertagni-porcini-and-truffle-250g-97836"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Ling Fillets Deboned Skin Off min 430g",
+   "price": 21.5,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-ling-fillets-70734"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrot Rainbow Dutch 250g",
+   "price": 5.69,
+   "price_per_kg": 22.76,
+   "url": "https://www.harrisfarm.com.au/products/carrots-dutch-rainbow-7118"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrot Yellow Stone Dutch Bunch",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/dutch-carrots-yellow-stone-13942"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrot Purple Dutch Bunch",
+   "price": 5.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/carrots-purple-bunch-13922"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Blueberries Premium 125g",
+   "price": 9.99,
+   "price_per_kg": 79.92,
+   "url": "https://www.harrisfarm.com.au/products/blueberries-premium-4230"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Onion Brown Organic 1kg",
+   "price": 10.99,
+   "price_per_kg": 10.99,
+   "url": "https://www.harrisfarm.com.au/products/onion-brown-organic-72412"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Goose Black Truffle Cheese 120g",
+   "price": 16.06,
+   "price_per_kg": 133.83,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-goose-black-truffle-cheese-120g-69971"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Green Lion Vegan Bean and Beef Style Burrito Bowl 350g",
+   "price": 10.49,
+   "price_per_kg": 29.97,
+   "url": "https://www.harrisfarm.com.au/products/the-green-lion-vegan-bean-beef-style-burrito-bowl-98335"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grapes Red Seedless min 1kg",
+   "price": 4.99,
+   "price_per_kg": 4.99,
+   "url": "https://www.harrisfarm.com.au/products/grapes-red-seedless-44611"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kiwifruit Green Each",
+   "price": 1.25,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/kiwifruit-each-4611"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Hugo's Broccoli Sprouts 75g",
+   "price": 4.99,
+   "price_per_kg": 66.53,
+   "url": "https://www.harrisfarm.com.au/products/sprouts-broccoli-sprouts-31922"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pears Asian Each",
+   "price": 8.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pear-asian-each-7232"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Beerenberg Mint Jelly 185g",
+   "price": 4.29,
+   "price_per_kg": 23.19,
+   "url": "https://www.harrisfarm.com.au/products/beerenberg-mint-jelly-93205"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrot Organic 1kg",
+   "price": 6.29,
+   "price_per_kg": 6.29,
+   "url": "https://www.harrisfarm.com.au/products/carrots-organic-71382"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Koko Black Cranberry Macadamia and Cherry Block 80g",
+   "price": 10.99,
+   "price_per_kg": 137.38,
+   "url": "https://www.harrisfarm.com.au/products/koko-black-cranberry-macadamia-and-cherry-block-66978"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Brussels Sprout min 500g",
+   "price": 4.5,
+   "price_per_kg": 9.0,
+   "url": "https://www.harrisfarm.com.au/products/brussel-sprouts-1171"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kale Purple bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/kale-purple-22122"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrot Juicing 5kg",
+   "price": 7.69,
+   "price_per_kg": 1.54,
+   "url": "https://www.harrisfarm.com.au/products/carrots-juicing-8378"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Orange Valencia Each",
+   "price": 1.56,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oranges-valencia-kg-4921"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rambutans min 500g",
+   "price": 22.5,
+   "price_per_kg": 45.0,
+   "url": "https://www.harrisfarm.com.au/products/rambutan-4661"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lime Imperfect Each",
+   "price": 0.57,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/limes-imperfect-pick-value-range-24641"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Portobello min 400g",
+   "price": 8.4,
+   "price_per_kg": 21.0,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-portobello-kg"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Shallots Organic Bunch",
+   "price": 7.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/shallot-organic-72772"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Turmeric min 200g",
+   "price": 10.29,
+   "price_per_kg": 51.45,
+   "url": "https://www.harrisfarm.com.au/products/turmeric-each-2942"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Squash Gold 250g",
+   "price": 5.99,
+   "price_per_kg": 23.96,
+   "url": "https://www.harrisfarm.com.au/products/squash-gold-each-2862"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicums Baby Mixed Colour Organic 175g",
+   "price": 6.69,
+   "price_per_kg": 38.23,
+   "url": "https://www.harrisfarm.com.au/products/capsicums-baby-mixed-colour-organic-71333"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chinese Cabbage Baby Each",
+   "price": 3.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/chinese-cabbage-baby-1182"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Cocktail Red Each",
+   "price": 0.79,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potato-cocktail-red-25011"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Inside Out Collagen Oat Milk 1L",
+   "price": 5.5,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/inside-out-collagen-oat-milk-77241"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Swiss Brown Organic 180g",
+   "price": 7.69,
+   "price_per_kg": 42.72,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-swiss-brown-organic-73742"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Hairy Chi Qua each",
+   "price": 6.23,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/chick-qua-each-1611"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Salad Mesclun 100g",
+   "price": 4.49,
+   "price_per_kg": 44.9,
+   "url": "https://www.harrisfarm.com.au/products/salad-mesclun-100g-7036"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dragon Fruit Each",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/dragon-fruit-each-5012"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rozas Gourmet Hollandaise 240ml",
+   "price": 8.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/rozas-gourmet-hollandaise-240ml"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paradise Beach Hommus Big Classic 350g",
+   "price": 6.49,
+   "price_per_kg": 18.54,
+   "url": "https://www.harrisfarm.com.au/products/paradise-beach-hommus-big-classic-350g-841437"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grosset Springvale Riesling Clare Valley SA 750ml",
+   "price": 45.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/grosset-springvale-riesling-590532"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fifya Vegan Dips Tzatziki 250g",
+   "price": 6.69,
+   "price_per_kg": 26.76,
+   "url": "https://www.harrisfarm.com.au/products/fifya-vegan-tzatziki-dip-250g-96297"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Asparagus Baby Bunch",
+   "price": 5.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/asparagus-baby-1292"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Banana Eco Each",
+   "price": 1.54,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/banana-eco-74201"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Bitter Each",
+   "price": 3.3,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/melon-bitter-kg-4731"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pumpkin Kent Cut Organic min 500g",
+   "price": 4.49,
+   "price_per_kg": 8.98,
+   "url": "https://www.harrisfarm.com.au/products/pumpkin-kent-organic-72932"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Gourmet 1kg",
+   "price": 7.29,
+   "price_per_kg": 7.29,
+   "url": "https://www.harrisfarm.com.au/products/tomatoes-gourmet-prepacked"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Ora King Salmon Fillets Deboned min 430g",
+   "price": 24.5,
+   "price_per_kg": 56.98,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-ora-king-salmon-fillets-deboned-min-430g-70843"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tyrrells Slow-Cooked Crisps Lightly Sea Salted 165g",
+   "price": 5.99,
+   "price_per_kg": 36.3,
+   "url": "https://www.harrisfarm.com.au/products/tyrrells-potato-chips-lightly-sea-salted-16470"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Plantain Each",
+   "price": 3.02,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/plantain-4191"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apricot Premium Prepack 500g",
+   "price": 4.99,
+   "price_per_kg": 9.98,
+   "url": "https://www.harrisfarm.com.au/products/apricot-premium-500g-4142"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Brushed 5kg",
+   "price": 9.99,
+   "price_per_kg": 2.0,
+   "url": "https://www.harrisfarm.com.au/products/potato-brushed-25215"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Suzy Spoon's Vegan Butter Chicken 425g",
+   "price": 12.99,
+   "price_per_kg": 30.56,
+   "url": "https://www.harrisfarm.com.au/products/suzy-spoons-vegan-butter-chicken-30279"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Purelife Sprouted Date and Walnut 1kg",
+   "price": 16.29,
+   "price_per_kg": 16.29,
+   "url": "https://www.harrisfarm.com.au/products/purelife-sprouted-date-and-walnut-81372"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Bell Pepper Fetta 200g",
+   "price": 3.99,
+   "price_per_kg": 19.95,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-pepper-filled-with-fetta-30723"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Fresh Margarita Mix 500ml",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-fresh-margarita-mix-8436"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Orange Organic 1kg",
+   "price": 8.99,
+   "price_per_kg": 8.99,
+   "url": "https://www.harrisfarm.com.au/products/oranges-organic-74932"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Tortellini with Parmigiano Reggiano Pasta 325g",
+   "price": 9.49,
+   "price_per_kg": 29.2,
+   "url": "https://www.harrisfarm.com.au/products/rana-tortellini-with-parmigiano-reggiano-pasta-325g-816273"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Porcini Mushroom Ravioli 325g",
+   "price": 9.49,
+   "price_per_kg": 29.2,
+   "url": "https://www.harrisfarm.com.au/products/rana-porcini-mushroom-ravioli-325g-816271"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Tortellini with Prosciutto Di Parma Ravioli 325g",
+   "price": 9.49,
+   "price_per_kg": 29.2,
+   "url": "https://www.harrisfarm.com.au/products/rana-tortellini-with-prosciutto-di-parma-ravioli-325g-816274"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Ricotta & Spinach Ravioli 325g",
+   "price": 9.49,
+   "price_per_kg": 29.2,
+   "url": "https://www.harrisfarm.com.au/products/rana-ricotta-spinach-ravioli-325g-816269"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Ceres Organics Sliced Gherkins 670g",
+   "price": 5.29,
+   "price_per_kg": 7.9,
+   "url": "https://www.harrisfarm.com.au/products/ceres-organics-sliced-gherkins-670g-97803"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nutra Organics Blueberries Gutsy Gummies 150g",
+   "price": 39.99,
+   "price_per_kg": 266.6,
+   "url": "https://www.harrisfarm.com.au/products/nutra-organics-blueberries-gutsy-gummies-150g-855401"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Zuccato Gherkin Sweet and Sour 1kg",
+   "price": 5.99,
+   "price_per_kg": 5.99,
+   "url": "https://www.harrisfarm.com.au/products/zuccato-gherkin-sweet-and-sour-1kg-97685"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Gai Lan Bunch",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/asian-gai-lan-each-1552"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Riverina Fresh Full Cream Milk 2L",
+   "price": 4.8,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/riverina-fresh-full-cream-milk-2l-88467"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Garlic Prawn & Chive 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-garlic-prawn-chive-120g-69974"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "V2Food Sweet Chilli Tenders x5 250g",
+   "price": 6.99,
+   "price_per_kg": 27.96,
+   "url": "https://www.harrisfarm.com.au/products/v2food-sweet-chilli-tenders-x5-250g-841499"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Salmon Caviar 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-salmon-caviar-120g-69973"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Chicken Peppercorn Pate 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-chicken-peppercorn-pate-120g-69967"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Chilli Crab Basil 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-chilli-crab-basil-120g-69972"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Vegetali Coconut Pineapple Yellow Curry 400g",
+   "price": 2.99,
+   "price_per_kg": 7.48,
+   "url": "https://www.harrisfarm.com.au/products/vegetali-coconut-pineapple-yellow-curry-400g-96802"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Duck Liver Pate with Cranberries & Desert Lime 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-duck-liver-pate-with-cranberries-desert-lime-120g-69970"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Chicken Liver Pate with Green Pepper Corn & Apple Brandy 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-chicken-liver-pate-with-green-pepper-corn-apple-brandy-120g-69966"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paradise Beach Jalapeno Hommus 200g",
+   "price": 6.99,
+   "price_per_kg": 34.95,
+   "url": "https://www.harrisfarm.com.au/products/paradise-beach-jalapeno-hommus-200g-841436"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Dolmades 250g",
+   "price": 7.49,
+   "price_per_kg": 29.96,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-dolmades-250g-842645"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Duck Liver with Plum & Cognac 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-duck-liver-with-plum-cognac-120g-69968"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dates Medjoul 500g",
+   "price": 164.95,
+   "price_per_kg": 329.9,
+   "url": "https://www.harrisfarm.com.au/products/dates-medjoul-500g-4413"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cheeky Poke Chicken Edamame & Mustard Mayo High Protein Poke Bowl 350g",
+   "price": 10.99,
+   "price_per_kg": 31.4,
+   "url": "https://www.harrisfarm.com.au/products/cheeky-poke-chicken-ed-mm-hp-poke-bowl-720339"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cheeky Poke Korean BBQ Mushroom Poke Bowl 350g",
+   "price": 10.99,
+   "price_per_kg": 31.4,
+   "url": "https://www.harrisfarm.com.au/products/cheeky-poke-korean-bbq-mushroom-poke-bowl-720338"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cheeky Poke Chicken & Creamy Asian Poke Bowl 350g",
+   "price": 10.99,
+   "price_per_kg": 31.4,
+   "url": "https://www.harrisfarm.com.au/products/cheeky-poke-chicken-cry-asn-poke-bowl-720335"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cheeky Poke Seared Salmon & Wasabi Mayo Poke Bowl 350g",
+   "price": 10.99,
+   "price_per_kg": 31.4,
+   "url": "https://www.harrisfarm.com.au/products/cheeky-poke-sear-salmon-wm-poke-bowl-720334"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cucumber Baby Organic 200g",
+   "price": 6.99,
+   "price_per_kg": 34.95,
+   "url": "https://www.harrisfarm.com.au/products/cucumber-baby-organic-71784"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Salad Roquette Wild 100g",
+   "price": 4.49,
+   "price_per_kg": 44.9,
+   "url": "https://www.harrisfarm.com.au/products/salad-wild-roquette-100g-7028"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cucumber Lebanese Organic 400g",
+   "price": 9.99,
+   "price_per_kg": 24.97,
+   "url": "https://www.harrisfarm.com.au/products/cucumber-lebanese-organic-71782"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Organic Parsley Continental Bunch",
+   "price": 7.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/parsley-continental-organic-73432"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Honeydew Half Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/melon-honey-dew-large-cut-47222"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pineapple Large Each",
+   "price": 7.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pineapple-large-each-5052"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Honeydew Large Each",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/melon-honey-dew-4722"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dates Natural Delights Fresh Medjool 227g",
+   "price": 7.99,
+   "price_per_kg": 35.2,
+   "url": "https://www.harrisfarm.com.au/products/natural-delights-medjool-dates-227g-4412"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Dolce Bella 200g",
+   "price": 4.99,
+   "price_per_kg": 24.95,
+   "url": "https://www.harrisfarm.com.au/products/tomato-dolce-bella-200g-72997"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sweet Potato Kumera Each",
+   "price": 2.47,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-kumera-2571"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dates Natural Delights Fresh Medjool Pitted 340g",
+   "price": 10.99,
+   "price_per_kg": 32.32,
+   "url": "https://www.harrisfarm.com.au/products/natural-delights-pitted-medjool-dates-4415"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Boundary Road Brioche Hot Dog Rolls x6",
+   "price": 6.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/boundary-road-brioche-hot-dog-rolls-81482"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Ravioli Porcini Mushroom 325g",
+   "price": 8.49,
+   "price_per_kg": 26.12,
+   "url": "https://www.harrisfarm.com.au/products/rana-fresh-pasta-ravioli-porcini-mushroom-69918"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Arlingtons Hommus Ginger and Tumeric 225g",
+   "price": 5.29,
+   "price_per_kg": 23.51,
+   "url": "https://www.harrisfarm.com.au/products/arlingtons-dips-hommus-tumeric-ginger-225g-96246"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Almonds Tamari 500g",
+   "price": 7.99,
+   "price_per_kg": 15.98,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-almonds-tamari-500g-62375"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Adamo's Pasta Napoletana 500ml",
+   "price": 15.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/adamos-pasta-sauce-napoletana-852444"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Adamo's Pasta Boscaiola 500ml",
+   "price": 16.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/adamos-pasta-sauce-boscaiola-852441"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Adamo's Pasta Bolognese 500ml",
+   "price": 16.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/adamos-pasta-sauce-bolognese-852440"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Living Green Oak Each",
+   "price": 3.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-living-green-oak-leaves-each-31482"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Fresh Tenderised and Cleaned Small Octopus min 500g",
+   "price": 22.0,
+   "price_per_kg": 44.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-fresh-tenderised-and-cleaned-small-octopus-min-500g-70836"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Arlingtons Hommus Thai Chilli Lime 225g",
+   "price": 5.29,
+   "price_per_kg": 23.51,
+   "url": "https://www.harrisfarm.com.au/products/arlingtons-thai-chilli-lime-hommus-96242"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Arlingtons Hommus Beetroot 225g",
+   "price": 5.29,
+   "price_per_kg": 23.51,
+   "url": "https://www.harrisfarm.com.au/products/arlingtons-beetroot-hommus-96241"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Arlingtons  Hommus Famous 225g",
+   "price": 5.29,
+   "price_per_kg": 23.51,
+   "url": "https://www.harrisfarm.com.au/products/arlingtons-famous-hommus-96240"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Onion Brown Bag 5kg",
+   "price": 12.99,
+   "price_per_kg": 2.6,
+   "url": "https://www.harrisfarm.com.au/products/onions-brown-5kg-bag-24114"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Midi Cos Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-midi-cos-whole-22722"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Villa Peeled Tomatoes 400g",
+   "price": 1.69,
+   "price_per_kg": 4.22,
+   "url": "https://www.harrisfarm.com.au/products/villa-peeled-tomatoes-400g"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Villa Diced Tomatoes 400g",
+   "price": 1.69,
+   "price_per_kg": 4.22,
+   "url": "https://www.harrisfarm.com.au/products/villa-diced-tomatoes-10902"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paradise Beach Baba Ganoush 200g",
+   "price": 6.99,
+   "price_per_kg": 34.95,
+   "url": "https://www.harrisfarm.com.au/products/paradise-beach-purveyors-baba-ghanoush"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Market Grocer Apricot and Coconut Slice 200g",
+   "price": 3.99,
+   "price_per_kg": 19.95,
+   "url": "https://www.harrisfarm.com.au/products/the-market-grocer-apricot-coconut-slice-200g-40086"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Zanae Domades Vine Leaves Stuffed With Rice 280g",
+   "price": 5.99,
+   "price_per_kg": 21.39,
+   "url": "https://www.harrisfarm.com.au/products/zanae-domades-vine-leaves-stuffed-with-rice-280g-91559"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paradise Beach Classic Hommus 200g",
+   "price": 6.69,
+   "price_per_kg": 33.45,
+   "url": "https://www.harrisfarm.com.au/products/paradise-beach-classic-hommus-95621"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paradise Beach Caramelised Onion Hommus 200g",
+   "price": 6.49,
+   "price_per_kg": 32.45,
+   "url": "https://www.harrisfarm.com.au/products/paradise-beach-dip-caramelised-onion-hommus-95703"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms BBQ Flat 375g",
+   "price": 7.69,
+   "price_per_kg": 20.51,
+   "url": "https://www.harrisfarm.com.au/products/bbq-mushrooms-flats-3622"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Watermelon Seedless Whole Each",
+   "price": 17.27,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/watermelon-seedless-whole-5561"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Cos Baby Each",
+   "price": 3.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-baby-cos-2242"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Whisk and Pin Gluten Free Muesli 450g",
+   "price": 15.99,
+   "price_per_kg": 35.53,
+   "url": "https://www.harrisfarm.com.au/products/whisk-gluten-free-muesli"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Whisk and Pin Bircher Natural Blend with Wild Fig and Ground Lemon 525g",
+   "price": 14.69,
+   "price_per_kg": 27.98,
+   "url": "https://www.harrisfarm.com.au/products/whisk-bircher-muesli"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carman's Original Fruit Free Muesli 500g",
+   "price": 6.9,
+   "price_per_kg": 13.8,
+   "url": "https://www.harrisfarm.com.au/products/carmans-muesli-original-fruit-free-96100"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Living Green Coral Each",
+   "price": 3.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-living-green-leaf-each-31462"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Living Red Coral Leaves Each",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-living-red-coral-leaf-each-31452"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Living Red Oak Leaves Each",
+   "price": 3.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-living-red-oak-leaf-each-31472"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Living Green Butter Each",
+   "price": 3.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-living-butter-leaf-each-31442"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pineapple Sweet Topless Half",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pineapple-bethonga-half-50532"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Spinach English Bunch Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/spinach-english-each-2822"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Oyster 150g",
+   "price": 7.69,
+   "price_per_kg": 51.27,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-oyster-each-2392"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chinese Cabbage Wombok Whole",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/cabbage-chinese-each-1202"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrots Medium 1kg",
+   "price": 2.99,
+   "price_per_kg": 2.99,
+   "url": "https://www.harrisfarm.com.au/products/carrots-medium-bag-1382"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Barilla Fusilli N.98 500g",
+   "price": 2.5,
+   "price_per_kg": 5.0,
+   "url": "https://www.harrisfarm.com.au/products/barilla-pasta-fusilli-n98-90740"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Barilla Collezione Pasta Farfalle N.265 500g",
+   "price": 2.5,
+   "price_per_kg": 5.0,
+   "url": "https://www.harrisfarm.com.au/products/barilla-collezione-pasta-farfalle-n-265-500g-90728"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mutti Polpa Finely Chopped Tomatoes 400g",
+   "price": 2.49,
+   "price_per_kg": 6.23,
+   "url": "https://www.harrisfarm.com.au/products/mutti-polpa-chop-tomato-96507"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Living Red Mignonette Each",
+   "price": 3.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-living-mignonette-red-31432"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Sampari Cocktail Truss 250g",
+   "price": 6.29,
+   "price_per_kg": 25.16,
+   "url": "https://www.harrisfarm.com.au/products/tomatoes-sampari-3162"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rhubarb Bunch",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/rhubarb-bunch-2742"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pumpkin Kent Whole",
+   "price": 4.38,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pumpkin-kent-whole-2931"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pumpkin Kent Cut Each",
+   "price": 2.24,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pumpkin-kent-cut-29311"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Onion Brown 1.5kg Bag",
+   "price": 6.99,
+   "price_per_kg": 4.66,
+   "url": "https://www.harrisfarm.com.au/products/onion-brown-sml-bag-24122"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Leeks Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/leeks-loose-2232"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Buk Choy Shanghai Baby Bunch of 2-3",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/green-shanghai-buk-choy-1562"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fennel Each",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fennel-1910"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicum Green Each",
+   "price": 2.01,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/capsicums-green-kg-1341"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capsicum Yellow Each",
+   "price": 3.3,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/capsicums-yellow-kg-1351"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cauliflower Half",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/cauliflower-half-each-1422"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Oatly Organic Oat Milk 1L",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/the-original-oatly-oat-milk-organic-70106"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Vegan Pasta Night for Two Bundle",
+   "price": 15.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/vegan-pasta-night-for-two-bundle-77840"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Feta Kale and Chickpea Pockets",
+   "price": 32.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/feta-kale-and-chickpea-pockets-15347"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Corn Omelette - with Asparagus and Avocado",
+   "price": 29.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/corn-omelette-with-asparagus-and-avocado-30513"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Turmeric Couscous Side Salad 800g",
+   "price": 6.29,
+   "price_per_kg": 7.86,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-turmeric-couscous-side-salad-800g-841738"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Birds Eye Mixed Vegetables 500g",
+   "price": 4.99,
+   "price_per_kg": 9.98,
+   "url": "https://www.harrisfarm.com.au/products/birds-eye-mixed-vegetables-67299"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tamburlaine Wines Organic Riesling Orange NSW 750ml",
+   "price": 17.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/tamburlaine-wines-riesling-790075"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Eaty Gourmet Sausages Maple Bacon 250g",
+   "price": 8.49,
+   "price_per_kg": 33.96,
+   "url": "https://www.harrisfarm.com.au/products/eaty-gourmet-sausages-maple-bacon-250g-38347"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Eaty Gourmet Sausages Classic BBQ 250g",
+   "price": 8.49,
+   "price_per_kg": 33.96,
+   "url": "https://www.harrisfarm.com.au/products/eaty-gourmet-sausages-classic-bbq-250g-38346"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Edamame, Freekah & Kale Side Salad 800g",
+   "price": 6.29,
+   "price_per_kg": 7.86,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-edamame-freekah-kale-salad-800g-841736"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Onion White Each",
+   "price": 2.5,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/onion-white-kg-2421"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Banana Lady Finger Each",
+   "price": 1.75,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bananas-lady-finger-kg-4221"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Leafy Patch Rocket Leaves 120g",
+   "price": 4.49,
+   "price_per_kg": 37.42,
+   "url": "https://www.harrisfarm.com.au/products/leafy-patch-rocket-leaves-120g-9045"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Chefs Foods Duck Liver with Portabella Mushroom & Grand Mariner 120g",
+   "price": 14.99,
+   "price_per_kg": 124.92,
+   "url": "https://www.harrisfarm.com.au/products/fresh-chefs-foods-duck-liver-with-portabella-mushroom-grand-mariner-120g-69969"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Fodder Spicy Jalapeno, Garlic and Parsley 200g",
+   "price": 7.99,
+   "price_per_kg": 39.95,
+   "url": "https://www.harrisfarm.com.au/products/fresh-fodder-spicy-jalapeno-garlic-and-parsley-200g-855483"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Raw Lobster Tail Half min 150g",
+   "price": 30.4,
+   "price_per_kg": 202.67,
+   "url": "https://www.harrisfarm.com.au/products/sydney-fresh-seafood-raw-lobster-tail-halves-70680"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Pan Fry Gnocchi Garlic and Mozzarella 280g",
+   "price": 9.49,
+   "price_per_kg": 33.89,
+   "url": "https://www.harrisfarm.com.au/products/rana-pan-fry-garlic-gnocchi-97498"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Entertainment Bundle",
+   "price": 84.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-entertainers-bundle-70861"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Raw Bundle Each",
+   "price": 89.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-raw-bundle-70840"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dates Medjool 1kg",
+   "price": 7.99,
+   "price_per_kg": 7.99,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-dates-medjool-1kg-44212"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Valley Produce Co Original Bagel Toast 120g",
+   "price": 7.89,
+   "price_per_kg": 65.75,
+   "url": "https://www.harrisfarm.com.au/products/valley-produce-co-original-bagel-toast-120g-62602"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chef's Choice Organic Jasmine Rice 1kg",
+   "price": 5.99,
+   "price_per_kg": 5.99,
+   "url": "https://www.harrisfarm.com.au/products/chefs-choice-organic-jasmine-rice-1kg-11230"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "V2Food Vegan Chicken Style Burger x2 250g",
+   "price": 6.99,
+   "price_per_kg": 27.96,
+   "url": "https://www.harrisfarm.com.au/products/v2food-vegan-chicken-style-burger-x2-250g-841477"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pumpkin Butternut Half Each",
+   "price": 3.39,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pumpkin-butternut-half-2671"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Brushed Each",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-brushed-2521"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Salad Vietnamese Chicken 220g",
+   "price": 6.29,
+   "price_per_kg": 28.59,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-salad-vietnamese-chicken-720238"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Salad Horiatiki Salad 210g",
+   "price": 6.29,
+   "price_per_kg": 29.95,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-salad-horiatiki-salata-720235"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Salad Beetroot Detox 200g",
+   "price": 6.29,
+   "price_per_kg": 31.45,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-salad-beetroot-detox-720232"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Tasmanian Salmon Fillets Boneless Skin On x2 250-350g",
+   "price": 19.92,
+   "price_per_kg": 56.91,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-salmon-70900"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "V2food Schintzel x2 Pack 300g",
+   "price": 28.99,
+   "price_per_kg": 96.63,
+   "url": "https://www.harrisfarm.com.au/products/v2food-schintzel-x2-pack-300g-841497"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Cooked Bundle Each",
+   "price": 110.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-cooked-bundle-70821"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Corn Sweet Organic Prepacked Pack of 2-3",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/sweet-corn-organic-17227"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Organic Coriander Bunch",
+   "price": 7.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/coriander-organic-bunch-73322"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pumpkin Butternut Whole",
+   "price": 8.23,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pumpkin-butternut-whole-kg-2661"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tender Stem Baby Broccoli Bunch",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/tender-stem-baby-broccoli-1152"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Onassis Bakes Giant Beans 280g",
+   "price": 10.49,
+   "price_per_kg": 37.46,
+   "url": "https://www.harrisfarm.com.au/products/onassis-bakes-giant-beans-280g-97143"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Muraca Lupini Beans 560g",
+   "price": 10.49,
+   "price_per_kg": 18.73,
+   "url": "https://www.harrisfarm.com.au/products/muraca-lupini-beans-560g-63732"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Fodder Dill & Fetta 200g",
+   "price": 7.99,
+   "price_per_kg": 39.95,
+   "url": "https://www.harrisfarm.com.au/products/fresh-fodder-dill-fetta-200g-855866"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nutra Organics Strawberry Gutsy Gummies 150g",
+   "price": 39.99,
+   "price_per_kg": 266.6,
+   "url": "https://www.harrisfarm.com.au/products/nutra-organics-strawberry-gutsy-gummies-150g-855330"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Valley Produce Co Garlic & Herb Bagel Toast 120g",
+   "price": 7.89,
+   "price_per_kg": 65.75,
+   "url": "https://www.harrisfarm.com.au/products/valley-produce-co-garlic-herb-bagel-toast-120g-62995"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Primasoy Three Seeds Tempeh 260g",
+   "price": 10.49,
+   "price_per_kg": 40.35,
+   "url": "https://www.harrisfarm.com.au/products/primasoy-three-seeds-tempeh-260g-11429"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Primasoy Organic Tamari & Ginger Tempeh 260g",
+   "price": 10.49,
+   "price_per_kg": 40.35,
+   "url": "https://www.harrisfarm.com.au/products/primasoy-organic-tamari-ginger-tempeh-260g-11426"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Primasoy Organic Garlic, Turmeric & Coriander Tempeh 260g",
+   "price": 10.49,
+   "price_per_kg": 40.35,
+   "url": "https://www.harrisfarm.com.au/products/primasoy-organic-garlic-turmeric-coriander-tempeh-260g-11427"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Primasoy Organic Chili Tempeh 225g",
+   "price": 10.49,
+   "price_per_kg": 46.62,
+   "url": "https://www.harrisfarm.com.au/products/primasoy-organic-chili-tempeh-225g-11428"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Primasoy Organic Original Tempeh 225g",
+   "price": 10.49,
+   "price_per_kg": 46.62,
+   "url": "https://www.harrisfarm.com.au/products/primasoy-organic-original-tempeh-225g-11425"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Huon Hot Smoked Blackened Spice 150g",
+   "price": 21.5,
+   "price_per_kg": 143.33,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-huon-hot-smoked-blackened-spice-150g-70874"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Huon Hot Smoked Salmon 150g",
+   "price": 7.99,
+   "price_per_kg": 53.27,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-huon-hot-smoked-salmon-150g-70873"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Loco Love Peanut Butter Caramel 70g",
+   "price": 4.5,
+   "price_per_kg": 64.29,
+   "url": "https://www.harrisfarm.com.au/products/loco-love-peanut-butter-caramel-70g-16094"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chefs Choice Japanese Rice 1kg",
+   "price": 9.49,
+   "price_per_kg": 9.49,
+   "url": "https://www.harrisfarm.com.au/products/chefs-choice-japanese-rice-1kg-841761"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Rockmelon Large Each",
+   "price": 7.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/rock-melon-large-each-4752"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Sweet Potato Imperfect Kumera Each",
+   "price": 1.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potato-kumera-imperfect-kg-22571"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Salted Baccala Fillet Min. 500g",
+   "price": 21.5,
+   "price_per_kg": 43.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-salted-baccala-fillet-70078"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Radicchio Each",
+   "price": 7.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-radichia-each-2312"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Spanish Cut Each",
+   "price": 7.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/melon-spanish-cut-57722"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Rockmelon Large Half Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/rock-melon-cut-each-47522"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Chimichurri 250g",
+   "price": 7.99,
+   "price_per_kg": 31.96,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-chimichurri-250g-77566"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Radish White",
+   "price": 2.57,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/radish-white-2711"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Swiss Brown Sliced 200g",
+   "price": 5.99,
+   "price_per_kg": 29.95,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-swiss-brown-sliced-37442"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Pineapple Cut 300g",
+   "price": 6.99,
+   "price_per_kg": 23.3,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-pineapple-cut-300g-769"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Shilu Spinach & Ginger Dal 450g",
+   "price": 7.99,
+   "price_per_kg": 17.76,
+   "url": "https://www.harrisfarm.com.au/products/shilu-spinach-ginger-dal-450g-30276"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Cups min 500g",
+   "price": 8.85,
+   "price_per_kg": 17.7,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-cups-2371"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Heirloom Each",
+   "price": 4.2,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/tomato-heirloom-39741"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Riviera Watercress Salad Prepack 100g",
+   "price": 4.99,
+   "price_per_kg": 49.9,
+   "url": "https://www.harrisfarm.com.au/products/riviera-watercress-salad-prepack-7228"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nutra Organics Matcha Latte Collagen 100g",
+   "price": 39.99,
+   "price_per_kg": 399.9,
+   "url": "https://www.harrisfarm.com.au/products/nutra-organics-matcha-latte-collagen-100g-855400"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Market Grocer Australian Premium Sultanas 350g",
+   "price": 5.99,
+   "price_per_kg": 17.11,
+   "url": "https://www.harrisfarm.com.au/products/the-market-grocer-australian-premium-sultanas-350g-62082"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Agrigenus San Marzano Peeled Tomatoes 400g",
+   "price": 2.3,
+   "price_per_kg": 5.75,
+   "url": "https://www.harrisfarm.com.au/products/agrigenus-san-marzano-peeled-tomatoes-400g-855571"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Barramundi Saltwater Scaled and Gutted min 800g",
+   "price": 22.5,
+   "price_per_kg": 28.12,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-barramundi-saltwater-whole-small-70803"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lemon Imperfect Each",
+   "price": 0.59,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lemons-imperfect-pick-value-range-24621"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Ciao Finely Chopped Tomatoes 800g",
+   "price": 19.99,
+   "price_per_kg": 24.99,
+   "url": "https://www.harrisfarm.com.au/products/ciao-finely-chopped-tomatoes-800g-97642"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Moon Bok Bunch",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/moon-buk-1632"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Banana Premium Each",
+   "price": 1.35,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bananas-loose-4201"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Feijoas Each",
+   "price": 2.62,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/feijoas-each-4451"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pineapple Sweet Topless Each",
+   "price": 8.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pineapple-sweet-topless-50521"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lettuce Iceberg Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lettuce-iceberg-2252"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Grounded Pleasures Seven Spice Chai 200g",
+   "price": 7.99,
+   "price_per_kg": 39.95,
+   "url": "https://www.harrisfarm.com.au/products/grounded-pleasures-seven-spice-chai-200g-650793"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Valley Produce Co Mini Artisan Crackers with Cheese 110g",
+   "price": 3.69,
+   "price_per_kg": 33.55,
+   "url": "https://www.harrisfarm.com.au/products/valley-produce-co-mini-artisan-crackers-with-cheese-110g-40071"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Valley Produce Co Wattleseed & Fig Artisan Crackers 100g",
+   "price": 3.69,
+   "price_per_kg": 36.9,
+   "url": "https://www.harrisfarm.com.au/products/valley-produce-co-wattleseed-fig-artisan-crackers-100g-62993"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Valley Produce Co Saltbush & Cranberry Artisan Crackers 100g",
+   "price": 3.69,
+   "price_per_kg": 36.9,
+   "url": "https://www.harrisfarm.com.au/products/valley-produce-co-saltbush-cranberry-artisan-crackers-100g-62994"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Potato Gnocchi 500g",
+   "price": 9.49,
+   "price_per_kg": 18.98,
+   "url": "https://www.harrisfarm.com.au/products/rana-potato-gnocchi-500g-66121"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Pan Fry Gnocchi Spinach and Mozzarella 280g",
+   "price": 9.49,
+   "price_per_kg": 33.89,
+   "url": "https://www.harrisfarm.com.au/products/rana-pan-fry-gnocchi-spinach-and-mozzarella-280g-97497"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Pan Fry Gnocchi Cheese 280g",
+   "price": 9.49,
+   "price_per_kg": 33.89,
+   "url": "https://www.harrisfarm.com.au/products/rana-pan-fry-gnocchi-cheese-280g-97496"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Goodness Me Organic Fruit Stick Strawberry & Blueberry 120g",
+   "price": 4.99,
+   "price_per_kg": 41.58,
+   "url": "https://www.harrisfarm.com.au/products/goodness-me-organic-fruit-stick-strawberry-blueberry-120g-855138"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Healthybake Khorasan Organic Sourdough 700g",
+   "price": 11.29,
+   "price_per_kg": 16.13,
+   "url": "https://www.harrisfarm.com.au/products/healthybake-bread-khorasan-organic-sourdough-81235"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Sweet Delights 200g",
+   "price": 5.29,
+   "price_per_kg": 26.45,
+   "url": "https://www.harrisfarm.com.au/products/tomatoes-sweet-delights-72987"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tomato Imperfect Each",
+   "price": 0.46,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/tomatoes-imperfect-pick-value-range-kg-23001"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Lemon Premium Each",
+   "price": 2.31,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lemons-4621"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Healthybake Rye Grid Organic Sourdough 700g",
+   "price": 8.49,
+   "price_per_kg": 12.13,
+   "url": "https://www.harrisfarm.com.au/products/healthybake-bread-rye-grid-organic-sourdough-81228"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Healthybake Ancient Grains and Seed Organic Sourdough 600g",
+   "price": 10.49,
+   "price_per_kg": 17.48,
+   "url": "https://www.harrisfarm.com.au/products/healthybake-ancient-grains-and-seed-organic-sourdough-81236"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dates Loose min 250g",
+   "price": 164.95,
+   "price_per_kg": 659.8,
+   "url": "https://www.harrisfarm.com.au/products/dates-kg-4411"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Cocktail min 1kg",
+   "price": 6.99,
+   "price_per_kg": 6.99,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-chats-kg-2501"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Dates United with Earth Medjool 454g",
+   "price": 10.99,
+   "price_per_kg": 24.21,
+   "url": "https://www.harrisfarm.com.au/products/united-with-earth-medjool-dates-44122"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Wellness by Tess Raspberry Tesstimony 85g",
+   "price": 5.29,
+   "price_per_kg": 62.24,
+   "url": "https://www.harrisfarm.com.au/products/wellness-by-tess-cake-slice-raspberry-tesstimony-69166"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Wellness by Tess Hazelbutter Delicatess 85g",
+   "price": 5.29,
+   "price_per_kg": 62.24,
+   "url": "https://www.harrisfarm.com.au/products/wellness-by-tess-hazelbutter-delicatess-69165"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Wellness by Tess Saltwater Tessy 85g",
+   "price": 5.29,
+   "price_per_kg": 62.24,
+   "url": "https://www.harrisfarm.com.au/products/wellness-by-tess-saltwater-tessy-69164"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Green Lion Tiramisu 130g",
+   "price": 4.29,
+   "price_per_kg": 33.0,
+   "url": "https://www.harrisfarm.com.au/products/the-green-lion-tiramisu-130g-84198"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Flower Day Biodynamic & Organic Rose 750mL",
+   "price": 19.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bio-rose-quindalup-wa-79242"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Marinara Mix min 500g",
+   "price": 15.0,
+   "price_per_kg": 30.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-marinara-mix-70748"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "McClure's Spicy Whole Pickles 500g",
+   "price": 6.49,
+   "price_per_kg": 12.98,
+   "url": "https://www.harrisfarm.com.au/products/mcclures-spicy-whole-pickles-500g-855357"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Sardine Fillets Skin on 220-280g",
+   "price": 11.2,
+   "price_per_kg": 40.0,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-sardine-fillets-70980"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrot Purple Bag",
+   "price": 3.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/carrot-purple-13912"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Sweet Potato Moroccan Couscous Side Salad 800g",
+   "price": 6.29,
+   "price_per_kg": 7.86,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-sweet-potato-moroccan-couscous-side-salad-800g-72216"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Creamy Macaroni Pasta Side Salad 800g",
+   "price": 6.29,
+   "price_per_kg": 7.86,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-creamy-macaroni-pasta-side-salad-800g-72215"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Australian Potato Side Salad 800g",
+   "price": 6.29,
+   "price_per_kg": 7.86,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-australian-potato-side-salad-800g-72214"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Local Kitchen Mixed Leaf Salad Blend 280g",
+   "price": 4.49,
+   "price_per_kg": 16.04,
+   "url": "https://www.harrisfarm.com.au/products/local-kitchen-mixed-leaf-salad-blend-280g-720252"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Two Boys Brew Kombucha Grand Bazaar 330ml",
+   "price": 5.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/two-boys-brew-kombucha-grand-bazaar-66167"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Raw King Prawns Large min 500g",
+   "price": 25.0,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-raw-king-prawns-large-min-500g-70675"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Local Kitchen Baby Spinach 280g",
+   "price": 4.49,
+   "price_per_kg": 16.04,
+   "url": "https://www.harrisfarm.com.au/products/local-kitchen-baby-spinach-280g-720251"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apple Granny Smith Small Each",
+   "price": 1.17,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/apples-granny-smith-40715"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Avruga Caviar 120g",
+   "price": 5.69,
+   "price_per_kg": 47.42,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-avruga-caviar-70432"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Alaskan Salmon Caviar 100g",
+   "price": 5.69,
+   "price_per_kg": 56.9,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-alaskan-salmon-caviar-70436"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rana Egg Lasagne Sheets 250g",
+   "price": 5.29,
+   "price_per_kg": 21.16,
+   "url": "https://www.harrisfarm.com.au/products/rana-egg-lasagna-sheets-250g-68712"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tamburlaine Organic Sauvignon Blanc Orange NSW 750ml",
+   "price": 17.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/tamburlaine-organic-sauvignon-blanc-orange-wine-region-790346"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Garlic Peeled min 150g",
+   "price": 5.49,
+   "price_per_kg": 36.6,
+   "url": "https://www.harrisfarm.com.au/products/garlic-peeled-7302"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mrs Trans Kitchen Thin Rice Vermicelli 300g",
+   "price": 4.39,
+   "price_per_kg": 14.63,
+   "url": "https://www.harrisfarm.com.au/products/mrs-trans-kitchen-thin-rice-vermicelli-17519"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chilli Birdseye Red Hot min 20g",
+   "price": 1.1,
+   "price_per_kg": 55.0,
+   "url": "https://www.harrisfarm.com.au/products/chilli-hot-birdseye-kg-1511"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chilli Long Hot Red min 100g",
+   "price": 4.2,
+   "price_per_kg": 42.0,
+   "url": "https://www.harrisfarm.com.au/products/chilli-hot-long-red-each-71011"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Watermelon Seedless Cut Quarter",
+   "price": 4.98,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/watermelon-seedless-qtr-5571"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cucumber Baby Sweet 250g",
+   "price": 3.29,
+   "price_per_kg": 13.16,
+   "url": "https://www.harrisfarm.com.au/products/qukes-1782"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Endive Bunch Each",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/endive-bunch-1842"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Swiss Brown min 500g",
+   "price": 10.15,
+   "price_per_kg": 20.3,
+   "url": "https://www.harrisfarm.com.au/products/mushroom-swiss-brown-loose-3741"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chilli Bullhorn Green Each",
+   "price": 1.65,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/chilli-bull-horn-green-1521"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Corn Sweet Prepack 3-4 pieces",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/corn-prepack-17223"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chilli Birdseye Hot min 100g",
+   "price": 6.99,
+   "price_per_kg": 69.9,
+   "url": "https://www.harrisfarm.com.au/products/chillies-hot-tray-ea-1512"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "French Radish Bunch",
+   "price": 6.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/french-radish-27112"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Potato, Butter and Herbs 500g",
+   "price": 6.69,
+   "price_per_kg": 13.38,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-potato-butter-and-herbs-9854"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Freshly Squeezed Lime and Sugar Cane 300ml",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-freshly-squeezed-lime-and-cane-gugar-83925"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paliria Greek Originals Spicy Black Eyed Beans 200g",
+   "price": 7.49,
+   "price_per_kg": 37.45,
+   "url": "https://www.harrisfarm.com.au/products/paliria-greek-originals-spicy-black-eyed-beans-97488"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paliria Greek Originals Giant Beans 200g",
+   "price": 7.49,
+   "price_per_kg": 37.45,
+   "url": "https://www.harrisfarm.com.au/products/paliria-greek-originals-giant-beans-97486"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paliria Greek Originals Stuffed Grape Leaves 200g",
+   "price": 7.49,
+   "price_per_kg": 37.45,
+   "url": "https://www.harrisfarm.com.au/products/paliria-stuffed-grape-leaves-97485"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tilda Sticky Rice 250g",
+   "price": 2.99,
+   "price_per_kg": 11.96,
+   "url": "https://www.harrisfarm.com.au/products/tilda-sticky-rice-63485"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tilda Wild Rice Wholegrain 250g",
+   "price": 2.99,
+   "price_per_kg": 11.96,
+   "url": "https://www.harrisfarm.com.au/products/tildo-wild-rice-wholegrain-63484"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Choy Sum Hong Kong Bunch Each",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/asian-choy-sum-hong-kong-ea-1692"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Lemongrass Stalk Each",
+   "price": 3.87,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lemon-grass-kg-3591"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Red Cocktail 1kg",
+   "price": 7.69,
+   "price_per_kg": 7.69,
+   "url": "https://www.harrisfarm.com.au/products/potato-red-cocktail-25012"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Diego's Yellow Corn Tortillas x12 276g",
+   "price": 6.29,
+   "price_per_kg": 22.79,
+   "url": "https://www.harrisfarm.com.au/products/diegos-yellow-corn-tortillas-276g-87219"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Diego's White Corn Tortillas x10 280g",
+   "price": 5.99,
+   "price_per_kg": 21.39,
+   "url": "https://www.harrisfarm.com.au/products/diegos-white-corn-tortillas-87218"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Spinach Silverbeet Bunch Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/spinach-silverbeet-bunch-2812"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Coriander Bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/coriander-bunch-3322"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Local Kitchen Lettuce Mix Iceberg 280g",
+   "price": 5.49,
+   "price_per_kg": 19.61,
+   "url": "https://www.harrisfarm.com.au/products/local-kitchen-lettuce-mix-iceberg-280g-720239"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Zucchini Black Imperfect Each",
+   "price": 0.52,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/zucchini-black-imperfect-pick-value-range-each-23061"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Salad Mix Mesclun 200g",
+   "price": 13.15,
+   "price_per_kg": 65.75,
+   "url": "https://www.harrisfarm.com.au/products/salad-mix-mesculin-7011"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Cocktail Bag 1kg",
+   "price": 7.69,
+   "price_per_kg": 7.69,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-cocktails-2502"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Two Boys Brew Kombucha French Kiss 330ml",
+   "price": 5.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/two-boys-brew-french-kiss-kombucha-64149"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Two Boys Brew Kombucha Silk Road 330ml",
+   "price": 5.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/two-boys-brew-silk-road-kombucha-64148"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Papaya Red Half Each",
+   "price": 6.24,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/papaya-cut-50611"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Papaya Red Each",
+   "price": 10.79,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/papaya-red-kg-5061"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bobby Prebiotic Soft Drink Berry 330mL",
+   "price": 4.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bobby-prebiotic-soft-drink-berry-63755"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bobby Prebiotic Soft Drink Lemon Lime 330mL",
+   "price": 4.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bobby-prebiotic-soft-drink-lemon-lime-63754"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bobby Prebiotic Creamy Soda 330mL",
+   "price": 4.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bobby-prebiotic-creamy-soda-63753"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bobby Prebiotic Ginger Beer 330mL",
+   "price": 4.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bobby-prebiotic-ginger-beer-63752"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bobby Prebiotic Soft Drink Passionfruit 330mL",
+   "price": 4.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bobby-passionfruit-63751"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bobby Prebiotic Soft Drink Cola 330mL",
+   "price": 4.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bobby-cola-63750"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Jiva Tonic Vitality 100ml",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/jiva-tonic-vitality-63643"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "First Press Iced Mocha 350ml",
+   "price": 4.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/first-press-iced-mocha-77180"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tsuke Mono Japanese Pickles Cucumber Chilli Kosho Yuzu 400g",
+   "price": 12.99,
+   "price_per_kg": 32.48,
+   "url": "https://www.harrisfarm.com.au/products/tsuke-mono-japanese-pickles-cucumber-chilli-kosho-yuzu-68676"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Lasagne Beef and Pork 950g",
+   "price": 20.99,
+   "price_per_kg": 22.09,
+   "url": "https://www.harrisfarm.com.au/products/hfm-lasagna-beef-pork-medium-8867"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Garlic Clove 200g",
+   "price": 5.69,
+   "price_per_kg": 28.45,
+   "url": "https://www.harrisfarm.com.au/products/garlic-single-clove-each-7602"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Tarragon Punnet",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/tarragon-each-3492"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Freshly Squeezed Raspberry Lemonade 300ml",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-fresh-raspberry-lemonade-80788"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Lasagne Hearty Vegetable 950g",
+   "price": 20.99,
+   "price_per_kg": 22.09,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-vegetable-lasagne-8890"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Lasagne Beef and Pork 350g",
+   "price": 8.99,
+   "price_per_kg": 25.69,
+   "url": "https://www.harrisfarm.com.au/products/hfm-beef-pork-lasagne-8869"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Lasagne Hearty Vegetable 1.6kg",
+   "price": 28.99,
+   "price_per_kg": 18.12,
+   "url": "https://www.harrisfarm.com.au/products/hfm-lasagne-vegetable-large-8891"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Lasagne Beef and Pork 1.6kg",
+   "price": 28.99,
+   "price_per_kg": 18.12,
+   "url": "https://www.harrisfarm.com.au/products/hfm-lasagne-beef-pork-large-8880"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Paw Paw Cooking Each",
+   "price": 19.1,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/paw-paw-cooking-5401"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chilli Long Hot Green min 200g",
+   "price": 4.4,
+   "price_per_kg": 22.0,
+   "url": "https://www.harrisfarm.com.au/products/chilli-hot-long-green-kg-7101"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chilli Jalapeno Fresh 200g",
+   "price": 6.74,
+   "price_per_kg": 33.7,
+   "url": "https://www.harrisfarm.com.au/products/jalapeno-kg-7121"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cabbage qtr",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/cabbage-quarter"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cabbage Red Quarter",
+   "price": 2.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/cabbage-red-quarter-12825"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carrot Dutch Bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/carrots-dutch-bunch-1392"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Shallots half bunch",
+   "price": 1.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/shallots-half-bunch"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pineapple Large Sweet Half",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pineapple-large-half-50522"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Fresh Skin On Salmon Side min 700-850g",
+   "price": 46.74,
+   "price_per_kg": 54.99,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-fresh-skin-on-salmon-side-70910"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Roza's Gourmet Crackers Beetroot 120g",
+   "price": 3.99,
+   "price_per_kg": 33.25,
+   "url": "https://www.harrisfarm.com.au/products/rozas-gourmet-crackers-beetroot-841579"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Macadamia Kernels Raw Loose 250g",
+   "price": 10.0,
+   "price_per_kg": 40.0,
+   "url": "https://www.harrisfarm.com.au/products/hfm-macadamia-kernels-raw-6091"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Lemon and Salted Capers Mayonnaise 250ml",
+   "price": 31.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-lemon-and-salted-capers-mayonnaise-70473"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Herring Fillets Oil Matje 250g",
+   "price": 31.99,
+   "price_per_kg": 127.96,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-herring-fillets-oil-matje-70443"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Micro Herbs Pot Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/micro-herb-7422"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Scallop Salad 100g",
+   "price": 31.99,
+   "price_per_kg": 319.9,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-scallop-salad-70429"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Salad Ischia Salad 200g",
+   "price": 6.29,
+   "price_per_kg": 31.45,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-ischia-salad-720224"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Salad Chicken Caesar 200g",
+   "price": 6.29,
+   "price_per_kg": 31.45,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-chicken-caesar-salad-720225"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Beach Gold Mullet Roe 130g",
+   "price": 31.99,
+   "price_per_kg": 246.08,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-beach-gold-mullet-roe-70453"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Premium Crab Meat Claw 227g",
+   "price": 31.99,
+   "price_per_kg": 140.93,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-premium-crab-meat-claw-70441"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Brilliant Food Wasabi Cream 190g",
+   "price": 5.99,
+   "price_per_kg": 31.53,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-brilliant-food-wasabi-cream-70437"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Alaskan Ocean Trout Caviar 100g",
+   "price": 5.69,
+   "price_per_kg": 56.9,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-alaskan-ocean-trout-caviar-70435"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Yarra Valley Caviar 100g",
+   "price": 5.69,
+   "price_per_kg": 56.9,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-yarra-valley-caviar-70434"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Yarra Valley Caviar 50g",
+   "price": 42.9,
+   "price_per_kg": 858.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-yarra-valley-caviar-70433"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Seaweed Salad 100g",
+   "price": 31.99,
+   "price_per_kg": 319.9,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-seaweed-salad-70430"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Sashimi Yellowfin Tuna min 90g",
+   "price": 16.9,
+   "price_per_kg": 187.78,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-sashimi-yellowfin-tuna-min-90g-70809"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Jervis Bay Live Mussels 1kg",
+   "price": 12.99,
+   "price_per_kg": 12.99,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-jervis-bay-live-mussels-1kg-70769"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Malaysian Tumeric Prawns 300g",
+   "price": 15.0,
+   "price_per_kg": 50.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-malaysian-tumeric-70410"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Cajun Salmon Deboned min 220g",
+   "price": 9.9,
+   "price_per_kg": 45.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-cajun-salmon-70880"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Sydney Rock Oysters Medium 1 doz",
+   "price": 29.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-sydney-rock-oysters-medium-70742"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Prawns Raw Meat min 500g",
+   "price": 30.0,
+   "price_per_kg": 60.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-prawns-raw-meat-70636"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Baby Snapper Scaled and Gutted min 450g",
+   "price": 13.3,
+   "price_per_kg": 29.56,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-baby-snapper-70735"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Tasmanian Salmon Boned min 800g",
+   "price": 47.99,
+   "price_per_kg": 59.99,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-tasmanian-salmon-boned-70846"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Fish Seasoning Tub 55g",
+   "price": 31.99,
+   "price_per_kg": 581.64,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-fish-seasoning-70463"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Apricot Delight Loose 250g",
+   "price": 6.57,
+   "price_per_kg": 26.28,
+   "url": "https://www.harrisfarm.com.au/products/apricot-delight-loose-56209"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Delicious Mix Loose 250g",
+   "price": 6.57,
+   "price_per_kg": 26.28,
+   "url": "https://www.harrisfarm.com.au/products/delicious-mix-loose-56199"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Raw Nut Mix Loose 250g",
+   "price": 6.57,
+   "price_per_kg": 26.28,
+   "url": "https://www.harrisfarm.com.au/products/raw-nut-mix-loose-56198"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pistachio Kernels Loose 250g",
+   "price": 6.57,
+   "price_per_kg": 26.28,
+   "url": "https://www.harrisfarm.com.au/products/pistachio-kernels-loose-56195"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Almonds Smoked Loose 250g",
+   "price": 6.57,
+   "price_per_kg": 26.28,
+   "url": "https://www.harrisfarm.com.au/products/almonds-smoked-loose-56186"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mixed Nuts Salted Loose 250g",
+   "price": 6.57,
+   "price_per_kg": 26.28,
+   "url": "https://www.harrisfarm.com.au/products/mixed-nuts-salted-loose-56202"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rozas Gourmet Coconut Chilli Mayonnaise 240ml",
+   "price": 8.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/rozas-gourmet-coconut-chilli-mayo-240ml"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Jomeis Hoodles Braised Beef 60g",
+   "price": 5.99,
+   "price_per_kg": 99.83,
+   "url": "https://www.harrisfarm.com.au/products/jomeis-hoodles-braised-beef-96996"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Jomeis Hoodles Roast Chicken 60g",
+   "price": 5.99,
+   "price_per_kg": 99.83,
+   "url": "https://www.harrisfarm.com.au/products/jomeis-hoodles-roast-chicken-96995"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Jomeis Hoodles Vegetable Hotpot 60g",
+   "price": 5.99,
+   "price_per_kg": 99.83,
+   "url": "https://www.harrisfarm.com.au/products/jomeis-hoodles-vegetable-hotpot-96997"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Beetroot Baby Each",
+   "price": 6.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/baby-beetroot-bunch-2112"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Lime Chilli Coriander Dressing 230ml",
+   "price": 31.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-lime-chilli-coriander-dressing-70472"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Salmon Nigiri",
+   "price": 31.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-salmon-ngiri-70481"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Gluten Freedom Sourdough Sweet Potato Buns x3 300g",
+   "price": 7.49,
+   "price_per_kg": 24.97,
+   "url": "https://www.harrisfarm.com.au/products/gluten-freedom-sourdough-buns-sweet-potato-20330"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nutty Bay Cultured Butter 170g",
+   "price": 9.99,
+   "price_per_kg": 58.76,
+   "url": "https://www.harrisfarm.com.au/products/nutty-bay-cultured-butter-80382"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Tasmania Mures Smokey Fish Chowder 500ml",
+   "price": 31.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-tasmania-mures-smokey-fish-chowder-70451"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Jellyfish Salad 100g",
+   "price": 31.99,
+   "price_per_kg": 319.9,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-jellyfish-salad-70431"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Grilled Salmon Nigiri",
+   "price": 31.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-grilled-salmon-ngiri-70480"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Whole Tasmanian Salmon Scaled Gutted min 3.5kg",
+   "price": 111.97,
+   "price_per_kg": 31.99,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-tasmanian-salmon-whole-70711"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Medium Snapper Scaled and Gutted min 1kg",
+   "price": 42.99,
+   "price_per_kg": 42.99,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-medium-snapper-70706"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Large Barramundi Scaled and Gutted min 3.5kg",
+   "price": 112.5,
+   "price_per_kg": 32.14,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-large-barramundi-scaled-and-gutted-min-3-5kg-70647"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Loligo Squid Cleaned min 500g",
+   "price": 19.0,
+   "price_per_kg": 38.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-loligo-squid-70747"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Barramundi Saltwater Fillets Deboned Skin On min 430g",
+   "price": 17.2,
+   "price_per_kg": 40.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-barramundi-saltwater-fillets-70875"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Wild Caught Squid Tubes Cleaned min 250g",
+   "price": 15.0,
+   "price_per_kg": 60.0,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-wild-caught-squid-tubes-cleaned-min-250g-70713"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chef Luca Pappardelle 300g",
+   "price": 9.49,
+   "price_per_kg": 31.63,
+   "url": "https://www.harrisfarm.com.au/products/chef-luca-pappardelle-93758"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Symons Organic Dairy Unsalted Butter 250g",
+   "price": 6.99,
+   "price_per_kg": 27.96,
+   "url": "https://www.harrisfarm.com.au/products/symons-organic-dairy-unsalted-butter-80589"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Symons Organic Dairy Salted Butter 250g",
+   "price": 6.99,
+   "price_per_kg": 27.96,
+   "url": "https://www.harrisfarm.com.au/products/symons-organic-dairy-salted-butter-80588"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Good Morning Organic Rice Puffs 175g",
+   "price": 6.99,
+   "price_per_kg": 39.94,
+   "url": "https://www.harrisfarm.com.au/products/good-morning-organic-rice-puffs-854182"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Jiva Tonic Reset 100ml",
+   "price": 4.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/jiva-tonic-reset-67356"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mavella Superfoods All Things Blue 100g",
+   "price": 5.99,
+   "price_per_kg": 59.9,
+   "url": "https://www.harrisfarm.com.au/products/mavella-superfoods-all-things-blue-650518"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mavella Superfoods Beetroot 100g",
+   "price": 5.99,
+   "price_per_kg": 59.9,
+   "url": "https://www.harrisfarm.com.au/products/mavella-superfoods-beetroot-650517"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mavella Superfoods Mixed Berries 100g",
+   "price": 5.99,
+   "price_per_kg": 59.9,
+   "url": "https://www.harrisfarm.com.au/products/mavella-superfoods-mixed-berries-650516"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fish in the Family Sashimi Mt Cook Alpine Salmon min 90g",
+   "price": 21.5,
+   "price_per_kg": 238.89,
+   "url": "https://www.harrisfarm.com.au/products/fish-in-the-family-sashimi-mt-cook-alpine-salmon-min-90g-70427"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bel Bev Co. Low Sugar Pinot Grigio 750ml",
+   "price": 23.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bel-bev-co-low-sugar-pinot-grigio-782119"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bel Bev Co. Low Sugar Rose 750ml",
+   "price": 23.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/bel-bev-co-low-sugar-rose-782117"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Coolibah Baby Asian Salad Mix 120g",
+   "price": 5.49,
+   "price_per_kg": 45.75,
+   "url": "https://www.harrisfarm.com.au/products/salad-baby-asian-mix-7015"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Salad Aussie Mix 120g",
+   "price": 5.49,
+   "price_per_kg": 45.75,
+   "url": "https://www.harrisfarm.com.au/products/salad-aussie-mix-120g-9024"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Melon Long Each",
+   "price": 8.24,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/winter-melon-long-7711"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Fodder Tzatziki 500g",
+   "price": 7.99,
+   "price_per_kg": 15.98,
+   "url": "https://www.harrisfarm.com.au/products/fresh-fodder-tzatziki-96971"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Rummo Pasta Conchiglioni 500g",
+   "price": 5.99,
+   "price_per_kg": 11.98,
+   "url": "https://www.harrisfarm.com.au/products/rummo-pasta-conchiglioni-841261"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Just Milk Almond Milk 1L",
+   "price": 3.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/just-milk-almond-milk-77230"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Just Milk Oat Milk 1L",
+   "price": 3.0,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/just-milk-oat-milk-77231"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Kurrajong Kitchen Oaklees Crackers 120g",
+   "price": 5.49,
+   "price_per_kg": 45.75,
+   "url": "https://www.harrisfarm.com.au/products/kurrajong-kitchen-oaklees-crackers-841598"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Kipfler min 500g",
+   "price": 5.5,
+   "price_per_kg": 11.0,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-kipfler-kg-7521"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Sour Cream 200g",
+   "price": 6.99,
+   "price_per_kg": 34.95,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-sour-cream-80452"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy Cream Cheese 200g",
+   "price": 8.49,
+   "price_per_kg": 42.45,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-cream-cheese-80451"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Shredded Mozzarella 300g",
+   "price": 9.79,
+   "price_per_kg": 32.63,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-shredded-mozzarella-80450"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Shredded Cheddar 300g",
+   "price": 9.79,
+   "price_per_kg": 32.63,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-shredded-cheddar-80449"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Cheddar Block 250g",
+   "price": 8.49,
+   "price_per_kg": 33.96,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-cheddar-block-80448"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Tasty Cheese 250g",
+   "price": 8.49,
+   "price_per_kg": 33.96,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-tasty-cheese-80447"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Mozzarella Cheese 200g",
+   "price": 8.49,
+   "price_per_kg": 42.45,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-mozzarella-cheese-80446"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Feta Cheese 200g",
+   "price": 7.49,
+   "price_per_kg": 37.45,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-feta-cheese-80445"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Nudairy's Cheddar Slices 200g",
+   "price": 7.49,
+   "price_per_kg": 37.45,
+   "url": "https://www.harrisfarm.com.au/products/nudairy-cheddar-slices-80444"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Melon Trio 500g",
+   "price": 8.99,
+   "price_per_kg": 17.98,
+   "url": "https://www.harrisfarm.com.au/products/melon-trio-781"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Fruit Salad 550g",
+   "price": 10.99,
+   "price_per_kg": 19.98,
+   "url": "https://www.harrisfarm.com.au/products/fruit-salad-780"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Rockmelon Cut 300g",
+   "price": 3.99,
+   "price_per_kg": 13.3,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-rockmelon-cut-767"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Fruit Salad 350g",
+   "price": 7.69,
+   "price_per_kg": 21.97,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-fruit-salad-350g-770"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Harris Farm Watermelon Cut 300g",
+   "price": 6.69,
+   "price_per_kg": 22.3,
+   "url": "https://www.harrisfarm.com.au/products/harris-farm-watermelon-cut-771"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Wholegreen Bakery Gluten Free Vegan Fruit Buns 4x135g",
+   "price": 10.5,
+   "price_per_kg": 77.78,
+   "url": "https://www.harrisfarm.com.au/products/wholegreen-bakery-gluten-free-vegan-fruit-buns-80378"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mutti Polpa Finely Chopped Tomato 2x400g",
+   "price": 19.99,
+   "price_per_kg": 49.97,
+   "url": "https://www.harrisfarm.com.au/products/mutti-polpa-chop-tomato-96517"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Snow Peas Loose Minimum 300g",
+   "price": 9.9,
+   "price_per_kg": 33.0,
+   "url": "https://www.harrisfarm.com.au/products/peas-snow-loose-2491"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Cabbage Savoy Quarter Each",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/cabbage-savoy-cut-qtr-each-12525"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Yummy Beans 250g",
+   "price": 15.99,
+   "price_per_kg": 63.96,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-yummy-beans-624267"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Walnuts Organic and Activated 200g",
+   "price": 15.99,
+   "price_per_kg": 79.95,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-walnuts-organic-and-activated-624256"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Maple Munchies Organic and Activated 225g",
+   "price": 17.99,
+   "price_per_kg": 79.96,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-maple-munch-organic-and-activated-624273"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Korean BBQ Munchies Organic and Activated 225g",
+   "price": 17.99,
+   "price_per_kg": 79.96,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-korean-bbq-munchies-organic-and-activated-624270"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Cashews Organic and Activated 250g",
+   "price": 18.99,
+   "price_per_kg": 75.96,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-cashews-organic-and-activated-624265"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Brazil Nuts Organic and Activated 325g",
+   "price": 17.99,
+   "price_per_kg": 55.35,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-brazil-nuts-organic-and-activated-624262"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Hazelnuts Organic and Activated 250g",
+   "price": 17.99,
+   "price_per_kg": 71.96,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-hazelnuts-organic-and-activated-624253"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Pecans Organic and Activated 200g",
+   "price": 17.99,
+   "price_per_kg": 89.95,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-pecans-organic-and-activated-624250"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mindful Foods Mixed Nuts Organic and Activated 250g",
+   "price": 17.99,
+   "price_per_kg": 71.96,
+   "url": "https://www.harrisfarm.com.au/products/mindful-foods-mixed-nuts-organic-and-activated-250g"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Basil Pot Each",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/basil-herb-pot-3987"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Black Wood Ear 100g",
+   "price": 6.69,
+   "price_per_kg": 66.9,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-black-wood-ear-3722"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Tender Table Organic Chilli & Lime Jackfruit 300g",
+   "price": 5.99,
+   "price_per_kg": 19.97,
+   "url": "https://www.harrisfarm.com.au/products/the-tender-table-organic-chilli-lime-jackfruit-30828"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "The Tender Table Organic Tangy BBQ Jackfruit 300g",
+   "price": 5.99,
+   "price_per_kg": 19.97,
+   "url": "https://www.harrisfarm.com.au/products/the-tender-table-organic-tangy-bbq-jackfruit-30827"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Carman's Porridge Sachets Apple, Sultana and Cinnamon x8 Sachets 320g",
+   "price": 3.99,
+   "price_per_kg": 12.47,
+   "url": "https://www.harrisfarm.com.au/products/carmans-gourmet-porridge-sachets-42627"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Banana Each",
+   "price": 0.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/banana-4211"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Lime Leaves Punnet",
+   "price": 2.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/lime-leaves-each-3932"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Curry Leaves Packet",
+   "price": 5.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/curry-leaves-kg-3902"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Potato Red Washed Each",
+   "price": 1.1,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/potatoes-red-washed-3821"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Gourmet Prepack 150g",
+   "price": 6.69,
+   "price_per_kg": 44.6,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-gourmet-each-3752"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Shiitake 100g",
+   "price": 7.29,
+   "price_per_kg": 72.9,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-shiitake-each-3652"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms Flat min 400g",
+   "price": 8.52,
+   "price_per_kg": 21.3,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-flat-ppk"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Yummy Karma Sweet Potato and Quinoa Bites 225g",
+   "price": 7.49,
+   "price_per_kg": 33.29,
+   "url": "https://www.harrisfarm.com.au/products/yummy-karma-sweet-potato-quinoa-bites-30375"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Yummy Karma Red Lentil and Kale Bites 225g",
+   "price": 7.49,
+   "price_per_kg": 33.29,
+   "url": "https://www.harrisfarm.com.au/products/yummy-karma-red-lentil-kale-bites-30373"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mushrooms King Oyster 200g",
+   "price": 6.69,
+   "price_per_kg": 33.45,
+   "url": "https://www.harrisfarm.com.au/products/mushrooms-gourmet-king-oyster-2462"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Taste Fine Food Vegetable Samosa 170g",
+   "price": 5.99,
+   "price_per_kg": 35.24,
+   "url": "https://www.harrisfarm.com.au/products/taste-fine-food-vegetable-samosa-15097"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Bite Me Fine Foods Thai Chicken Bites 300g",
+   "price": 8.99,
+   "price_per_kg": 29.97,
+   "url": "https://www.harrisfarm.com.au/products/bite-me-fine-foods-thai-chicken-bites-15077"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pimp My Salad Vegan Activated Super Seeds 135g",
+   "price": 8.49,
+   "price_per_kg": 62.89,
+   "url": "https://www.harrisfarm.com.au/products/pimp-my-salad-vegan-activated-super-seeds-110g-6544"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pimp My Salad Vegan Spiced Spouted Sunflower Seeds 135g",
+   "price": 8.49,
+   "price_per_kg": 62.89,
+   "url": "https://www.harrisfarm.com.au/products/pimp-my-salad-vegan-spiced-spouted-sunflower-seeds-110g-6543"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pimp My Salad Vegan Sea Seaweed Superfoods 135g",
+   "price": 8.49,
+   "price_per_kg": 62.89,
+   "url": "https://www.harrisfarm.com.au/products/pimp-my-salad-vegan-sea-seaweed-superfoods-110g-6542"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pimp My Salad Vegan Cashew Parmesan 120g",
+   "price": 9.49,
+   "price_per_kg": 79.08,
+   "url": "https://www.harrisfarm.com.au/products/pimp-my-salad-vegan-cashew-parmesan-120g-6540"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Mingle Butter Chicken Seasoning 30g",
+   "price": 3.29,
+   "price_per_kg": 109.67,
+   "url": "https://www.harrisfarm.com.au/products/mingle-butter-chicken-seasoning-14548"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Ayam Coconut Cream 400ml",
+   "price": 3.4,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/ayam-coconut-cream-premium-lge-11650"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Ayam Coconut Cream Light 270ml",
+   "price": 2.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/ayam-coconut-cream-light-11505"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Beetroot Love Beets Baby Beetroot Peeled and Cooked 250g",
+   "price": 6.69,
+   "price_per_kg": 26.76,
+   "url": "https://www.harrisfarm.com.au/products/love-beets-baby-beetroot-11412"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Chef's Choice Organic Basmati Rice 1kg",
+   "price": 6.69,
+   "price_per_kg": 6.69,
+   "url": "https://www.harrisfarm.com.au/products/chefs-choice-organic-basmati-white-rice-1kg-11231"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Blissful Organic Coconut Cream 400mL",
+   "price": 3.69,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/blissful-organic-coconut-cream-11227"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capriccio Lentils 400g",
+   "price": 0.99,
+   "price_per_kg": 2.47,
+   "url": "https://www.harrisfarm.com.au/products/capriccio-lentils-400g-11139"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capriccio Butter Beans 400g",
+   "price": 0.99,
+   "price_per_kg": 2.47,
+   "url": "https://www.harrisfarm.com.au/products/capriccio-butter-bean-11136"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capriccio Borlotti Beans 400g",
+   "price": 0.99,
+   "price_per_kg": 2.47,
+   "url": "https://www.harrisfarm.com.au/products/capriccio-borlotti-beans-400g-11135"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Capriccio Red Kidney Beans 400g",
+   "price": 0.99,
+   "price_per_kg": 2.47,
+   "url": "https://www.harrisfarm.com.au/products/capriccio-red-kidney-beans-400g-11134"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Tilda Pure Basmati Rice 5kg",
+   "price": 23.29,
+   "price_per_kg": 4.66,
+   "url": "https://www.harrisfarm.com.au/products/tilda-pure-basmati-rice-5kg-11087"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Villa Rossi Chickpeas 400g",
+   "price": 1.99,
+   "price_per_kg": 4.97,
+   "url": "https://www.harrisfarm.com.au/products/villa-rossi-chick-peas-10998"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Salad Wild Roquette 120g",
+   "price": 5.49,
+   "price_per_kg": 45.75,
+   "url": "https://www.harrisfarm.com.au/products/salad-wild-roquette-120g-7013"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Aroyd Bamboo Shoot Strips 540g",
+   "price": 4.29,
+   "price_per_kg": 7.94,
+   "url": "https://www.harrisfarm.com.au/products/aroyd-bamboo-shoot-strips-10454"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Hugo's Mung Beans Sprouts 200g",
+   "price": 2.69,
+   "price_per_kg": 13.45,
+   "url": "https://www.harrisfarm.com.au/products/sprouts-mung-beans-200g-tub-6334"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Pineapple Topless Extra Extra Large Each",
+   "price": 3.29,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/pineapple-topless-large-5032"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Raspberries 125g",
+   "price": 6.29,
+   "price_per_kg": 50.32,
+   "url": "https://www.harrisfarm.com.au/products/raspberries-punnet-4302"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Coolibah Salad Mix Italian 120g",
+   "price": 5.49,
+   "price_per_kg": 45.75,
+   "url": "https://www.harrisfarm.com.au/products/italian-salad-mix-7019"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herb Arugula bunch",
+   "price": 3.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/arugula-bunch-3612"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Watercress Bunch",
+   "price": 3.99,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/watercress-bunch-3542"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Lemon Thyme Punnet",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/thyme-lemon-each-3522"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Thyme Punnet",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/thyme-each-3502"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Sage Punnet",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/sage-each-3462"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Rosemary Punnet",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/rosemary-each-3452"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Parsley Continental Bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/parsley-continental-3432"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Oregano Punnet",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/oregano-each-3402"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Mint Bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/mint-bunch-3372"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Marjoram Bunch",
+   "price": 4.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/marjoram-each-3362"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Fresh Herbs Dill Bunch",
+   "price": 5.49,
+   "price_per_kg": null,
+   "url": "https://www.harrisfarm.com.au/products/dill-bunch-3332"
+  },
   {
    "retailer": "Panetta Mercato",
    "name": "Mixed Veggies Stir Fry Pack Min. 1kg",
@@ -1597,13 +6379,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "OC Naturals Hand Wash Refill Blood Orange & Bergamot 1L",
-   "price": 8.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6024466"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Still Spirits Top Shelf Blood Orange Gin Home Brew Flavouring Essence",
    "price": 9.86,
    "price_per_kg": null,
@@ -1664,13 +6439,6 @@
    "price": 0.47,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/829107"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mandarin Imperial each",
-   "price": 0.53,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/141410"
   },
   {
    "retailer": "Woolworths",
@@ -2200,8 +6968,8 @@
   {
    "retailer": "Woolworths",
    "name": "Help@Hand Pawpaw Ointment 25g",
-   "price": 2.7,
-   "price_per_kg": 108.0,
+   "price": 3.3,
+   "price_per_kg": 132.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/80324"
   },
   {
@@ -2549,13 +7317,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Only Organic Mango Coconut & Quinoa 120g",
-   "price": 1.8,
-   "price_per_kg": 15.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/53366"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Mogu Mogu Drink Mango 320mL",
    "price": 1.8,
    "price_per_kg": null,
@@ -2567,6 +7328,13 @@
    "price": 1.8,
    "price_per_kg": 15.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/333288"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Only Organic Mango Coconut & Quinoa 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/53366"
   },
   {
    "retailer": "Woolworths",
@@ -3074,17 +7842,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Maggi Side Dishes Cheesy Cauliflower Bake 30g",
-   "price": 1.85,
-   "price_per_kg": 61.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/579716"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Maggi Side Dishes Cheesy Broccoli & Cauliflower Bake 31g",
    "price": 1.85,
    "price_per_kg": 59.68,
    "url": "https://www.woolworths.com.au/shop/productdetails/169311"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Maggi Side Dishes Cheesy Cauliflower Bake 30g",
+   "price": 1.85,
+   "price_per_kg": 61.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/579716"
   },
   {
    "retailer": "Woolworths",
@@ -3641,17 +8409,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "McCormick Sour Cream & Chive Potato Mash Recipe Base 40g",
-   "price": 1.8,
-   "price_per_kg": 45.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/591730"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "McCormick Scalloped Potatoes Recipe Base 40g",
    "price": 1.8,
    "price_per_kg": 45.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/591719"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "McCormick Sour Cream & Chive Potato Mash Recipe Base 40g",
+   "price": 1.8,
+   "price_per_kg": 45.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/591730"
   },
   {
    "retailer": "Woolworths",
@@ -3757,6 +8525,13 @@
    "price": 5.2,
    "price_per_kg": 17.33,
    "url": "https://www.woolworths.com.au/shop/productdetails/54901"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Macro Organic Tuscan Kale Bunch each",
+   "price": 5.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/796562"
   },
   {
    "retailer": "Woolworths",
@@ -4205,6 +8980,13 @@
    "price": 9.92,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1127636127"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Macro Free Range 4 Chicken & Zucchini Burgers 500g",
+   "price": 10.0,
+   "price_per_kg": 20.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/901718"
   },
   {
    "retailer": "Woolworths",
@@ -5244,13 +10026,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Macro Organic Round Beans 200g",
-   "price": 4.9,
-   "price_per_kg": 24.5,
-   "url": "https://www.woolworths.com.au/shop/productdetails/306567"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Broccolini & Green Beans With Almond Flakes 170g",
    "price": 5.5,
    "price_per_kg": 32.35,
@@ -5286,13 +10061,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Birds Eye Deli Seasoned Sides Garlic Butter Style Green Beans 600g",
-   "price": 7.0,
-   "price_per_kg": 11.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6005942"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Fitness Outcomes Beef Cashew Korma With Brown Rice & Green Beans 350g",
    "price": 7.9,
    "price_per_kg": 22.57,
@@ -5318,13 +10086,6 @@
    "price": 4.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/75186"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Snow Peas per 250g",
-   "price": 19.9,
-   "price_per_kg": 19.9,
-   "url": "https://www.woolworths.com.au/shop/productdetails/145843"
   },
   {
    "retailer": "Woolworths",
@@ -5398,13 +10159,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Ghost Energy Zero Sugar Warheads Sour Watermelon Can 500mL",
-   "price": 2.9,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6036306"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Aeroplane Jelly Lite Crystals Watermelon 9g x 2 pack",
    "price": 2.9,
    "price_per_kg": 322.22,
@@ -5423,6 +10177,13 @@
    "price": 3.0,
    "price_per_kg": 625.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/103147"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Trolli Sour Straps Watermelon 140g",
+   "price": 3.0,
+   "price_per_kg": 21.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6080465"
   },
   {
    "retailer": "Woolworths",
@@ -5566,17 +10327,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Apple In Pineapple Jelly 4 pack",
-   "price": 1.5,
-   "price_per_kg": 3.13,
-   "url": "https://www.woolworths.com.au/shop/productdetails/535524"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Schweppes Zero Sugar Passion & Pineapple Sparkling Mineral Water 1.1L",
    "price": 1.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6023633"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Apple In Pineapple Jelly 4 pack",
+   "price": 1.5,
+   "price_per_kg": 3.13,
+   "url": "https://www.woolworths.com.au/shop/productdetails/535524"
   },
   {
    "retailer": "Woolworths",
@@ -6203,17 +10964,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Waterfords Sparkling Water Tahitian Lime 1L",
-   "price": 1.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/672555"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Waterfords Sparkling Water Lemon Lime Bitters 1L",
    "price": 1.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/672553"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Waterfords Sparkling Water Tahitian Lime 1L",
+   "price": 1.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/672555"
   },
   {
    "retailer": "Woolworths",
@@ -6497,13 +11258,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "10PK Jarvis Walker 90mm Turnip Float Unweighted Foam Fishing Float",
-   "price": 25.95,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1125244381"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Urban Turnip Planter Pot Salmon 14cm Home Decorative Outdoor Garden Decor",
    "price": 37.0,
    "price_per_kg": null,
@@ -6714,6 +11468,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Remedy Kombucha Ginger Lemon 330mL",
+   "price": 2.95,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/571601"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Remedy Ginger Beer Original 330mL",
    "price": 2.95,
    "price_per_kg": null,
@@ -6732,6 +11493,13 @@
    "price": 2.99,
    "price_per_kg": 142.38,
    "url": "https://www.woolworths.com.au/shop/productdetails/1122271965"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Schweppes Zero Sugar Mixer Dry Ginger Ale 1.1L",
+   "price": 3.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/634268"
   },
   {
    "retailer": "Woolworths",
