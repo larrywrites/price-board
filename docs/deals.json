@@ -1,5 +1,5 @@
 {
- "fetched_at": "8:02 AM, Friday 31 July",
+ "fetched_at": "8:00 AM, Saturday 1 August",
  "note": "live",
  "retailers": [
   "Panetta Mercato",
@@ -51,8 +51,8 @@
   {
    "retailer": "Panetta Mercato",
    "name": "Raspberries Punnet 125g",
-   "price": 5.49,
-   "price_per_kg": 43.92,
+   "price": 4.99,
+   "price_per_kg": 39.92,
    "url": "https://panettamercato.com.au/product/raspberries-special/"
   },
   {
@@ -310,8 +310,8 @@
   {
    "retailer": "Panetta Mercato",
    "name": "Strawberries Premium Punnet 250g",
-   "price": 6.99,
-   "price_per_kg": 27.96,
+   "price": 4.99,
+   "price_per_kg": 19.96,
    "url": "https://panettamercato.com.au/product/strawberries-punnet-250g/"
   },
   {
@@ -548,8 +548,8 @@
   {
    "retailer": "Panetta Mercato",
    "name": "Onions Brown 1kg Net",
-   "price": 4.49,
-   "price_per_kg": 4.49,
+   "price": 3.99,
+   "price_per_kg": 3.99,
    "url": "https://panettamercato.com.au/product/onions-brown-1kg-net/"
   },
   {
@@ -1534,6 +1534,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Madison Sport 6 cm Marker Dome - Orange",
+   "price": 2.45,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1129607063"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Dettol Antibacterial Foam Hand Wash Pump Lime & Orange Blossom 250mL",
    "price": 2.5,
    "price_per_kg": null,
@@ -1548,10 +1555,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mildura Orange & Passionfruit Fruit Drink 500mL",
+   "name": "Mildura Orange & Mango Fruit Drink 500mL",
    "price": 2.7,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/739699"
+   "url": "https://www.woolworths.com.au/shop/productdetails/739700"
   },
   {
    "retailer": "Woolworths",
@@ -1562,17 +1569,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mildura Orange & Mango Fruit Drink 500mL",
+   "name": "Mildura Orange & Passionfruit Fruit Drink 500mL",
    "price": 2.7,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/739700"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Tilley Fragranced Vegetable Soap - Orange Blossom",
-   "price": 2.75,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1105880607"
+   "url": "https://www.woolworths.com.au/shop/productdetails/739699"
   },
   {
    "retailer": "Woolworths",
@@ -2584,17 +2584,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Avofresh Avocado Hint Of Lemon Tube 160g",
-   "price": 2.85,
-   "price_per_kg": 17.81,
-   "url": "https://www.woolworths.com.au/shop/productdetails/364554"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Avofresh Smashed Avocado 160g",
    "price": 2.85,
    "price_per_kg": 17.81,
    "url": "https://www.woolworths.com.au/shop/productdetails/820738"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Avofresh Avocado Hint Of Lemon Tube 160g",
+   "price": 2.85,
+   "price_per_kg": 17.81,
+   "url": "https://www.woolworths.com.au/shop/productdetails/364554"
   },
   {
    "retailer": "Woolworths",
@@ -2703,20 +2703,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Hallmark Christmas Card For Both Of You - Brussel Sprouts",
-   "price": 2.2,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1128258091"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Hallmark Christmas Card For Dad - Brussel Sprouts",
-   "price": 2.2,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1128259929"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Brussels Sprouts 500g",
    "price": 2.5,
    "price_per_kg": 5.0,
@@ -2724,17 +2710,24 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Hallmark Christmas Card For Mum & Dad - Brussels Sprouts",
-   "price": 3.3,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1128256737"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Baby Brussels Sprouts Punnet 300g",
    "price": 3.9,
    "price_per_kg": 13.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/179060"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Hallmark Christmas Card For Both Of You - Brussel Sprouts",
+   "price": 4.4,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1128258091"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Hallmark Christmas Card For Dad - Brussel Sprouts",
+   "price": 4.4,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1128259929"
   },
   {
    "retailer": "Woolworths",
@@ -2749,6 +2742,13 @@
    "price": 9.9,
    "price_per_kg": 9.9,
    "url": "https://www.woolworths.com.au/shop/productdetails/134782"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Hallmark Christmas Card For Mum & Dad - Brussels Sprouts",
+   "price": 6.6,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1128256737"
   },
   {
    "retailer": "Woolworths",
@@ -2864,6 +2864,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Cabbage Savoy Whole each",
+   "price": 8.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/135029"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Vegetable Fruit Potato Peeler Cabbage Grater Cutter Slicer Stainless Steel",
    "price": 15.37,
    "price_per_kg": null,
@@ -2969,17 +2976,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Temole Broccoli Puffs Cheese 56g",
-   "price": 4.0,
-   "price_per_kg": 71.43,
-   "url": "https://www.woolworths.com.au/shop/productdetails/223812"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Temole Broccoli Puffs Sweet Chilli 56g",
    "price": 4.0,
    "price_per_kg": 71.43,
    "url": "https://www.woolworths.com.au/shop/productdetails/151014"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Temole Broccoli Puffs Cheese 56g",
+   "price": 4.0,
+   "price_per_kg": 71.43,
+   "url": "https://www.woolworths.com.au/shop/productdetails/223812"
   },
   {
    "retailer": "Woolworths",
@@ -3043,6 +3050,13 @@
    "price": 5.5,
    "price_per_kg": 30.56,
    "url": "https://www.woolworths.com.au/shop/productdetails/571899"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Broccolini & Green Beans With Almond Flakes 170g",
+   "price": 5.5,
+   "price_per_kg": 32.35,
+   "url": "https://www.woolworths.com.au/shop/productdetails/571556"
   },
   {
    "retailer": "Woolworths",
@@ -3627,17 +3641,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "McCormick Italian Herb Potatoes Recipe Base 40g",
-   "price": 1.8,
-   "price_per_kg": 45.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/550385"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "McCormick Sour Cream & Chive Potato Mash Recipe Base 40g",
    "price": 1.8,
    "price_per_kg": 45.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/591730"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "McCormick Italian Herb Potatoes Recipe Base 40g",
+   "price": 1.8,
+   "price_per_kg": 45.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/550385"
   },
   {
    "retailer": "Woolworths",
@@ -3739,17 +3753,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Tilly Indulgent Meals Chicken & Kale in Jelly Wet Cat Food 80g 80g",
-   "price": 1.99,
-   "price_per_kg": 24.88,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1135840980"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Tilly Indulgent Meals Tuna & Kale in Jelly Wet Cat Food 80g 80g",
    "price": 1.99,
    "price_per_kg": 24.88,
    "url": "https://www.woolworths.com.au/shop/productdetails/1135841050"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Tilly Indulgent Meals Chicken & Kale in Jelly Wet Cat Food 80g 80g",
+   "price": 1.99,
+   "price_per_kg": 24.88,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1135840980"
   },
   {
    "retailer": "Woolworths",
@@ -4117,17 +4131,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Edgell Australian Sweet Sliced Beetroot 425g",
-   "price": 2.8,
-   "price_per_kg": 6.59,
-   "url": "https://www.woolworths.com.au/shop/productdetails/96231"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Willow Farm Beetroot Hommus 200g",
    "price": 2.8,
    "price_per_kg": 14.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/385107"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Edgell Australian Sweet Sliced Beetroot 425g",
+   "price": 2.8,
+   "price_per_kg": 6.59,
+   "url": "https://www.woolworths.com.au/shop/productdetails/96231"
   },
   {
    "retailer": "Woolworths",
@@ -4418,13 +4432,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Truss Tomatoes each",
-   "price": 0.97,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/169438"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Diced Italian Tomatoes 400g",
    "price": 1.1,
    "price_per_kg": 2.75,
@@ -4450,6 +4457,13 @@
    "price": 1.1,
    "price_per_kg": 2.75,
    "url": "https://www.woolworths.com.au/shop/productdetails/218918"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Truss Tomatoes each",
+   "price": 1.11,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/169438"
   },
   {
    "retailer": "Woolworths",
@@ -4936,17 +4950,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Cobs Microwave Pop Corn Best Ever Butter 85g",
-   "price": 1.25,
-   "price_per_kg": 14.71,
-   "url": "https://www.woolworths.com.au/shop/productdetails/361441"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Cobs Microwave Pop Corn Sea Salt 85g",
    "price": 1.25,
    "price_per_kg": 14.71,
    "url": "https://www.woolworths.com.au/shop/productdetails/363259"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Cobs Microwave Pop Corn Best Ever Butter 85g",
+   "price": 1.25,
+   "price_per_kg": 14.71,
+   "url": "https://www.woolworths.com.au/shop/productdetails/361441"
   },
   {
    "retailer": "Woolworths",
@@ -5013,13 +5027,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Annalisa Chickpeas 400g",
-   "price": 1.9,
-   "price_per_kg": 4.75,
-   "url": "https://www.woolworths.com.au/shop/productdetails/178262"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Baby Corn Spears 410g",
    "price": 1.9,
    "price_per_kg": 4.63,
@@ -5027,10 +5034,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Edgell Australian Grown Corn Kernels 300g",
+   "name": "Annalisa Chickpeas 400g",
    "price": 1.9,
-   "price_per_kg": 6.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/966533"
+   "price_per_kg": 4.75,
+   "url": "https://www.woolworths.com.au/shop/productdetails/178262"
   },
   {
    "retailer": "Woolworths",
@@ -5038,6 +5045,13 @@
    "price": 1.9,
    "price_per_kg": 16.96,
    "url": "https://www.woolworths.com.au/shop/productdetails/672828"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Edgell Australian Grown Corn Kernels 300g",
+   "price": 1.9,
+   "price_per_kg": 6.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/966533"
   },
   {
    "retailer": "Woolworths",
@@ -5122,6 +5136,13 @@
    "price": 3.1,
    "price_per_kg": 8.86,
    "url": "https://www.woolworths.com.au/shop/productdetails/620060"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Whole Sweet & Sour Pickles 680g",
+   "price": 3.2,
+   "price_per_kg": 4.71,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6039971"
   },
   {
    "retailer": "Woolworths",
@@ -5339,6 +5360,13 @@
    "price": 4.9,
    "price_per_kg": 24.5,
    "url": "https://www.woolworths.com.au/shop/productdetails/306567"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Broccolini & Green Beans With Almond Flakes 170g",
+   "price": 5.5,
+   "price_per_kg": 32.35,
+   "url": "https://www.woolworths.com.au/shop/productdetails/571556"
   },
   {
    "retailer": "Woolworths",
@@ -5811,10 +5839,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Uncle Tobys Roll-Ups Groovy Grape 6 pack",
-   "price": 4.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/427562"
+   "name": "Zappo 4 Pack Grape 104g",
+   "price": 3.99,
+   "price_per_kg": 38.37,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1121319439"
   },
   {
    "retailer": "Woolworths",
@@ -6112,10 +6140,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Cherry Bocconcini 220g",
-   "price": 4.8,
-   "price_per_kg": 21.82,
-   "url": "https://www.woolworths.com.au/shop/productdetails/810779"
+   "name": "Cavendish & Harvey 2in1 Double Fruit Drops Cherry with Lime Filling 175g",
+   "price": 4.5,
+   "price_per_kg": 25.71,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1120902169"
   },
   {
    "retailer": "Woolworths",
@@ -6252,17 +6280,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Sour Patch Kids Mini Puffy Heads Peach & Raspberry 80g",
-   "price": 2.0,
-   "price_per_kg": 25.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6069478"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Dettol Liquid Handwash Pump Raspberry & Pomegranate 250mL",
    "price": 2.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/758271"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Sour Patch Kids Mini Puffy Heads Peach & Raspberry 80g",
+   "price": 2.0,
+   "price_per_kg": 25.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6069478"
   },
   {
    "retailer": "Woolworths",
@@ -6533,7 +6561,7 @@
   {
    "retailer": "Woolworths",
    "name": "Delicious Rhubarb and Rose Hand Lotion by Molton Brown for Women - 10 oz Hand Lotion 10 oz",
-   "price": 71.71,
+   "price": 70.22,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1136682212"
   },
