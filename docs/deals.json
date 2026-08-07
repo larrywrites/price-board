@@ -1,5 +1,5 @@
 {
- "fetched_at": "11:04 AM, Friday 7 August",
+ "fetched_at": "7:32 AM, Saturday 8 August",
  "note": "live",
  "retailers": [
   "Harris Farm",
@@ -6477,13 +6477,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Apple Pear & Cinnamon 4+ Months 120g",
-   "price": 2.0,
-   "price_per_kg": 16.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/291279"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Pear & Superberries 4+ Months 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
@@ -6491,17 +6484,17 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Apple Pear & Cinnamon 4+ Months 120g",
+   "price": 2.0,
+   "price_per_kg": 16.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/291279"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Apple Pear & Cinnamon Porridge 6+ Months 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/498493"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
-   "price": 2.0,
-   "price_per_kg": 16.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
   },
   {
    "retailer": "Woolworths",
@@ -7156,13 +7149,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Kiwi Fruit Green 8 pack",
-   "price": 6.9,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/786152"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Kiwi Fruit - Bamboo Socks",
    "price": 9.5,
    "price_per_kg": null,
@@ -7216,6 +7202,13 @@
    "price": 5.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1117734445"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Blackberries Punnet 125g",
+   "price": 7.0,
+   "price_per_kg": 56.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/296813"
   },
   {
    "retailer": "Woolworths",
@@ -7601,13 +7594,6 @@
    "price": 1.9,
    "price_per_kg": 14.62,
    "url": "https://www.woolworths.com.au/shop/productdetails/917991"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g",
-   "price": 2.0,
-   "price_per_kg": 16.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/498490"
   },
   {
    "retailer": "Woolworths",
@@ -8136,6 +8122,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Woolworths Honey Sea Salt Carrots & Broccolini 180g",
+   "price": 5.5,
+   "price_per_kg": 30.56,
+   "url": "https://www.woolworths.com.au/shop/productdetails/571899"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Woolworths Broccolini & Green Beans With Almond Flakes 170g",
    "price": 5.5,
    "price_per_kg": 32.35,
@@ -8157,17 +8150,17 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Fresh Cauliflower Half each",
+   "price": 2.25,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/135568"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Only Organic Cauliflower Broccoli & Cheddar 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
    "url": "https://www.woolworths.com.au/shop/productdetails/710460"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Fresh Cauliflower Half each",
-   "price": 2.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/135568"
   },
   {
    "retailer": "Woolworths",
@@ -8192,6 +8185,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Fresh Whole Cauliflower each",
+   "price": 4.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/135552"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Birds Eye Steamfresh Carrot Cauliflower & Broccoli 450g",
    "price": 4.5,
    "price_per_kg": 10.0,
@@ -8203,13 +8203,6 @@
    "price": 4.9,
    "price_per_kg": 28.82,
    "url": "https://www.woolworths.com.au/shop/productdetails/638771"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Fresh Whole Cauliflower each",
-   "price": 5.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/135552"
   },
   {
    "retailer": "Woolworths",
@@ -8304,17 +8297,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Peas & Carrots 420g",
-   "price": 1.8,
-   "price_per_kg": 4.29,
-   "url": "https://www.woolworths.com.au/shop/productdetails/218915"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Whole Baby Carrots 410g",
    "price": 1.8,
    "price_per_kg": 4.39,
    "url": "https://www.woolworths.com.au/shop/productdetails/218900"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Peas & Carrots 420g",
+   "price": 1.8,
+   "price_per_kg": 4.29,
+   "url": "https://www.woolworths.com.au/shop/productdetails/218915"
   },
   {
    "retailer": "Woolworths",
@@ -8357,13 +8350,6 @@
    "price": 2.0,
    "price_per_kg": 16.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/63892"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Only Organic 8 Months+ Carrot Red Lentils & Cheddar 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/710425"
   },
   {
    "retailer": "Woolworths",
@@ -9270,17 +9256,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Yates Baby Beets Seeds each",
-   "price": 4.3,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/46763"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Yates Heirloom Beetroot Mix Seeds each",
    "price": 4.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/372458"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Yates Baby Beets Seeds each",
+   "price": 4.3,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/46763"
   },
   {
    "retailer": "Woolworths",
@@ -9323,13 +9309,6 @@
    "price": 4.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/7071"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Zucchini Green Punnet 500g",
-   "price": 4.9,
-   "price_per_kg": 9.8,
-   "url": "https://www.woolworths.com.au/shop/productdetails/839552"
   },
   {
    "retailer": "Woolworths",
@@ -9435,6 +9414,13 @@
    "price": 1.98,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/135156"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Capsicum Yellow each",
+   "price": 2.23,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/135324"
   },
   {
    "retailer": "Woolworths",
@@ -9606,10 +9592,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "La Gina Diced Tomatoes 400g",
+   "name": "SPC Spag-A-Saurus Tomato & Cheese 420g",
    "price": 1.4,
-   "price_per_kg": 3.5,
-   "url": "https://www.woolworths.com.au/shop/productdetails/808420"
+   "price_per_kg": 3.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/13170"
   },
   {
    "retailer": "Woolworths",
@@ -10789,17 +10775,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Golden Circle Pine Coconut Fruit Drink 1L",
-   "price": 3.1,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/92483"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Golden Circle Pine Mango Fruit Drink 1L",
    "price": 3.1,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/34543"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Golden Circle Pine Coconut Fruit Drink 1L",
+   "price": 3.1,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/92483"
   },
   {
    "retailer": "Woolworths",
@@ -10943,17 +10929,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Apple Banana & Peach 4+ Months 120g",
-   "price": 2.0,
-   "price_per_kg": 16.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/709557"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Peach Flavoured Ice Tea 1.25L",
    "price": 2.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/972480"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Apple Banana & Peach 4+ Months 120g",
+   "price": 2.0,
+   "price_per_kg": 16.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/709557"
   },
   {
    "retailer": "Woolworths",
