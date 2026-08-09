@@ -1,5 +1,5 @@
 {
- "fetched_at": "7:23 AM, Sunday 9 August",
+ "fetched_at": "7:25 AM, Monday 10 August",
  "note": "live",
  "retailers": [
   "Harris Farm",
@@ -6309,13 +6309,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Macro Baby Food Pouch Pear Apple & Berries 6+ Months 120g",
-   "price": 1.0,
-   "price_per_kg": 8.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6047745"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Macro Baby Food Pouch Apple Pear & Cinnamon 6+ Months 120g",
    "price": 1.0,
    "price_per_kg": 8.33,
@@ -6393,13 +6386,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Macro Baby Food Pouch Pear Apple & Berries 6+ Months 120g",
-   "price": 1.0,
-   "price_per_kg": 8.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6047745"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Macro Baby Food Pouch Apple Pear & Cinnamon 6+ Months 120g",
    "price": 1.0,
    "price_per_kg": 8.33,
@@ -6456,6 +6442,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Little Bellies Organic Pear & Vanilla Paws 12g",
+   "price": 1.9,
+   "price_per_kg": 158.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/176008"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Pear & Prune & Nothing Else 4+ Months 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
@@ -6463,17 +6456,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pear & Superberries 4+ Months 120g",
-   "price": 2.0,
-   "price_per_kg": 16.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/709604"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Apple Pear & Cinnamon Porridge 6+ Months 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/498493"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Pear & Superberries 4+ Months 120g",
+   "price": 2.0,
+   "price_per_kg": 16.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/709604"
   },
   {
    "retailer": "Woolworths",
@@ -7534,17 +7527,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Heinz Baby Food Apple Blueberry & Strawberry 8+ Months 120g",
-   "price": 1.8,
-   "price_per_kg": 15.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/790513"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Heinz Baby Food Apple Strawberry & Passionfruit 8+ Months 120g",
    "price": 1.8,
    "price_per_kg": 15.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/923907"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Heinz Baby Food Apple Blueberry & Strawberry 8+ Months 120g",
+   "price": 1.8,
+   "price_per_kg": 15.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/790513"
   },
   {
    "retailer": "Woolworths",
@@ -7842,13 +7835,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Perfection Chinese Wombok Baby Whole each",
-   "price": 4.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/179004"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Cabbage Chinese Wombok Whole each",
    "price": 6.9,
    "price_per_kg": null,
@@ -7881,13 +7867,6 @@
    "price": 3.45,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/170154"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Perfection Chinese Wombok Baby Whole each",
-   "price": 4.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/179004"
   },
   {
    "retailer": "Woolworths",
@@ -7968,6 +7947,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Catzon Cabbage Peeler Shaving Many with 2 Blades Comfort Handle",
+   "price": 20.89,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1123060025"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "2 Pack Wide Mouth Peeler Vegetables Fruit Stainless Steel Knife Cabbage Graters",
    "price": 21.95,
    "price_per_kg": null,
@@ -7979,13 +7965,6 @@
    "price": 21.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1127724847"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Catzon Cabbage Peeler Shaving Many with 2 Blades Comfort Handle",
-   "price": 21.99,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1123060025"
   },
   {
    "retailer": "Woolworths",
@@ -8073,17 +8052,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Birds Eye Steamfresh Peas Beans Corn & Broccoli 450g",
-   "price": 4.5,
-   "price_per_kg": 10.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/783107"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Birds Eye Steamfresh Carrot Cauliflower & Broccoli 450g",
    "price": 4.5,
    "price_per_kg": 10.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/782975"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Birds Eye Steamfresh Peas Beans Corn & Broccoli 450g",
+   "price": 4.5,
+   "price_per_kg": 10.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/783107"
   },
   {
    "retailer": "Woolworths",
@@ -8133,6 +8112,13 @@
    "price": 2.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/187314"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Honey Sea Salt Carrots & Broccolini 180g",
+   "price": 5.5,
+   "price_per_kg": 30.56,
+   "url": "https://www.woolworths.com.au/shop/productdetails/571899"
   },
   {
    "retailer": "Woolworths",
@@ -8542,17 +8528,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Brown Rice Bean & Pumpkin Baby Food Pouch 8+ Months 120g",
-   "price": 2.0,
-   "price_per_kg": 16.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/63867"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Rafferty's Garden Baby Food Pouch Pumpkin & Spinach Pasta Bake 6+ Months 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/92211"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Brown Rice Bean & Pumpkin Baby Food Pouch 8+ Months 120g",
+   "price": 2.0,
+   "price_per_kg": 16.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/63867"
   },
   {
    "retailer": "Woolworths",
@@ -9131,7 +9117,7 @@
   {
    "retailer": "Woolworths",
    "name": "Coastal Cypress and Sea Fennel Body Lotion by Molton Brown for Men - 10 oz Body Lotion 10 oz",
-   "price": 74.59,
+   "price": 76.05,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1137061632"
   },
@@ -9274,6 +9260,13 @@
    "price": 4.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/46763"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mainland Lunch On The Go Cheese With Crackers & Balsamic Beetroot 110g",
+   "price": 4.95,
+   "price_per_kg": 45.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/23757"
   },
   {
    "retailer": "Woolworths",
@@ -9456,13 +9449,6 @@
    "price": 4.6,
    "price_per_kg": 24.86,
    "url": "https://www.woolworths.com.au/shop/productdetails/329004"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Sweet Baby Vine Capsicum 175g",
-   "price": 5.9,
-   "price_per_kg": 33.71,
-   "url": "https://www.woolworths.com.au/shop/productdetails/105134"
   },
   {
    "retailer": "Woolworths",
@@ -10509,13 +10495,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Macro Organic Snow Peas 125g",
-   "price": 6.8,
-   "price_per_kg": 54.4,
-   "url": "https://www.woolworths.com.au/shop/productdetails/117393"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Mr Fothergill's Sprouts Alive Snow Pea Seeds",
    "price": 12.82,
    "price_per_kg": null,
@@ -10555,13 +10534,6 @@
    "price": 2.5,
    "price_per_kg": 17.86,
    "url": "https://www.woolworths.com.au/shop/productdetails/6080465"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Nivea Lip Care Balm Watermelon Shine 4.8g",
-   "price": 2.5,
-   "price_per_kg": 520.83,
-   "url": "https://www.woolworths.com.au/shop/productdetails/103147"
   },
   {
    "retailer": "Woolworths",
@@ -10782,17 +10754,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Golden Circle Pine Mango Fruit Drink 1L",
-   "price": 3.1,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/34543"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Golden Circle Pine Coconut Fruit Drink 1L",
    "price": 3.1,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/92483"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Golden Circle Pine Mango Fruit Drink 1L",
+   "price": 3.1,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/34543"
   },
   {
    "retailer": "Woolworths",
@@ -11160,17 +11132,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Jelly Belly Hanging Gel Car Air Freshener Very Cherry each",
-   "price": 3.5,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/107924"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Glad Aromatics Cherry Blossom Bathroom Tidy Bags 30 pack",
    "price": 3.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6064956"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Jelly Belly Hanging Gel Car Air Freshener Very Cherry each",
+   "price": 3.5,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/107924"
   },
   {
    "retailer": "Woolworths",
@@ -11293,17 +11265,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Life Savers Raspberry Sherbert Fizz Stix 40g",
-   "price": 2.0,
-   "price_per_kg": 50.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/334147"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Mount Franklin Lightly Sparkling Water Raspberry 1.25L",
    "price": 2.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/178132"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Life Savers Raspberry Sherbert Fizz Stix 40g",
+   "price": 2.0,
+   "price_per_kg": 50.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/334147"
   },
   {
    "retailer": "Woolworths",
