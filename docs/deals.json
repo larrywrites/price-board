@@ -1,5 +1,5 @@
 {
- "fetched_at": "7:19 AM, Saturday 15 August",
+ "fetched_at": "7:15 AM, Sunday 16 August",
  "note": "live",
  "retailers": [
   "Harris Farm",
@@ -6330,13 +6330,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Macro Baby Food Pouch Pear Apple & Berries 6+ Months 120g",
-   "price": 1.0,
-   "price_per_kg": 8.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6047745"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Macro Baby Food Pouch Apple Pear & Cinnamon 6+ Months 120g",
    "price": 1.0,
    "price_per_kg": 8.33,
@@ -6418,13 +6411,6 @@
    "price": 1.0,
    "price_per_kg": 8.33,
    "url": "https://www.woolworths.com.au/shop/productdetails/6043827"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Macro Baby Food Pouch Pear Apple & Berries 6+ Months 120g",
-   "price": 1.0,
-   "price_per_kg": 8.33,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6047745"
   },
   {
    "retailer": "Woolworths",
@@ -6890,6 +6876,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Delite Mandarins 750g",
+   "price": 4.5,
+   "price_per_kg": 6.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6072969"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Mandarin Amorette 750g",
    "price": 4.5,
    "price_per_kg": 6.43,
@@ -7093,17 +7086,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Thankyou. Hand & Surface Sanitiser Botanical Grapefruit Spray 50mL",
-   "price": 4.95,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/306677"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Bickford's Cordial Pink Grape Fruit 750mL",
    "price": 4.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/574871"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Thankyou. Hand & Surface Sanitiser Botanical Grapefruit Spray 50mL",
+   "price": 4.95,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/306677"
   },
   {
    "retailer": "Woolworths",
@@ -7220,7 +7213,7 @@
   {
    "retailer": "Woolworths",
    "name": "Kiwi Fruit - Bamboo Socks",
-   "price": 9.5,
+   "price": 11.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1111101589"
   },
@@ -8164,17 +8157,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Maggi Side Dishes Cheesy Cauliflower Bake 30g",
-   "price": 1.85,
-   "price_per_kg": 61.67,
-   "url": "https://www.woolworths.com.au/shop/productdetails/579716"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Maggi Side Dishes Cheesy Broccoli & Cauliflower Bake 31g",
    "price": 1.85,
    "price_per_kg": 59.68,
    "url": "https://www.woolworths.com.au/shop/productdetails/169311"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Maggi Side Dishes Cheesy Cauliflower Bake 30g",
+   "price": 1.85,
+   "price_per_kg": 61.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/579716"
   },
   {
    "retailer": "Woolworths",
@@ -8535,17 +8528,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Tilly Wet Cat Food Can Tuna & Pumpkin In Jelly 80g",
-   "price": 2.0,
-   "price_per_kg": 25.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6046608"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Tilly Wet Cat Food Can Chicken & Pumpkin In Jelly 80g",
    "price": 2.0,
    "price_per_kg": 25.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/6047434"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Tilly Wet Cat Food Can Tuna & Pumpkin In Jelly 80g",
+   "price": 2.0,
+   "price_per_kg": 25.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6046608"
   },
   {
    "retailer": "Woolworths",
@@ -8812,6 +8805,13 @@
    "price": 4.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/178497"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Macro Organic Silverbeet Rainbow each",
+   "price": 4.9,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/349592"
   },
   {
    "retailer": "Woolworths",
@@ -9095,17 +9095,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Coastal Cypress and Sea Fennel Hand Wash by Molton Brown for Men - 10 oz Hand Wash 10 oz",
-   "price": 65.85,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1129828166"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Coastal Cypress and Sea Fennel Bath and Shower Gel by Molton Brown for Men - 10 oz Shower Gel 10 oz",
    "price": 67.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1128235938"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Coastal Cypress and Sea Fennel Hand Wash by Molton Brown for Men - 10 oz Hand Wash 10 oz",
+   "price": 68.62,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1129828166"
   },
   {
    "retailer": "Woolworths",
@@ -10166,10 +10166,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Three Threes Australian Gherkins Sweet Sliced 400g",
+   "name": "La Gina Grilled Pepper Bruschetta Topping 190g",
    "price": 4.0,
-   "price_per_kg": 10.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/172303"
+   "price_per_kg": 21.05,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6007564"
   },
   {
    "retailer": "Woolworths",
@@ -10408,6 +10408,13 @@
    "price": 6.5,
    "price_per_kg": 26.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/162931"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Macro Organic Snow Peas 125g",
+   "price": 6.8,
+   "price_per_kg": 54.4,
+   "url": "https://www.woolworths.com.au/shop/productdetails/117393"
   },
   {
    "retailer": "Woolworths",
@@ -10698,17 +10705,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Golden Circle Pine Mango Fruit Drink 1L",
-   "price": 3.1,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/34543"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Golden Circle Pine Coconut Fruit Drink 1L",
    "price": 3.1,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/92483"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Golden Circle Pine Mango Fruit Drink 1L",
+   "price": 3.1,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/34543"
   },
   {
    "retailer": "Woolworths",
@@ -10814,6 +10821,13 @@
    "price": 3.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6035702"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Jelly Joy Peach Jelly Drink 150g",
+   "price": 1.0,
+   "price_per_kg": 6.67,
+   "url": "https://www.woolworths.com.au/shop/productdetails/132940"
   },
   {
    "retailer": "Woolworths",
@@ -11916,17 +11930,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Woolworths Garlic Granules 45g",
-   "price": 2.0,
-   "price_per_kg": 44.44,
-   "url": "https://www.woolworths.com.au/shop/productdetails/251014"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Maharajah's Choice Garlic Pappadams 100g",
    "price": 2.0,
    "price_per_kg": 20.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/3925"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Woolworths Garlic Granules 45g",
+   "price": 2.0,
+   "price_per_kg": 44.44,
+   "url": "https://www.woolworths.com.au/shop/productdetails/251014"
   },
   {
    "retailer": "Woolworths",
