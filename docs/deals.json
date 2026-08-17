@@ -1,5 +1,5 @@
 {
- "fetched_at": "7:13 AM, Monday 17 August",
+ "fetched_at": "7:20 AM, Tuesday 18 August",
  "note": "live",
  "retailers": [
   "Harris Farm",
@@ -7,6 +7,20 @@
   "Woolworths"
  ],
  "products": [
+  {
+   "retailer": "Harris Farm",
+   "name": "Grapes White Seedless 400g",
+   "price": 6.99,
+   "price_per_kg": 17.47,
+   "url": "https://www.harrisfarm.com.au/products/grapes-white-seedless-800g-44912"
+  },
+  {
+   "retailer": "Harris Farm",
+   "name": "Strawberries Organic 250g",
+   "price": 10.99,
+   "price_per_kg": 43.96,
+   "url": "https://www.harrisfarm.com.au/products/strawberries-organic-74322"
+  },
   {
    "retailer": "Harris Farm",
    "name": "Parsnip Imperfect Each",
@@ -83,13 +97,6 @@
    "price": 4.99,
    "price_per_kg": 4.99,
    "url": "https://www.harrisfarm.com.au/products/grapes-red-seedless-44611"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle",
-   "price": 10.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/back-to-school-qld-15407"
   },
   {
    "retailer": "Harris Farm",
@@ -489,13 +496,6 @@
    "price": 5.49,
    "price_per_kg": 45.75,
    "url": "https://www.harrisfarm.com.au/products/baby-salad-leaves-7012"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "Kids School Holiday Fruit Bundle",
-   "price": 15.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/school-holidays-bundle-nsw-15408"
   },
   {
    "retailer": "Harris Farm",
@@ -972,13 +972,6 @@
    "price": 6.69,
    "price_per_kg": 13.38,
    "url": "https://www.harrisfarm.com.au/products/handcut-harvest-sliced-potato-500g-9863"
-  },
-  {
-   "retailer": "Harris Farm",
-   "name": "BBQ Bundle",
-   "price": 45.0,
-   "price_per_kg": null,
-   "url": "https://www.harrisfarm.com.au/products/bbq-box-77407"
   },
   {
    "retailer": "Harris Farm",
@@ -6491,6 +6484,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Little Bellies Organic Pear & Vanilla Paws 12g",
+   "price": 1.9,
+   "price_per_kg": 158.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/176008"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Only Organic Pear Gold Kiwifruit & Oats with Prebiotics 8+ Months 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
@@ -6757,13 +6757,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "MCoBeauty Peptide Lip Treatment Blood Orange 15g",
-   "price": 18.0,
-   "price_per_kg": 1200.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6054585"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "CHX 30052 D7-Die Set Borealis Polyhedral Blood Orange/white Luminary 7-Die Set (with bonus die)",
    "price": 18.5,
    "price_per_kg": null,
@@ -6782,6 +6775,13 @@
    "price": 24.99,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1116550581"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Ecoya Soap - Blood Orange 90g/3.2oz 90g/3.2oz",
+   "price": 25.9,
+   "price_per_kg": 287.78,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1127442994"
   },
   {
    "retailer": "Woolworths",
@@ -7128,13 +7128,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Air Wick Sparkling Citrus Air Freshener Spray 237g - Lime, Grapefruit & Ginger",
-   "price": 7.99,
-   "price_per_kg": 33.71,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127880641"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "The Good Candle Co. Soy Scented Refillable Candle Blood Orange & Grapefruit 200g",
    "price": 8.0,
    "price_per_kg": 40.0,
@@ -7163,10 +7156,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Kiwi Fruit Green each",
-   "price": 1.02,
+   "name": "Still Spirits Top Shelf Grapefruit Vodka Home Brew Flavouring Essence",
+   "price": 9.86,
    "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/139238"
+   "url": "https://www.woolworths.com.au/shop/productdetails/1123174303"
   },
   {
    "retailer": "Woolworths",
@@ -7786,6 +7779,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Avofresh Classic Avocado Guacamole 160g",
+   "price": 5.7,
+   "price_per_kg": 35.62,
+   "url": "https://www.woolworths.com.au/shop/productdetails/243094"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Avofresh Avocado Hint Of Lemon Tube 160g",
    "price": 5.7,
    "price_per_kg": 35.62,
@@ -7811,13 +7811,6 @@
    "price": 5.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1118619441"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Cocolife Avocado Oil Spray 150mL",
-   "price": 6.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/819033"
   },
   {
    "retailer": "Woolworths",
@@ -8031,6 +8024,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "P&P Vegetable Fruit Potato Peeler Cabbage Grater Cutter Slicer Stainless Steel Au",
+   "price": 20.64,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1125224923"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Catzon Cabbage Peeler Shaving Many with 2 Blades Comfort Handle",
    "price": 20.89,
    "price_per_kg": null,
@@ -8049,13 +8049,6 @@
    "price": 21.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1127724847"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "P&P Vegetable Fruit Potato Peeler Cabbage Grater Cutter Slicer Stainless Steel Au",
-   "price": 22.85,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1125224923"
   },
   {
    "retailer": "Woolworths",
@@ -8105,13 +8098,6 @@
    "price": 2.3,
    "price_per_kg": 19.17,
    "url": "https://www.woolworths.com.au/shop/productdetails/291193"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Temole Broccoli Puffs Sweet Chilli 56g",
-   "price": 2.5,
-   "price_per_kg": 44.64,
-   "url": "https://www.woolworths.com.au/shop/productdetails/151014"
   },
   {
    "retailer": "Woolworths",
@@ -8423,6 +8409,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Woolworths Celery Sticks Punnet 300g",
+   "price": 4.9,
+   "price_per_kg": 16.33,
+   "url": "https://www.woolworths.com.au/shop/productdetails/745467"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Macro Fresh Celery Heart Organic each",
    "price": 7.5,
    "price_per_kg": null,
@@ -8434,13 +8427,6 @@
    "price": 8.0,
    "price_per_kg": 20.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/84993"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's Golden Celery Vegetable Seeds for Sun & Part Shade",
-   "price": 8.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127636145"
   },
   {
    "retailer": "Woolworths",
@@ -8521,17 +8507,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Tilly Wet Cat Food Can Chicken & Pumpkin In Jelly 80g",
-   "price": 2.0,
-   "price_per_kg": 25.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6047434"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Only Organic Pumpkin & Sweet Potato 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/6043949"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Tilly Wet Cat Food Can Chicken & Pumpkin In Jelly 80g",
+   "price": 2.0,
+   "price_per_kg": 25.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/6047434"
   },
   {
    "retailer": "Woolworths",
@@ -8549,17 +8535,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Rafferty's Garden Baby Food Pouch Pumpkin & Spinach Pasta Bake 6+ Months 120g",
-   "price": 2.3,
-   "price_per_kg": 19.17,
-   "url": "https://www.woolworths.com.au/shop/productdetails/92211"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Rafferty's Garden Brown Rice Bean & Pumpkin Baby Food Pouch 8+ Months 120g",
    "price": 2.3,
    "price_per_kg": 19.17,
    "url": "https://www.woolworths.com.au/shop/productdetails/63867"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Rafferty's Garden Baby Food Pouch Pumpkin & Spinach Pasta Bake 6+ Months 120g",
+   "price": 2.3,
+   "price_per_kg": 19.17,
+   "url": "https://www.woolworths.com.au/shop/productdetails/92211"
   },
   {
    "retailer": "Woolworths",
@@ -8801,24 +8787,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mr Fothergill's Silverbeet Organic Vegetable Seeds",
-   "price": 12.82,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127639439"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Tilly Indulgent Meals Chicken & Kale in Jelly Wet Cat Food 80g 80g",
    "price": 1.99,
    "price_per_kg": 24.88,
    "url": "https://www.woolworths.com.au/shop/productdetails/1135840980"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Tilly Indulgent Meals Tuna & Kale in Jelly Wet Cat Food 80g 80g",
-   "price": 1.99,
-   "price_per_kg": 24.88,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1135841050"
   },
   {
    "retailer": "Woolworths",
@@ -8854,13 +8826,6 @@
    "price": 6.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/772786"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's Kale Russian Red Seeds - Hardy Winter Variety, Sun or Part Shade",
-   "price": 10.36,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127635945"
   },
   {
    "retailer": "Woolworths",
@@ -8927,17 +8892,24 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Capsule Recipe Pack Mask - Kale by Innisfree for Unisex - 0.33 oz Mask - Pack of 3 0.33 oz",
+   "price": 35.77,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1136682190"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "2x Chef'n Looseleaf Kale & Greens Stem Stripper w/ 8 Holes Kitchen Utensil Green",
+   "price": 39.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1115972915"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Leek Fresh each",
    "price": 2.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/139645"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Leek Twin 2 pack",
-   "price": 5.7,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/308186"
   },
   {
    "retailer": "Woolworths",
@@ -9123,13 +9095,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mr Fothergill's Hollow Crown Parsnip Seeds - Sweet White Roots, High Yield",
-   "price": 10.36,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127635939"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Beetroot Sliced 425g",
    "price": 1.35,
    "price_per_kg": 3.18,
@@ -9214,17 +9179,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Baby Mum-Mum Strawberry & Beetroot Rusks 18 pack",
-   "price": 3.85,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/113624"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Three Threes Sweet Whole Baby Beetroot 415g",
    "price": 3.85,
    "price_per_kg": 9.28,
    "url": "https://www.woolworths.com.au/shop/productdetails/678622"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Baby Mum-Mum Strawberry & Beetroot Rusks 18 pack",
+   "price": 3.85,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/113624"
   },
   {
    "retailer": "Woolworths",
@@ -9284,6 +9249,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Zucchini Green Punnet 500g",
+   "price": 4.9,
+   "price_per_kg": 9.8,
+   "url": "https://www.woolworths.com.au/shop/productdetails/839552"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Macro Free Range 4 Chicken & Zucchini Burgers 500g",
    "price": 8.0,
    "price_per_kg": 16.0,
@@ -9291,38 +9263,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mr Fothergill's Blackjack Zucchini Seeds - Prolific Dark Green Bush Variety",
-   "price": 10.36,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127639461"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's Greenskin Zucchini Seeds - Early Bushy Variety, Heavy Cropping",
-   "price": 10.36,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127636127"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's Lebanese Zucchini Seeds - Sweet Tender Light-Skinned Variety, High Yield",
-   "price": 12.18,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127635937"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Ruffie Zucchini Frittata 2 pack",
    "price": 12.8,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/805078"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Johnsons World Kitchen Zucchini Striato D'Italia Seeds, Ridged Italian Variety",
-   "price": 12.99,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127638939"
   },
   {
    "retailer": "Woolworths",
@@ -9418,8 +9362,8 @@
   {
    "retailer": "Woolworths",
    "name": "The Odd Bunch Capsicum Prepacked 1kg",
-   "price": 5.5,
-   "price_per_kg": 5.5,
+   "price": 4.7,
+   "price_per_kg": 4.7,
    "url": "https://www.woolworths.com.au/shop/productdetails/825870"
   },
   {
@@ -9893,20 +9837,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mr Fothergill's Longwhite Bunching Shallot Seeds - Slender Silvery White Stalks",
-   "price": 8.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127635703"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's White Lisbon Spring Onion Seeds - Mild Quick-Growing Variety",
-   "price": 10.36,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127636131"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Velocity Kitten Chewing Toys, Scallion Felt Cat Biting Toys",
    "price": 17.93,
    "price_per_kg": null,
@@ -9939,6 +9869,13 @@
    "price": 23.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1126025573"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Green Onions",
+   "price": 35.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1117265701"
   },
   {
    "retailer": "Woolworths",
@@ -10062,7 +9999,7 @@
   {
    "retailer": "Woolworths",
    "name": "Lebanese Cucumbers each",
-   "price": 1.42,
+   "price": 1.6,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/137130"
   },
@@ -10334,13 +10271,6 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mr Fothergill's Tendergreen Dwarf Bean Seeds - 60cm Stringless Green Pods",
-   "price": 8.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127632367"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Fitness Outcomes Beef Rendang With Brown Rice & Green Beans 350g",
    "price": 9.5,
    "price_per_kg": 27.14,
@@ -10369,10 +10299,24 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Mrs Green - Magic Beans",
+   "price": 12.99,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1110608071"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Yates Snow Pea Climbing Seeds each",
    "price": 4.3,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/75186"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Snow Peas per 250g",
+   "price": 19.9,
+   "price_per_kg": 19.9,
+   "url": "https://www.woolworths.com.au/shop/productdetails/145843"
   },
   {
    "retailer": "Woolworths",
@@ -10387,13 +10331,6 @@
    "price": 6.8,
    "price_per_kg": 54.4,
    "url": "https://www.woolworths.com.au/shop/productdetails/117393"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's Sprouts Alive Snow Pea Seeds",
-   "price": 12.82,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127636089"
   },
   {
    "retailer": "Woolworths",
@@ -10628,6 +10565,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Tommy Bahama Siesta Key Queen Size Cotton Quilt Cover/2x Pillowcases Cantaloupe",
+   "price": 123.3,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1112999561"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Schweppes Zero Sugar Passion & Pineapple Sparkling Mineral Water 1.1L",
    "price": 1.95,
    "price_per_kg": null,
@@ -10695,13 +10639,6 @@
    "price": 2.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6063138"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Gatorade Fast Twitch Energy Drink Grape Sugar Free 350mL",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/6008580"
   },
   {
    "retailer": "Woolworths",
@@ -10793,6 +10730,13 @@
    "price": 3.5,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/6035702"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Zappo 4 Pack Grape 104g",
+   "price": 3.99,
+   "price_per_kg": 38.37,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1121319439"
   },
   {
    "retailer": "Woolworths",
@@ -11223,17 +11167,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mount Franklin Lightly Sparkling Water Raspberry 1.25L",
-   "price": 2.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/178132"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Only Organic 8 Months+ Banana Raspberry & Vanilla 120g",
    "price": 2.0,
    "price_per_kg": 16.67,
    "url": "https://www.woolworths.com.au/shop/productdetails/333290"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Mount Franklin Lightly Sparkling Water Raspberry 1.25L",
+   "price": 2.0,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/178132"
   },
   {
    "retailer": "Woolworths",
@@ -11391,6 +11335,13 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Rhubarb Fresh Bunch each",
+   "price": 6.2,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/147346"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "2PK Ladelle Carnival Stripe 11cm Stoneware Mug w/Handle Drink Cup Coffee Rhubarb",
    "price": 25.0,
    "price_per_kg": null,
@@ -11517,24 +11468,10 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Mr Fothergill's Early Purple Turnip Seeds - Quick-Growing Purple & White Roots",
-   "price": 8.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127632747"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "3PK Jarvis Walker 90mm Turnip Float Unweighted Foam Fishing Float",
    "price": 8.95,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1125244363"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Johnsons World Kitchen Turnip Japanese Tokyo Cross F1 Seeds, Fast Salad Turnip, Sun or Part Shade",
-   "price": 11.81,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127639319"
   },
   {
    "retailer": "Woolworths",
@@ -11584,34 +11521,6 @@
    "price": 4.3,
    "price_per_kg": 2150.0,
    "url": "https://www.woolworths.com.au/shop/productdetails/74038"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's French Breakfast Radish Seeds - Quick Crisp Long-Rooted Variety",
-   "price": 8.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127635701"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's Sparkler Radish Vegetable Seeds",
-   "price": 8.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127633769"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Mr Fothergill's Scarlet Globe Radish Vegetable Seeds",
-   "price": 8.55,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127636053"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Johnsons World Kitchen Daikon Mooli Radish Seeds, Long White Roots",
-   "price": 12.99,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/1127635327"
   },
   {
    "retailer": "Woolworths",
@@ -11686,7 +11595,7 @@
   {
    "retailer": "Woolworths",
    "name": "P&P 10X Pet Chewing Toys Corn Cob Radish Teething Sticks For Small Animals Hamsters",
-   "price": 29.95,
+   "price": 29.75,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/1125225169"
   },
@@ -11706,17 +11615,38 @@
   },
   {
    "retailer": "Woolworths",
+   "name": "Beatrix Potter by Jim Shore - Peter Rabbit Eating Radishes Figurine 14.5cm",
+   "price": 69.49,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1109468351"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Eminence Radish Seed Refining Peel 30ml/1oz 30ml/1oz",
+   "price": 93.48,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1127443570"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Commercial Vegetable Slicer, 3/8 inch Fruit Slicer, Stainless Steel and Aluminum Alloy Vegetable Cutter Slicer Machine, Manual Slicer with Non-slip Feet, for Radishes, Onions, Potatoes,",
+   "price": 106.6,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1121872109"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Commercial Vegetable Slicer, 3/8 inch Fruit Slicer, Stainless Steel and Aluminum Alloy Vegetable Cutter Slicer Machine, Manual Slicer with Non-slip Feet, for Radishes, Onions, Potatoes, Lemons",
+   "price": 107.06,
+   "price_per_kg": null,
+   "url": "https://www.woolworths.com.au/shop/productdetails/1127614567"
+  },
+  {
+   "retailer": "Woolworths",
    "name": "Buk Choy Asian Greens each",
    "price": 3.0,
    "price_per_kg": null,
    "url": "https://www.woolworths.com.au/shop/productdetails/134801"
-  },
-  {
-   "retailer": "Woolworths",
-   "name": "Woolworths Baby Buk Choy Asian Greens each",
-   "price": 3.0,
-   "price_per_kg": null,
-   "url": "https://www.woolworths.com.au/shop/productdetails/135037"
   },
   {
    "retailer": "Woolworths",
@@ -11909,17 +11839,17 @@
   },
   {
    "retailer": "Woolworths",
-   "name": "Maharajah's Choice Garlic Pappadams 100g",
-   "price": 2.0,
-   "price_per_kg": 20.0,
-   "url": "https://www.woolworths.com.au/shop/productdetails/3925"
-  },
-  {
-   "retailer": "Woolworths",
    "name": "Woolworths Garlic Granules 45g",
    "price": 2.0,
    "price_per_kg": 44.44,
    "url": "https://www.woolworths.com.au/shop/productdetails/251014"
+  },
+  {
+   "retailer": "Woolworths",
+   "name": "Maharajah's Choice Garlic Pappadams 100g",
+   "price": 2.0,
+   "price_per_kg": 20.0,
+   "url": "https://www.woolworths.com.au/shop/productdetails/3925"
   },
   {
    "retailer": "Woolworths",
